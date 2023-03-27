@@ -2,7 +2,7 @@
  * Change the index and namespace to your own
  */
 
-const PINECONE_INDEX_NAME = 'test';
+const PINECONE_INDEX_NAME = 't-1536';
 
 const PINECONE_NAME_SPACE = 'test'; //namespace is optional for your vectors
 
