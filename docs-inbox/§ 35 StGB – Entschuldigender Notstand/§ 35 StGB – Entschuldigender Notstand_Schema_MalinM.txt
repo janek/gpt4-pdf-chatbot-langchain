@@ -1,0 +1,49 @@
+﻿%	§ 35 StGB – Entschuldigender Notstand
+	Schema
+
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	2. Subjektiver Tatbestand
+
+%	II. Rechtswidrigkeit
+%	III. Schuld
+%	1. Objektive Voraussetzungen
+%	a. Notstandslage
+	Gefordert ist eine gegenwärtige, nicht anders abwendbare Gefahr für Leben, Leib oder Freiheit (Fischer, 67. Auflage 2020, § 35 Rn. 2ff.).
+
+%&	aa. Notstandsfähiges Rechtsgut
+	Nur die Rechtsgüter Leben, Leib und Freiheit fallen unter § 35 StGB. 
+	Anders als § 34 StGB, der strukturell dem § 35 StGB entspricht, ist der Anwendungsbereich bei § 35 StGB abschließend und deshalb also deutlich enger. 
+
+%&	bb. Gefahr für das Rechtsgut
+	Eine &Gefahr& ist ein Zustand, in dem aufgrund tatsächlicher Umstände die Wahrscheinlichkeit des Eintritts eines schädigenden Ereignisses besteht.
+
+%&	cc. Gegenwärtigkeit der Gefahr
+	Eine Gefahr ist &gegenwärtig&, wenn bei natürlicher Weiterentwicklung der Dinge der Eintritt eines Schadens sicher oder doch höchstwahrscheinlich ist, falls nicht alsbald Abwehrmaßnahmen ergriffen werden.
+
+%&	dd. Nähebeziehung
+	Die Gefahr muss für den Täter selbst, einen Angehörigen oder einer anderen dem Täter nahestehenden Person bestehen (Nähebeziehung).
+
+%	b. Notstandshandlung
+	Durch die Handlung wird ein Rechtsgut gerettet und entsprechend ein anderes Rechtsgut geopfert.
+
+%&	aa. Erforderlichkeit
+	Eine Handlung ist dann &erforderlich&, wenn sie zum einen geeignet ist, die Gefahr abzuwenden und darüber hinaus das mildeste zur Verfügung stehende Mittel darstellt.
+
+%&	bb. Hinnahme der Gefahr nicht zumutbar (Unzumutbarkeitsklausel), vgl. § 35 I S. 2 StGB
+	Anders als in § 34 StGB findet im Rahmen des § 35 StGB keine Abwägung statt. Vielmehr gibt das Gesetz vor, wann der Täter die Gefahr hinzunehmen hat. In folgenden Fällen ist dem Täter die Gefahr nicht zumutbar (Perron in: Schönke/Schröder, 30. Aufl. 2019 Rn. 3 ff., StGB § 35 Rn. 18 ff.):
+
+TAB%	(1)% Keine (pflichtwidrige) Selbstverursachung der Gefahr
+TAB%	(2)% Kein besonderes Rechtsverhältnis mit erhöhter Gefahrtragungspflicht (aus z.B. Garantenstellung)
+TAB%	(3)% Besonderes Rechtsverhältnis des Gefährdeten (z.B. Soldaten, Polizisten, Ärzte, Feuerwehr)
+
+%	2. Subjektiver Voraussetzungen
+	Der Täter muss mit Abwendungswillen/Rettungswillen gehandelt haben, mithin in Kenntnis und aufgrund der Notlage.
+
+
+%	Quellen:
+	Perron in: Schönke/Schröder, 30. Aufl. 2019, StGB § 35 Rn. 18 ff.
+	Fischer, 67. Auflage 2020, § 35 Rn. 2 ff.
+
+
+&	09.08.2022

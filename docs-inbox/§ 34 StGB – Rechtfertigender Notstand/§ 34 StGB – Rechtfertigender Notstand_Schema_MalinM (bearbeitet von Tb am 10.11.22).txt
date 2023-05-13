@@ -1,0 +1,72 @@
+﻿%	§ 34 StGB – Rechtfertigender Notstand
+	Schema
+
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	2. Subjektiver Tatbestand
+
+%	II. Rechtswidrigkeit
+%	Merke:% Vor der Prüfung des § 34 StGB ist zumindest kurz (chronologisch) der Defensivnotstand (§ 228 BGB) und der Aggressivnotstand (§ 904 BGB) anzudenken. Erst dann wird der § 34 StGB geprüft.
+
+%	1. Objektiver Rechtfertigungstatbestand
+%	a. Notstandslage
+	Gefordert ist eine gegenwärtige, nicht anders abwendbare Gefahr für ein vom Gesetz aufgezähltes oder ein anderes Rechtsgut des Verteidigenden oder eines Dritten.
+
+%&	aa. Notstandsfähiges Rechtsgut
+	Der Gesetzeswortlaut lautet: „Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut“.
+
+%&	bb. Gefahr für das Rechtsgut
+	Eine &Gefahr& ist ein Zustand, in dem aufgrund tatsächlicher Umstände die Wahrscheinlichkeit des Eintritts eines schädigenden Ereignisses besteht.
+
+	Hiervon sind z.B. auch unproblematisch Dauergefahren erfasst (Haustyrannenfall).
+
+%&	cc. Gegenwärtigkeit der Gefahr
+	Eine Gefahr ist &gegenwärtig&, wenn bei natürlicher Weiterentwicklung der Dinge der Eintritt eines Schadens sicher oder doch höchstwahrscheinlich ist, falls nicht alsbald Abwehrmaßnahmen ergriffen werden.
+
+%	b. Notstandshandlung
+	Durch die Notstandshandlung wird ein Rechtsgut gerettet und entsprechend ein anderes Rechtsgut geopfert.
+
+%&	aa. Erforderlichkeit
+	Eine Handlung ist dann &erforderlich&, wenn sie zum einen geeignet ist die Gefahr abzuwenden und darüber hinaus das mildeste zur Verfügung stehende Mittel darstellt.
+
+%&	bb. Güter- und Interessenabwägung (= Verhältnismäßigkeit)
+	Ein Eingriff ist dann &verhältnismäßig&, wenn das geschützte Interesse das beeinträchtigte Interesse wesentlich überwiegt.
+
+%	P:% Nötigungsnotstand 
+	Das Problem des Nötigungsnotstands beschreibt den Fall, in dem der Täter durch einen anderen gem. § 240 StGB zu seiner rechtswidrigen Tat genötigt wird (MüKoStGB/Erb, § 34 Rn. 191 ff.).
+
+&	Beispiel: 
+	A sagt zu B: „Wenn du nicht die Brieftasche von X stiehlst, werde ich dich verprügeln“. Anschließend stiehlt B die Brieftasche von X (§ 242 StGB). Kann B hier gem. § 34 StGB gerechtfertigt sein? 
+
+TAB&	Meinung 1: 
+TAB	In solchen Fällen ist der Täter gem. § 34 StGB gerechtfertigt, da seinen Interessen schützenswerter sind. 
+
+TAB&	Argumente:
+TAB	Der Wortlaut und eine klassische Subsumtion unter § 34 StGB / § 904 BGB erfassen diesen Fall, da eine Gefahr für Rechtsgüter des Täters besteht. Den Dritten trifft außerdem eine Solidaritätspflicht gegenüber dem genötigten Täter. Andernfalls muss der Täter gegebenenfalls höchstpersönliche Rechtsgüter preisgeben.
+
+
+TAB&	Meinung 2:
+TAB	Der Täter ist mangels überwiegender Interessenabwägung nicht gem. § 34 StGB gerechtfertigt. 
+
+TAB&	Argumente:
+TAB	Wäre der Täter hier gem. § 34 StGB gerechtfertigt, könnte der Nötigende nie Teilnehmer im Sinne von §§ 26, 27 StGB sein, da keine vorsätzliche und rechtswidrige Haupttat vorläge. Daher ist die Anwendung von § 35 StGB in solchen Fällen sachgerechter.
+
+TAB&	Beachte: 
+TAB	Das Problem des Nötigungsnotstandes kann auch im Rahmen von §§ 228, 904 BGB auftreten. 
+
+
+%&	cc. Angemessenheit des Mittels
+
+%	2. Subjektiver Rechtfertigungstatbestand
+	Der Täter muss mit Abwendungswillen/Rettungswillen gehandelt haben. Er muss also handeln, um die Gefahr von sich oder einem bedrohten Anderen abzuwenden bzw. abzuschwächen, was voraussetzt, dass er somit in &Kenntnis und aufgrund der Notlage handelt.
+
+	Andere Motive können parallel bestehen.
+
+%	III. Schuld
+
+
+%	Quellen:
+	Fischer, 67. Aufl. 2020, § 34 Rn. 2 ff.
+
+
+&	22.11.2022

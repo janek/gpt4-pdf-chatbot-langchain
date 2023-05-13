@@ -1,0 +1,42 @@
+﻿§§ 142, 119 ff. BGB – Anfechtung
+Definitionen
+
+Irrtum
+Ein Irrtum ist jedes unbewusste Auseinanderfallen von Willen und Erklärung.
+
+Erklärungsirrtum, § 119 I BGB
+Ein Erklärungsirrtum liegt vor, wenn der Erklärende sich zwar sicher ist, was er erklären möchte, allerdings bei Abgabe der Erklärung irrt, indem er sich verschreibt, vertippt, verspricht. „Er weiß nicht, was er sagt“.
+
+Offener Kalkulationsirrtum
+Beim offenen Kalkulationsirrtum wird aus der Willenserklärung oder aus den Begleitumständen deutlich, dass ein Fehler in der Berechnung vorliegt. Hier kommt oft die Auslegung zu dem Ergebnis, dass der Irrtum unbeachtlich ist („falsa demonstratio non nocet“), also das wirklich Gemeinte gilt.
+
+Verdeckter Kalkulationsirrtum
+Ein verdeckte Kalkulationsirrtum liegt vor, wenn dem anderen Teil gerade nicht bewusst ist, dass sich der andere irrt, z.B. wenn sich der Erklärende verrechnet, aber seine Berechnungsgrundlage nicht offenlegt. 
+
+Inhaltsirrtum, § 119 I BGB
+Ein Inhaltsirrtum liegt vor, wenn der Erklärende weiß, was er ausdrücken möchte, aber über den Bedeutungsgehalt seiner Aussage irrt. „Er weiß nicht, was er damit sagt“.
+
+Eigenschaftsirrtum, § 119 II BGB
+Ein Eigenschaftsirrtum liegt vor, wenn der Erklärende über eine Eigenschaft einer Sache oder einer Person irrt, welche verkehrswesentlich sind.
+
+Eigenschaften
+Eigenschaften einer Sache oder einer Person sind alle wertbildenden Faktoren, die dem Gegenstand unmittelbar anhaften, nicht jedoch der Wert der Sache selbst.
+
+Verkehrswesentlichkeit
+Eigenschaften sind dann verkehrswesentlich, wenn sie nach allgemeiner Verkehrsanschauung für das konkrete Rechtsgeschäft von wesentlicher Bedeutung sind.
+
+Motivirrtum
+Ein Motivirrtum ist ein Irrtum über einen konkreten Beweggrund, dieser ist grundsätzlich unbeachtlich.
+
+Arglistige Täuschung, § 123 I Alt. 1 BGB
+Eine Täuschung ist jede Unterdrückung von wahren oder Vorspielen von unwahren Tatsachen, wodurch ein Irrtum hervorgerufen wird. Tatsachen sind Umstände, die dem Beweis zugänglich sind. Unter Arglist versteht man Vorsatz.
+
+Widerrechtliche Drohung, § 123 I Alt. 2 BGB
+Eine Drohung ist jedes in Aussicht stellen eines künftigen Übels, worauf der Drohende vorgibt Einfluss zu haben. Widerrechtlich ist die Drohung dann, wenn sie gegen die Rechtsordnung verstößt.
+
+Ohne schuldhaftes Zögern
+Unverzüglich, vgl. § 121 BGB.
+
+Fehleridentität
+Damit ein Fall der Fehleridentität vorliegen kann, muss zum einen die Willenserklärung gerichtet auf das Verpflichtungsgeschäft und auf der anderen Seite die Willenserklärung gerichtet auf das Verfügungsgeschäft unter demselben Mangel leiden und eben dieser Mangel kausal für beide Geschäfte sein. Da Verpflichtungs- und Verfügungsgeschäft gleichermaßen fehlerhaft sind, erfasst der Fehler eben beide Geschäfte, weshalb beide Geschäfte anfechtbar sind. Fehleridentität ist meist in Fällen der arglistigen Täuschung und Drohung nach § 123 BGB anzunehmen.
+

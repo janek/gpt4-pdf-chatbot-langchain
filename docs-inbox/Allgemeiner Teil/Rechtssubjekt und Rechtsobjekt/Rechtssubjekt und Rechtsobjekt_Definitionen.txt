@@ -1,0 +1,26 @@
+﻿Rechtssubjekt und Rechtsobjekt
+Definitionen
+
+Rechtssubjekt
+Unter einem Rechtssubjekt versteht man einen Träger subjektiver Rechte und Pflichten, also eine Person, die Rechtshandlungen vornehmen kann. Man unterscheidet zwischen natürlichen und juristischen Personen.
+
+Rechtsobjekt
+An einem Rechtsobjekt können Rechtssubjekte Rechte haben. Es handelt sich um einen Rechtsgegenstand (bspw. eine Sache nach § 90 BGB oder Schutzrechte des Gewerblichen Rechtsschutzes …).
+	
+Rechtsfähigkeit
+Die Rechtsfähigkeit beschreibt die Fähigkeit, Träger von Rechten und Pflichten sein zu können. Sie beginnt bei natürlichen Personen (!) mit der Beendigung der Geburt, § 1 BGB. Juristische Personen erlangen Rechtsfähigkeit z.B. durch die Eintragung ins Handelsregister.
+
+Absolute Rechte
+Absolute Rechte wirken gegen jedermann. Der Rechtsinhaber (z.B. Eigentümer) kann jeden von der Benutzung seines Rechts ausschließen.
+
+Relative Rechte
+Relative Rechte wirken lediglich relativ gegenüber bestimmten Personen. Von diesen kann der Rechteinhaber ein Tun oder Unterlassen fordern.
+
+Gestaltungsrecht
+Ein Gestaltungsrecht ist ein relatives subjektives Recht, welches dem Inhaber ermöglicht, durch einseitige Handlungen eine Rechtsänderung herbeizuführen (z.B. Kündigung, Rücktritt, Anfechtung …), also auf ein bestehendes Rechtsverhältnis einzuwirken.
+
+Bewegliche (körperliche) Gegenstände
+Bewegliche (körperliche) Gegenstände sind solche, die weder Grundstücke sind und auch nicht mit einem Grundstück fest verbunden sind.
+
+Unbewegliche (körperliche) Gegenstände
+Unbewegliche (körperliche) Gegenstände sind Grundstücke und die mir einem Grundstück fest verbundenen Gegenstände.

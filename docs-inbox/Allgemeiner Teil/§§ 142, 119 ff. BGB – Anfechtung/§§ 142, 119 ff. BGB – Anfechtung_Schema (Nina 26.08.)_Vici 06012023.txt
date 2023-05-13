@@ -1,0 +1,139 @@
+﻿%	§§ 142, 119 ff. BGB – Anfechtung
+	Schema
+
+%	Merke:% Die Anfechtung ist ein Gestaltungsrecht, muss also erklärt werden, vgl. § 143 BGB. Nach wirksamer Anfechtung ist das angefochtene Rechtsgeschäft als von Anfang an (ex tunc = rückwirkend) als nichtig anzusehen, vgl. § 142 BGB. Somit wird die Anfechtung als rechtsvernichtende Einwendung im Rahmen des Punktes „Anspruch nicht erloschen“ geprüft. Ganz wichtig ist es, das Trennungs- und Abstraktionsprinzip zu beachten.
+
+%	I. Anspruch entstanden
+%	II. Anspruch nicht erloschen
+	Die Anfechtung wird als rechtsvernichtende Einwendung im Rahmen „Anspruch nicht erloschen“ geprüft.
+
+%	1. Anwendbarkeit
+	Eine Anfechtung wegen einem Eigenschaftsirrtum nach § 119 II BGB wird im Kaufrecht von den spezielleren Normen §§ 434 ff. BGB verdrängt.
+
+%	2. Zulässigkeit
+	Anfechtbar sind Willenserklärungen. Für geschäftsähnliche Handlungen sind die Regelungen analog anzuwenden. Ein Realakt ist nicht anfechtbar.
+
+%	3. Anfechtungsgrund
+	Ein &Irrtum& ist jedes unbewusste Auseinanderfallen von Willen und Erklärung.
+
+%	a. Erklärungsirrtum, § 119 I BGB
+	Ein &Erklärungsirrtum& liegt vor, wenn der Erklärende sich zwar sicher ist, was er erklären möchte, allerdings bei Abgabe der Erklärung irrt, indem er sich verschreibt, vertippt, verspricht. „Er weiß nicht, was er sagt“ (JuS 2014, 491 (493)).
+
+	Weiter ist eine Kausalität zwischen dem Irrtum und dem Inhalt der Erklärung zu prüfen.
+
+TAB%	P:% Kalkulationsirrtum (Berechnungsirrtum; vgl. NJW 1998, 3192)
+
+	Der Kalkulationsirrtum kann als &offener& und &verdeckter& Kalkulationsirrtum auftauchen. 
+
+	Beim &offenen Kalkulationsirrtum& wird aus der Willenserklärung oder aus den Begleitumständen deutlich, dass ein Fehler in der Berechnung vorliegt. Hier kommt oft die Auslegung zu dem Ergebnis, dass der Irrtum unbeachtlich ist („falsa demonstratio non nocet“), also das wirklich Gemeinte gilt. 
+
+	Ist dies nicht der Fall, so ist str., ob der Erklärende anfechten kann. 
+
+TAB&	Herrschende Meinung:
+TAB	Nach der herrschenden Meinung kommt eine Anfechtung nicht in Betracht, da es sich um einen Fehler in der Willensbildung, nicht in der Willensäußerung handelt. Somit handelt es sich um einen bloßen Motivirrtum, das Risiko trägt der Erklärende (Jauernig/Mansel, § 119 Rn. 10). 
+
+TAB	Eine Ausnahme kommt in Betracht, wenn durch die falsche Berechnung die Geschäftsgrundlage für die Parteien wegfällt (§ 313 BGB) oder die fehlende Anfechtung für den Erklärenden ruinöse Folgen hätte (§ 242 BGB). 
+
+TAB&	Andere Ansicht:
+TAB	Nach einer anderen Ansicht erfolgt die Anfechtung nach § 119 I BGB (Inhaltsirrtum), da es keinen Unterschied mache, ob sich derjenige verspricht oder verrechnet (RGZ 105, 406 ff).
+
+	Auch der &verdeckte Kalkulationsirrtum& ist in seiner Behandlung umstritten. Er liegt vor, wenn dem anderen Teil gerade nicht bewusst ist, dass sich der andere irrt, z.B. wenn sich der Erklärende verrechnet, aber seine Berechnungsgrundlage nicht offenlegt. 
+ 
+TAB&	Herrschende Meinung:
+TAB	Hier geht die ganz herrschende Meinung davon aus, dass es sich um einen unbeachtlichen Motivirrtum handelt, der nicht zur Anfechtung berechtigt. Eine Ausnahme wird zumeist nur dann gemacht, wenn ansonsten ruinöse Folgen für den Erklärenden drohen, § 242 BGB (BGH NJW 1998, 3192).
+
+TAB&	Mindermeinung:
+TAB	Eine Mindermeinung diskutiert, ob man nicht auch dann eine Ausnahme machen kann, wenn der andere Teil hätte erkennen müssen, dass sich der Erklärende verrechnet hat. Dies wird jedoch abgelehnt, da dies dem Risikobereich des Erklärenden zuzuordnen ist (BGH NJW 1998, 3192).
+
+
+%	b. Inhaltsirrtum, 119 I BGB
+	Ein &Inhaltsirrtum& liegt vor, wenn der Erklärende weiß, was er ausdrücken möchte, aber über den Bedeutungsgehalt seiner Aussage irrt. „Er weiß nicht, was er damit sagt“ (JuS 2014, 491 (493)).
+
+TAB&	Beispiel: 
+TAB	C bestellt an der Fleischtheke 500g Hackepeter und bekommt anstatt ganz normalen Hackfleischs, mit dem er Bolognese kochen wollte, gewürztes Hackfleisch, welches roh auf Brot gegessen wird.
+
+	Weiter ist eine Kausalität zwischen dem Irrtum und dem Inhalt der Erklärung zu prüfen.
+
+%	c. Eigenschaftsirrtum, § 119 II BGB
+	Ein &Eigenschaftsirrtum& liegt vor, wenn der Erklärende über eine Eigenschaft einer Sache oder einer Person irrt, welche verkehrswesentlich sind (JuS 2014, 491 (493)).
+
+	&Eigenschaften& einer Sache oder einer Person sind alle wertbildenden Faktoren, die dem Gegenstand unmittelbar anhaften, nicht jedoch der Wert der Sache selbst.
+
+	Eigenschaften sind dann &verkehrswesentlich&, wenn sie nach allgemeiner Verkehrsanschauung für das konkrete Rechtsgeschäft von wesentlicher Bedeutung sind.
+
+TAB&	Beispiel: 
+TAB	A kauft von C auf dem Flohmarkt eine Tasche, in dem Glauben, dass sie eine echtes Designerobjekt zum Spottpreis ergattert. Tatsächlich ist sie Teil der Marke LariVittein.
+
+	Weiter ist eine Kausalität zwischen dem Irrtum und dem Inhalt der Erklärung zu prüfen.
+
+TAB%	P:% Doppelirrtum 
+TAB%	P:% Motivirrtum (BGH NJW 2008, 2442 Rn. 15; MüKoBGB/Armbrüster, 9. Aufl. 2021, BGB § 119 Rn. 108)
+
+TAB	Zu %P:% Doppelirrtum 
+TAB	Streitig ist, wie mit dem Fall umgegangen wird, dass sich beide Parteien über eine verkehrswesentliche Eigenschaft irren. (Bitter/Röder, BGB Allgemeiner Teil, 5. Auflage 2020, S. 105, Rn. 118 ff.)
+
+TAB	Nach der &herrschenden Meinung& sollen die Regeln über die Änderung der Geschäftsgrundlage angewendet werden (BGH NJW 1958, 297 (298)). Denn wenn beide Parteien demselben Eigenschaftsirrtum unterliegen, ist es nur eine Frage der Zeit, vgl. § 121 I 1 BGB, welche Partei zuerst Kenntnis von dem Irrtum erlangt und anficht. Dieser Zufälligkeit und einem Schadensersatzanspruch gem. § 122 BGB unterliegt dann die andere Partei (Stadler, Astrid: Allgemeiner Teil des BGB, 20. Auflage, § 25, Rn. 95 ff.).
+
+TAB	Nach einer &anderen Ansicht& soll ganz normal angefochten werden können, dh auf den beiderseitigen Doppelirrtum die §§ 119, 142 BGB angewandt werden. Dieser Ansicht nach profitiert eine Partei von dem Irrtum, während die andere einen Schaden trägt. Daher ist es nicht zufällig, wer anficht und gerecht, dass die profitierende Partei zum Ersatz des Vertrauensschadens verpflichtet ist (Medicus/Petersen: Allgemeiner Teil des BGB, 11. Auflage, 2016, Rn. 778).
+
+TAB	&Für die Klausur& bietet es sich an, nicht starr die Ansichten anzuwenden, sondern dazwischen zu differenzieren, ob die Kausalität des Irrtums für die Abgabe der Willenserklärung vorliegt. Nur dann ist eine Partei zur Anfechtung berechtigt.
+
+TAB	Wenn, wie oben im Beispiel C der A eine Tasche verkauft und beide davon ausgehen, dass es lediglich ein „fake“ ist, sie tatsächlich aber eine echte LouisVuitton Tasche ist, dann ist leicht ersichtlich, wer am Vertrag festhalten will (A) und wer die Anfechtung erklären wollen würde (C). Und auch nur für V ist der Irrtum kausal für die Abgabe der Willenserklärung gewesen, sodass nur ihrerseits die Voraussetzungen einer Anfechtung vorliegen. Demnach ist sie dann auch schadensersatzpflichtig gemäß § 122 BGB.
+
+TAB	In Fällen, in denen wiederum die Kausalität des Irrtums für die Abgabe beider Willenserklärungen zu bejahen ist, ist zwischen den Ansichten zu entscheiden und nach der herrschenden Meinung das Prüfungsschema des § 313 BGB heranzuziehen.
+
+TAB	Zu %P:% Motivirrtum
+TAB	Ein &Motivirrtum& ist ein Irrtum über einen konkreten Beweggrund, dieser ist grundsätzlich unbeachtlich. Kauft der B nämlich seiner Freundin einen Verlobungsring, diese möchte aber lieber noch um die Welt reisen und sich nicht verloben, so ist der Kaufvertrag nicht anfechtbar  (MüKoBGB/Armbrüster, § 119 Rn. 113, 114).
+
+%	d. Übermittlungsirrtum, § 120 BGB
+%	e. Arglistige Täuschung, § 123 I Alt. 1 BGB
+	Eine &Täuschung& ist jede Unterdrückung von wahren oder Vorspielen von unwahren Tatsachen, wodurch ein Irrtum hervorgerufen wird.
+
+	&Tatsachen& sind Umstände, die dem Beweis zugänglich sind
+
+	Unter &Arglist& versteht man Vorsatz.
+
+	Weiter ist eine Kausalität zwischen der Täuschung, dem Irrtum und der Abgabe der Willenserklärung zu prüfen.
+
+%	f. Widerrechtliche Drohung, § 123 I Alt. 2 BGB
+	Eine &Drohung& ist jedes in Aussicht stellen eines künftigen Übels, worauf der Drohende vorgibt Einfluss zu haben.
+
+	&Widerrechtlich& ist die Drohung dann, wenn sie gegen die Rechtsordnung verstößt.
+
+	Weiter ist eine Kausalität zwischen der Drohung und der Abgabe der Willenserklärung zu prüfen.
+
+%	4. Anfechtungserklärung gegenüber dem richtigen Anfechtungsgegner, § 143 I BGB
+
+%	5. Anfechtungsfrist
+	In den Fällen des §§ 119, 120 BGB hat die Anfechtung &ohne schuldhaftes Zögern& (unverzüglich) zu erfolgen, vgl. § 121 BGB.
+
+	In den Fällen des § 123 BGB kann die Anfechtung nur binnen Jahresfrist erfolgen, vgl. § 124 I BGB.
+
+%	6. Kein Ausschluss der Anfechtung
+	&Bsp.:& § 121 II BGB oder § 144 BGB (Bestätigung)
+
+%	7. Rechtsfolge: Nichtigkeit ex tunc gemäß § 142 I BGB
+	Nach wirksamer Anfechtung ist das angefochtene Rechtsgeschäft als von Anfang an (ex tunc = rückwirkend) als nichtig anzusehen, vgl. § 142 BGB (Jauernig/Mansel, § 142 Rn. 3).
+
+TAB%	P:% Fehleridentität
+TAB	Damit ein Fall der &Fehleridentität& vorliegen kann, muss zum einen die Willenserklärung gerichtet auf das Verpflichtungsgeschäft und auf der anderen Seite die Willenserklärung gerichtet auf das Verfügungsgeschäft unter demselben Mangel leiden und eben dieser Mangel kausal für beide Geschäfte sein. Es handelt sich streng genommen nicht um eine Ausnahme vom Abstraktionsprinzip, da Verpflichtungsgeschäft und Verfügungsgeschäft immer noch unabhängig voneinander sind. Da aber Verpflichtungs- und Verfügungsgeschäft gleichermaßen fehlerhaft sind, erfasst der Fehler eben beide Geschäfte, weshalb beide Geschäfte anfechtbar sind. Fehleridentität ist meist in Fällen der arglistigen Täuschung und Drohung nach § 123 BGB anzunehmen (Jauernig/Mansel, § 142 Rn. 14 ff.; JuS 2016, 673).
+
+%	III. Anspruch durchsetzbar
+
+
+%	Quellen:
+	NJW 1998, 3192 – Zum Problem des Kalkulationsirrtums.
+	JuS 2014, 491 – Umfassende Erläuterung einzelner Irrtumskonstellationen inkl. Beispielen.
+	BGH NJW 2008, 2442 Rn. 15.
+	Stadler, Astrid: Allgemeiner Teil des BGB, 20. Auflage, § 25, Rn. 95.
+	Medicus/Petersen: Allgemeiner Teil des BGB, 11. Auflage, 2016.
+	MüKoBGB/Armbrüster, 9. Aufl. 2021, BGB § 119 Rn. 108, 113 f.
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 119 Rn. 10; § 142 Rn. 3, 14 ff. 
+	RGZ 105, 406 ff.
+	BGH NJW 1998, 3192.
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 142 Rn. 3, 14 ff.
+	JuS 2016, 673 – Zum Problem des Abstraktionsprinzips bei Fehleridentität.
+
+
+
+&	21.01.2023

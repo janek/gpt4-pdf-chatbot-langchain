@@ -1,0 +1,122 @@
+﻿%	§ 26 StGB – Anstiftung
+	Schema
+
+%	A. Strafbarkeit des Haupttäters
+%	B. Strafbarkeit des weiteren Beteiligten als Anstifter
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	a. Taugliche Vortat
+	Es muss eine (zumindest versuchte) vorsätzliche und rechtswidrige Haupttat vorliegen.
+	Die Haupttat muss nicht schuldhaft begangen worden sein. Ein Rücktritt des Vordermannes ändert nichts an dem Vorsatz und der Rechtswidrigkeit der Haupttat.
+
+%	b. Bestimmen
+	Der Anstifter muss den Täter zur Haupttat bestimmen.
+
+&	Bestimmen& ist das Hervorrufen des Tatentschlusses (Fischer, 67. Aufl. 2020, StGB § 26 Rn. 4 f.).
+	
+%	P:% Was heißt „Bestimmen“ 
+%	P:% Omnimodo facturus
+%	P:% Aufstiftung / Hochstiftung
+%	P:% Abstiftung
+   
+	Zu %P:% Was heißt „Bestimmen“?
+	In manchen Fällen ist nicht klar, ob der Täter jemand anderen zu einer Straftat bestimmt hat oder nicht. Dann ist als Vorfrage zu problematisieren, was „Bestimmen“ im Sinne von § 26 StGB überhaupt bedeutet (MüKoStGB/Joecks/Scheinfeld, § 26 Rn. 10 ff.).
+
+TAB&	Meinung 1: 
+TAB	Nach einer Ansicht ist „Bestimmen“ jedes Kausale Verhalten (weite Auslegung). 
+
+TABTAB&	Argumente: 
+TABTAB	Dafür spricht der Begriff des Bestimmens, welcher wertneutral ist und deshalb weit ausgelegt werden kann. Außerdem können nicht kommunikative Akte in manchen Fällen sogar „verführerischer“ sein als bloße verbale Aufforderung. Zum Beispiel, wenn A aus dem Portemonnaie des B einige Scheine leicht herauszieht, in der Hoffnung, dass der in Geldnöten steckende C diese wegnimmt.
+
+TAB&	Meinung 2:
+TAB	Eine andere Ansicht fordert für ein „Bestimmen“ stets einen sog. „Unrechtspakt“ zwischen Haupttäter und Anstifter (enge Auslegung). 
+
+TABTAB&	Argumente: 
+TABTAB	Für eine solche enge Auslegung spricht, dass der Anstifter wie der Haupttäter bestraft wird.
+
+TAB&	Meinung 3:
+TAB	Eine letzte Ansicht argumentiert, dass ein rein kommunikativer Akt genügt, dieser aber auch erforderlich ist (vermittelnde Auslegung). 
+
+TABTAB&	Argumente:
+TABTAB	Diese Ansicht stellt eine sachgerechte Interessenabwägung der ersten beiden Meinungen dar. Außerdem ist so eine klare Abgrenzung zur mittelbaren Täterschaft gewährleistet.
+
+
+	Zu %P:% Omnimodo facturus
+	Ein bereits zur Tat fest Entschlossener (omnimodo facturus) kann nicht mehr angestiftet werden. In Betracht kommt nur versuchte Anstiftung nach § 30 StGB, eine Umstiftung zu einem völlig anderen Tatbestand oder eine psychische Beihilfe.
+
+
+	Zu %P:% Aufstiftung / Hochstiftung
+	Problematisch ist, wie eine sog. Aufstiftung rechtlich zu behandeln ist. Hierbei wird ein zu einem Grunddelikt entschlossener Haupttäter zur Verwirklichung einer Qualifikation angestiftet (MüKoStGB/Joecks/Scheinfeld, § 26 Rn. 41 ff.).
+
+	Beispiel:& A will dem B sein Handy stehlen. C kann den A davon überzeugen, für die Tat einen Baseballschläger mitzunehmen und den B vor Wegnahme des Handys ordentlich zu verprügeln.
+
+TAB&	Meinung 1:
+TAB	Nach einer Ansicht ist eine Aufstiftung nur strafbar wegen dem "Mehr an Unrecht", welches der Aufstifter verursacht hat. Bezüglich der sonstigen Tat liege nur psychische Beihilfe vor. 
+
+TABTAB&	Argumente: 
+TABTAB	Für diese Ansicht spricht, dass so Strafbarkeitslücken vermieden werden können.
+
+TAB&	Meinung 2: 
+TAB	Nach einer anderen Ansicht ist eine Aufstiftung wie eine Anstiftung wegen der "ganzen" Tat zu behandeln. 
+
+TABTAB&	Argumente: 
+TABTAB	Dafür spricht vor allem, dass der Aufstifter zu dieser Tat schließlich angestiftet hat. Diese Beurteilung der Aufstiftung ist auch gerechtfertigt, da durch eine Aufstiftung der Unrechtsgehalt einer Tat massiv erhöht werden kann, wie auch am oberen Beispiel zu sehen ist.
+
+
+	Zu %P:%  Abstiftung
+	Wird ein bereits zur Begehung eines qualifizierten Delikts Entschlossener „abgestiftet“, sodass dieser nur noch das Grunddelikt begehen möchte, liegt keine Anstiftung vor, da der Täter bezogen auf das Grunddelikt bereits omnimodo facturus ist. Eine psychische Beihilfe scheitert an dem Grundsatz der Risikoverringerung.
+
+%	2. Subjektiver Tatbestand
+%	a. Vorsatz bezogen auf die (Vollendung) der Haupttat
+	Der Anstifter muss Vorsatz zumindest bezogen auf die Grundzüge der Tat, die wesentlichen Merkmale der Tat und auf mögliche Täter haben. Den Kausalverlauf muss er in seinen wesentlichen Zügen erfasst haben.
+
+%	P:% Zurechnung eines Exzesses des Haupttäters
+%	P:% Error in persona des Haupttäters
+
+	Zu %P:& Zurechnung eines Exzesses des Haupttäters
+	Wie auch der Mittäter muss sich der Anstifter den Exzess des Haupttäters nicht zurechnen lassen (MüKoStGB/Joecks/Scheinfeld, § 26 Rn. 66).
+
+	&Beispiel: 
+	Stiftet A den B zu einem bloßen Diebstahl an, ist er nur wegen Anstiftung zum Diebstahl und nicht wegen Anstiftung zum Raub strafbar, falls B einen solchen begeht.
+
+
+	Zu %P:% Error in persona des Haupttäters
+	Problematisch ist, ob der Anstifter Vorsatz auf die Begehung der Haupttat) hat, wenn der Haupttäter einem error in objecto / error in persona unterliegt (MüKoStGB/Joecks/Scheinfeld, § 26 Rn. 87 ff.).
+
+	&Beispiel: 
+	A sagt zu B, dass er den C töten soll. Stattdessen tötet B den D, welchen er für C hält. Hat A Vorsatz auf die Haupttat des B? 
+
+TAB&	Meinung 1: 
+TAB	Nach einer Ansicht liegt in solchen Fällen kein Vorsatz des Anstifters vor, da für den Anstifter gem. § 16 I StGB ein Irrtum über den Kausalverlauf in Form einer aberratio ictus vorliegt. 
+
+TABTAB&	Argumente: 
+TABTAB	Dafür spricht, dass im obigen Beispiel der Anstifter seinen Vorsatz auf ein Objekt (den C) konkretisiert hat. Außerdem verwechselt der Anstifter selbst niemanden, sondern der von ihm in Gang gesetzte Kausalverlauf verfehlt das Ziel. Daher liegt ein Irrtum über den Kausalverlauf vor. Letztlich müsste sich der Anstifter bei mehreren Ausführungen des Haupttäters, mehrere Taten zurechnen lassen (sog. „Blutbadargument“).
+
+TAB&	Meinung 2:
+TAB	Nach einer anderen Ansicht hat der Anstifter hier Vorsatz auf die Haupttat, weil dieser Fall auch für den Anstifter ein (für den Vorsatz unbeachtlicher) error in objecto / error in persona ist.
+
+TABTAB&	Argumente:
+TABTAB	Dafür spricht der Wortlaut von § 26 StGB („…gleich einem Täter…“). Dieser zeigt, was für den Täter unbeachtlich ist, muss für den Hintermann auch unbeachtlich sein. Wer die Objektsauswahl anderen überlässt, muss auch für deren Verwechslungen einstehen. Würde man den Vorsatz gem. § 16 I StGB entfallen lassen, gäbe es bei der Anstiftung sonst Strafbarkeitslücken bei Vergehen, da das Gesetz nur Strafbarkeit wegen versuchter Anstiftung bei Verbrechen kennt (§ 30 StGB).
+
+TABTAB&	Ausnahme:
+TABTAB	Nach dieser zweiten Ansicht gibt es aber eine einzige wichtige Ausnahme, in der der Vorsatz des Anstifters entfällt: Wenn die Verwechslung des Haupttäters außerhalb jeglicher Lebenserfahrung (also "wesentlich") ist, dann liegt aus Sicht des Täters doch eine wesentliche Abweichung vom Kausalverlauf im Sinne von § 16 I StGB vor, sodass der Vorsatz entfällt.
+
+
+%	b. Vorsatz bezogen auf das Bestimmen/Hervorrufen des Tatentschlusses
+
+%	3. Unter Umständen Tatbestandsverschiebung nach § 28 II StGB
+
+%	II. Rechtswidrigkeit
+%	III. Schuld
+%	IV. Strafzumessungsregeln
+	Laut Gesetz ist der Anstifter gleich dem Täter zu bestrafen.
+	Es besteht die Möglichkeit einer Strafmilderung nach § 28 I StGB, sollten strafbegründende, besondere persönliche Merkmale fehlen.
+
+
+%	Quellen:
+	Heine und Weißer in: Schönke/Schröder, 30. Aufl. 2019, StGB § 26 Rn. 2, 6.
+	Fischer, 67. Aufl. 2020, StGB § 26 Rn. 4 f.
+	Münchener Kommentar zum StGB / Joecks/Scheinfeld, 4. Aufl. 2020, § 26 Rn. 10 ff.; 41 ff.; 66; 87 ff.
+
+
+&	22.11.2022

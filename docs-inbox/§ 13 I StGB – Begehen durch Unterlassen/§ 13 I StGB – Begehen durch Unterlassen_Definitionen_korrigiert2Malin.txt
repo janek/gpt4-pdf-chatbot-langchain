@@ -1,0 +1,29 @@
+﻿§ 13 I StGB – Begehen durch Unterlassen
+Definitionen
+
+Echtes Unterlassungsdelikt
+Echte Unterlassungsdelikte sind dadurch charakterisiert, dass bereits der Wortlaut des Tatbestandes hergibt, dass ein konkretes Nichthandeln oder ein Unterlassen unter Strafe steht, vgl. Wortlaut § 323c StGB oder § 123 I Var. 2 StGB. Diese Delikte kann man also „nur“ durch Unterlassen begehen.
+
+Unechtes Unterlassungsdelikt
+Unechte Unterlassungsdelikte zeichnen sich dadurch aus, dass Tatbestände, deren Tatbestandsverwirklichung dem Wortlaut nach ein aktives Tun voraussetzen, durch Unterlassen einer Verhinderungshandlung verwirklicht werden. Dabei muss der Täter zur Erfolgsabwehr verpflichtet, mithin ein Garant sein. Denkbar ist beispielsweise die Tötung durch Unterlassung nach §§ 212, 13 StGB, wenn eine Mutter ihr Baby nicht mehr füttert (JuS 2010, 490). Unechte Unterlassungsdelikte sind daher eigentlich aktive Begehungsdelikte, die aber gem. § 13 StGB unter dessen speziellen Voraussetzungen auch durch Unterlassen begangen werden können. 
+
+Omission libera in cause
+Omissio libera in causa beschreibt den Fall, wenn sich ein Garant absichtlich in einen Zustand versetzt (z.B. durch Betrinken), in dem er seiner Garantenpflicht nicht mehr nachkommen kann. 
+
+Quasi-Kausalität / umgedrehte conditio-sine-qua-non-Formel
+Vielmehr ist ein Unterlassen dann kausal für den Erfolg, wenn die rechtlich gebotene Handlung nicht hinzugedacht werden kann, ohne, dass der tatbestandsmäßige (konkrete) Erfolg entfiele (hypothetische Kausalität/Quasikausalität). Die sine-qua-non-Formel wird also umgedreht. Die Gegenfrage lautet daher hier: Wäre der Erfolg auch eingetreten, wenn die gebotene Handlung vorgenommen worden wäre?
+
+Garantenstellung
+Ein Garant hat rechtlich dafür einzustehen, dass ein Erfolg nicht eintritt. Die Erforderlichkeit der Garantenstellung bei unechten Unterlassungsdelikten ergibt sich aus dem Wortlaut von § 13 StGB („rechtlich dafür einzustehen hat, dass der Erfolg nicht eintritt“).
+
+Beschützergarant 
+Eine Beschützergarantenstellung ergibt sich aus: - Gesetz, - enger persönlicher Verbundenheit (z.B. Familienangehörige, Ehegatten), - Pflicht kraft tatsächlicher Übernahme und - Pflicht kraft vertraglicher Übernahme (z.B. Babysitter, Leibwächter).
+
+Überwachungsgarant:
+Eine Überwachungsgarantenstellung ergibt sich aus: - Gesetz, - Gefahrengemeinschaften, die ihrem Wesen nach auf gegenseitige Hilfe angelegt ist (z.B. Bergbesteigung, Wildwasserfahrten) und - Ingerenz (d.h. derjenige, der durch sein Handeln oder garantenpflichtiges Unterlassen eine Gefahr für den Eintritt schädlicher Erfolge geschaffen hat, ist verpflichtet, drohende Schäden zu verhindern).
+
+Rechtfertigende Pflichtenkollision
+Die rechtfertigende Pflichtenkollision ist ein ungeschriebener Rechtfertigungsgrund, der speziell für Unterlassungsdelikte gilt. Sie beschreibt den Fall, wenn Jemand mehrere Handlungspflichten hat, nur eine seiner Pflichten bedienen kann und dadurch aber einen Straftatbestand verwirklicht. Die Voraussetzungen einer solchen Rechtfertigung durch Pflichtenkollision sind, dass mindestens zwei Handlungspflichten vorliegen und beide Pflichten nicht gleichzeitig erfüllt werden können.
+
+
+

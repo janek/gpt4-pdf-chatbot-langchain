@@ -1,0 +1,50 @@
+﻿%	§ 30 StGB – Versuch der Beteiligten
+	Schema
+
+%	I. Vorprüfung
+%	1. Nichtvorliegen einer vollendeten Anstiftung
+	Die Haupttat wurde entweder gar nicht oder ohne Einflussnahme des Anstifters begangen.
+
+TAB&	Fallgruppe 1: 
+TAB	Die Anstiftungshandlung erweckt beim Gegenüber keinen Tatentschluss.
+
+TAB&	Fallgruppe 2: 
+TAB	Der Gegenüber ist als omnimodo facturus bereits angestiftet, weshalb die Anstiftungshandlung nicht kausal für den Tatentschluss ist.
+
+TAB&	Fallgruppe 3: 
+TAB	Die Anstiftungshandlung ist erfolgreich und ruft beim Täter den Tatentschluss hervor. Jedoch wird dieser Tatentschluss nicht mindestens bis zum unmittelbaren Ansetzen des Versuchs getragen, was beispielsweise daran liegen kann, dass er wieder aufgegeben wird. Hier unterscheidet sich der § 30 StGB vom § 26 StGB. In letzterem kommt es zu einer versuchten Haupttat. Im Rahmen der hier diskutierten Fallgruppe 3 gerade nicht.
+
+%	2. Strafbarkeit des Versuchs
+	§ 30 I StGB gilt i.V.m. § 12 I StGB nur für Verbrechen, vgl. Wortlaut.
+
+%	II. Tatbestand
+%	1. Tatentschluss
+	Der Täter muss sich ohne jeglichen Vorbehalt zur Tat entschlossen haben. Somit muss sich Vorsatz einschließlich Vollendungswillen auf eine Vollendung des objektiven Tatbestandes beziehen.
+
+	Folgende Konstellationen werden lediglich im Rahmen des § 30 II StGB relevant:
+
+%	a. Sich bereiterklären, § 30 II Alt. 1 StGB
+&	Sich bereiterklären& ist die an eine andere Person gerichtete Erklärung, eine jedenfalls in groben Zügen hinreichend konkretisierte Tat begehen zu wollen&. (Fischer, 67. Auflage 2020, § 30, Rn. 10)
+
+%	b. Annahme des Erbietens, § 30 II Alt. 1 StGB
+	Die &Annahme des Erbietens& eines anderen zur Tatbegehung ist eine an die anbietende Person gerichtete Erklärung, das Angebot anzunehmen und damit in eine (verpflichtende) Zusage zu wandeln, selbst wenn das Anerbieten nicht ernst gemeint war (Fischer, 67. Auflage 2020, § 30, Rn. 11).
+
+%	c. Verabredung mit einem anderen, § 30 II Alt. 1 StGB
+&	Verabreden& ist die vom ernstlichen Willen getragene Einigung von mindestens zwei Personen, an der Verwirklichung eines bestimmten Verbrechens mittäterschaftlich, also nicht nur als Gehilfe, mitzuwirken (Fischer, 67. Auflage 2020, § 30, Rn. 12).
+
+%	2. Unmittelbares Ansetzen zur Anstiftung
+	Das &unmittelbare Ansetzen zur Anstiftung& ist eine Einwirkung auf den Haupttäter, mithin der Versuch, einen anderen zur Tat zu bestimmen. Dies Einwirkung ist in den meisten Fällen bereits in der Aufforderung zu sehen.
+
+%	III. Rechtswidrigkeit
+%	IV. Schuld
+%	V. Rücktritt
+	Es ist auf die Ausführungen des § 24 StGB zu verweisen, der dem § 31 StGB ähnlich ist.
+
+%	VI. Strafmilderung nach §§ 30 I 2, 49 I StGB
+
+
+%	Quellen:
+	Fischer, 67. Auflage 2020, § 30, Rn. 10 ff.
+
+
+&	09.08.2022

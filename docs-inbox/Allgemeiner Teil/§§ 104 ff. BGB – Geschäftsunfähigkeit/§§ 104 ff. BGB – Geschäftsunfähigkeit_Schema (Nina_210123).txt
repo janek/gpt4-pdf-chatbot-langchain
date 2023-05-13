@@ -1,0 +1,123 @@
+﻿%	§§ 104 ff. BGB – Geschäftsunfähigkeit
+	Schema
+
+%	Merke:% Das System der Geschäftsfähigkeit ist abgestuft, man unterscheidet:
+
+TAB&	- Geschäftsunfähigkeit: 
+TAB	Willenserklärungen von Personen unter sieben Jahren und Personen in einem dauerhaften Zustand krankhafter Störung der Geistestätigkeit, sind nichtig, §§ 104, 105 I BGB,
+
+TAB&	- Beschränkte Geschäftsfähigkeit:
+TAB	Beschränkt geschäftsfähig sind Kinder bzw. Jugendliche zwischen sieben und 18 Jahren. Siehe hierzu das Schema zum Minderjährigenrecht,
+
+TAB&	- Unbeschränkte Geschäftsfähigkeit:
+TAB	Grundsätzlich ist jede volljährige Person im Umkehrschluss zu §§ 104, 106 BGB voll geschäftsfähig.
+
+%	I. Anspruch entstanden
+%	1. Vertragsschluss
+%	a. Willenserklärung
+	Zunächst ist zu prüfen, ob eine Willenserklärung vorliegt, sei es ein Angebot oder eine Annahme.
+
+	Dabei ist, wenn ein Fall des § 104 Nr. 2 BGB oder § 105 II BGB möglich erscheint, beim Tatbestand der Willenserklärung, insbesondere zu prüfen, ob der Handlungswille bejaht werden kann (siehe hierzu das Skript zu Definitionen Grundbegriffe des BGB). 
+
+	Dieser fehlt bei nicht willensgesteuertem Verhalten, so bspw. bei Bewusstlosigkeit im Sinne von Ohnmacht oder Reflexen.
+
+%	b. Wirksamwerden einer Willenserklärung gegenüber einem Geschäftsunfähigen, § 131 I BGB
+	Auf der Ebene des Wirksamwerdens derjenigen Willenserklärung, die gegenüber dem Geschäftsunfähigen abgegeben wurde, ist § 131 I BGB zu beachten. Angebot oder Annahme werden demnach gegenüber einem Geschäftsunfähigen nur mit Zugang bei dessen gesetzlichen Vertreter wirksam. 
+
+	Bei Kindern ist regelmäßig an die Vertretung durch die Eltern gem. §§ 1626 I, 1629 BGB zu denken, bei betreuten Personen an den Betreuer gem. § 1902 BGB. 
+
+	Diese Norm ist dahingegen nicht anzuwenden auf Personen, die sich gem. § 105 II BGB in einem Zustand der Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit befinden. Diese sind systematisch nicht mit Geschäftsunfähigen gleichgestellt (MüKoBGB/Einsele BGB § 131 Rn. 2).
+
+&	Hinweis:& Losgelöst von diesem vertraglichen Schema findet diese Norm auch auf andere empfangsbedürftige Willenserklärungen, beispielsweise die Anfechtung oder der Widerruf eines Vertrages, Anwendung.
+
+%	c. Nichtigkeit der Willenserklärung des Geschäftsunfähigen
+&%	aa. § 105 I BGB: Geschäftsunfähigkeit gem. § 104 BGB
+	Gem. § 105 I BGB ist die Willenserklärung eines Geschäftsunfähigen nichtig.
+
+      § 104 BGB unterschiedet zwei Arten von Geschäftsunfähigkeit:
+
+TAB&	- § 104 Nr. 1 BGB
+TAB&	Geschäftsunfähig& ist, wer nicht das siebente Lebensjahr vollendet hat. D.h. also, dass Kinder unter sieben Jahren geschäftsunfähig sind. Mit dem siebenten Geburtstag tritt das Kind in die beschränkte Geschäftsfähigkeit ein (siehe hierzu das Schema zum Minderjährigenrecht).
+
+TAB&	- § 104 Nr. 2 BGB
+TAB	Personen, die sich in einem dauerhaften, die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit befinden, sind ebenfalls geschäftsunfähig.
+
+TAB	Psychische Erkrankungen sind nur dann erfasst, wenn sie dauerhaft und für sämtliche Geschäfte die freie Willensbildung ausschließen, z.B. fortgeschrittene Demenz (MüKoBGB/Spickhoff BGB § 104 Rn. 43, 44). 
+
+TAB	Als wichtiger Ausnahmefall sind Willenserklärungen, die in einem sogenannten lichten Augenblick (&lucidum intervallum&) abgegeben wurden, wirksam. Wenn sich beispielsweise eine demente Person wieder völlig in ihren gesunden Zustand versetzt, kann sie für diese Zeit Geschäfte abschließen!
+
+TAB&	- Sonderfall: Partielle Geschäftsunfähigkeit
+TAB	Auch ist es möglich, dass eine Person nicht in Bezug auf alle Geschäfte in der freien Willensbildung, sondern nur in Bezug auf bestimmte Geschäfte bzw. Geschäftsbereiche beeinträchtigt ist.
+
+TABTAB&	Beispiele: 
+TABTAB	Querulantenwahn schließt die Prozessführung aus; auch krankhafte Eifersucht schließt die Prozessführung in Ehestreitigkeiten aus (BGHZ 18, 184 (186) = NJW 1955, 1714, MüKoBGB/Spickhoff BGB § 104 Rn. 43, 44)
+
+&%	bb. § 105 II BGB: Bewusstlosigkeit oder vorübergehende Störung der Geistestätigkeit
+	In § 105 II BGB ist ein weiterer Nichtigkeitsgrund einer Willenserklärung geregelt, der aus dem System der Geschäftsunfähigkeit herausgelöst ist und im Gegensatz zu § 104 Nr. 2 BGB nur einen Zustand der Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit verlangt.
+
+&	Merke:& Personen i.S.d. § 105 II BGB sind nicht generell geschäftsunfähig.
+
+TAB&	- Bewusstlosigkeit
+TAB	Bewusstlosigkeit kann schon systematisch nicht Ohnmacht bedeuten, da dann bereits mangels Handlungswille keine Willenserklärung vorliegt (siehe oben).
+
+TABTAB&	Beispiele: 
+TABTAB	hochgradige Trunkenheit, Fieberdelirium, Hypnose (MüKoBGB/Spickhoff BGB § 105 Rn. 38)
+
+TAB&	- Vorübergehende Störung der Geistestätigkeit
+TAB	Vom Gehalt her erfassen die Störungen den gleichen Bereich von Zuständen, wie in § 104 Nr. 2 BGB. Abgegrenzt werden sie allerdings mit dem Kriterium der Dauerhaftigkeit: § 105 II BGB umfasst mit seiner Rechtsfolge nur vorübergehende Zustände.
+
+TABTAB&	Beispiel: 
+TABTAB	Durch Alkohol oder Drogen indizierte Zustände (MüKoBGB/Spickhoff BGB § 105 Rn. 41)
+
+&%	cc. Kein Geschäft des täglichen Lebens, § 105a BGB
+	Die Rechtsfolge des § 105a BGB ist umstritten, aber nicht hochgradig prüfungsrelevant. Überzeugend kann davon ausgegangen werden, dass der Vertrag nicht von Anfang an wirksam wird, sondern lediglich ex nunc in Ansehung von Leistung und Gegenleistung als wirksam gilt. 
+
+	So kann eine Rückforderung ausgeschlossen werden, aber Mängelgewährleistungsrechte stehen dem Geschäftsunfähigen nicht zu. 
+
+	Dafür spricht systematisch, dass es nicht zu der wirksamen Abgabe einer Willenserklärung des Geschäftsunfähigen kommen soll (Jauernig/Mansel BGB § 105a Rn. 6).
+
+	Dafür müssen vorliegen:
+TAB&	- Ein volljähriger Geschäftsunfähiger, vgl. § 2 BGB
+
+TAB&	- Ein Geschäft des täglichen Lebens
+TAB	Ein solches wird nach der Verkehrsauffassung betrachtet, nicht nach den individuellen täglichen Gewohnheiten des Geschäftsunfähigen. Insbesondere Gegenstände des täglichen Bedarfs sind erfasst (MüKoBGB/Spickhoff BGB § 105a Rn. 6).
+
+TABTAB&	Beispiele: 
+TABTAB	Lebensmitteleinkauf, Drogeriewaren, Bahnticket, Zeitungskauf
+
+TAB&	- Geringwertige Mittel
+TAB	Auch die Geringwertigkeit wird objektiv, nicht subjektiv an der Vermögenslage des Geschäftsunfähigen betrachtet, das heißt, dass das durchschnittliche Preis- und Einkommensniveau herangezogen wird (Jauernig/Mansel BGB § 105a Rn. 5).
+
+TABTAB&	Beispiel: 
+TAB	So ist selbst für einen geschäftsunfähigen Milliardär der Kauf einer Playstation nicht geringwertig.
+
+TAB&	- Bewirken der Verpflichtung des Geschäftsunfähigen
+TAB	Eine zentrale, nicht zu übersehende Voraussetzung ist, dass erst mit Bewirken der Leistung die Wirksamkeit des Vertrages eintritt. Dafür ist die Hauptleistungspflicht des Geschäftsunfähigen zu identifizieren und zu prüfen, ob diese Pflicht erfüllt wurde.
+
+TAB&	- Keine erhebliche Gefahr für den Geschäftsunfähigen oder dessen Vermögen
+TAB	Der Begriff der Gefahr wird entsprechend den Voraussetzungen eines Einwilligungsvorbehaltes betreuter Personen gem. § 1825 I 1 BGB als hinreichend wahrscheinliche wesentliche Schädigung des Geschäftsunfähigen oder seines Vermögens (MüKoBGB/Spickhoff BGB § 105a Rn. 18-20) ausgelegt.
+
+TABTAB&	Beispiele: 
+TABTAB	Zur Selbstverletzung geeignete Gegenstände eines suizidalen Geschäftsunfähigen, ein wirtschaftlich unvorteilhaftes Geschäft
+
+%	2. Wirksamkeit des Vertrages
+	Sollte die Willenserklärung gem. § 105 BGB nicht unwirksam sein oder aber gem. § 105a BGB als wirksam gelten, kann weiter geprüft werden. 
+
+	Ansonsten liegt mangels zwei wirksamer, übereinstimmender Willenserklärungen schon kein Vertragsschluss vor.
+
+%	II. Anspruch nicht erloschen
+%	III. Anspruch durchsetzbar
+
+
+%	Quellen:
+	Ellenberger in: Palandt, Bürgerliches Gesetzbuch, 80. Aufl. 2021, Überblick von 
+	§ 107 Rn. 1 ff.; § 108 Rn. 1 ff., 4; § 110 Rn. 1 ff.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 104.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 105.
+	MüKoBGB/Einsele, 9. Aufl. 2021, BGB § 131.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 105a.
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 105a.
+	BGHZ 18, 184 (186) = NJW 1955, 1714.
+
+
+&	04.02.2023

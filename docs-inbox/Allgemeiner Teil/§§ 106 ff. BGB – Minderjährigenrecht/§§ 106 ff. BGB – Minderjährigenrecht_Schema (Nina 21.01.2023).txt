@@ -1,0 +1,197 @@
+﻿%	§§ 106 ff. BGB – Minderjährigenrecht
+	Schema
+
+%	Merke:% Der Minderjährigenschutz im BGB ist in jeder Fallkonstellation, in der eine sieben bis 17-jährige Person involviert ist, zu berücksichtigen. Insofern ist der individuelle Entwicklungsstand nicht von Relevanz; es gelten hingegen starre Altersgrenzen.
+
+	Das System der Geschäftsfähigkeit ist abgestuft, man unterscheidet:
+
+&	- Unbeschränkte Geschäftsfähigkeit
+	Grundsätzlich ist jede volljährige Person im Umkehrschluss zu §§ 104, 106 BGB voll geschäftsfähig.
+
+&	- Beschränkte Geschäftsfähigkeit
+	Für Minderjährige von sieben bis 17 Jahren, sehen die §§ 108 ff. BGB ein besonderes Rechtsfolgenregime vor, das im Folgenden erläutert wird.
+
+&	- Geschäftsunfähigkeit
+	Willenserklärungen von Personen unter sieben Jahren und in besonderen altersunabhängigen Fällen sind nichtig, § 105 BGB. Siehe hierzu das Schema zur Geschäftsunfähigkeit.
+
+%	I. Anspruch entstanden
+%	1. Vertragsschluss
+%	P: § 131 II BGB – Wirksamwerden gegenüber nicht voll Geschäftsfähigen
+
+	Im Rahmen des Vertragsschlusses kann bei der Wirksamkeit derjenigen Willenserklärung, die dem beschränkt Geschäftsfähigen gegenüber abgegeben wurde, problematisiert werden, ob die Voraussetzungen des § 131 II BGB vorliegen. Demnach gilt eine rechtlich nachteilige Willenserklärung erst mit Zugang beim gesetzlichen Vertreter als wirksam.
+
+&	Hinweis:& Der § 131 II BGB birgt systematisch einige Widersprüche zum System der §§ 106 ff. BGB. Man muss sich aber nicht den Kopf darüber zerbrechen, wie man ihn anwendet. Es gibt vier Ansichten, welche nicht auswendig gelernt werden müssen. Es kann einer Ansicht ohne weitere Begründung gefolgt werden oder – je nach Schwerpunktsetzung – alle genannt werden, denn sie führen zum selben Ergebnis (Felsch, Jutrzenka: Von Sinn und Unsinn einer Zugangsregelung, ZJS 6/2020, 544, 545).
+
+TAB&	- Lediglich rechtlich vorteilhafte Willenserklärung
+TAB	Einhellig unproblematisch ist § 133 II BGB, wenn das Angebot dem Minderjährigen gegenüber abgegeben wurde: Es ist stets lediglich rechtlich vorteilhaft, weil es seinen Rechtskreis erweitert mit der Handlungsoption zu einem Vertrag, ohne ihn zu verpflichten.
+
+TAB	Ging das Angebot vom Minderjährigen aus, so spalten sich die Ansichten.
+
+TAB	&Einer Ansicht& nach ist § 131 II BGB generell subsidiär gegenüber § 108 BGB und bei Willenserklärungen gerichtet auf den Vertragsschluss nicht anzuwenden (Jauernig/Mansel BGB § 131 Rn. 2).
+
+TAB	Einer &anderen Ansicht& nach wirkt die Genehmigung des Vertrags gem. § 108 I BGB auch bezüglich des Zugangsmangels (BGH NJW 1967, 1800, 1802; Grüneberg/Ellenberger, § 131 Rn. 3).
+
+TAB	Einer &weiteren Ansicht& nach ist die Annahme einfach lediglich rechtlich vorteilhaft, weil keine negativen Konsequenzen aus ihr erwachsen, da der Vertrag trotzdem von § 108 BGB abhängt (Staudinger/Singer/Benedict, § 131 Rn. 67.
+
+TAB&	Hinweis&: Losgelöst von diesem vertraglichen Schema findet diese Norm auch auf andere empfangsbedürftige Willenserklärung, beispielsweise die Anfechtung oder den Widerruf eines Vertrages gegenüber dem Minderjährigen, Anwendung. Dort ist die Problematik des Verhältnisses von § 131 II BGB zu den §§ 106 ff. BGB nicht prekär. Schließlich wären zwei Punkte in diesen Fällen gegebenenfalls noch anzusprechen:
+
+TABTAB&	o Entbehrlichkeit durch Einwilligung
+TABTAB	Ist die Willenserklärung als rechtlich nachteilhaft qualifiziert worden (so Ansicht 1 bezüglich der Annahme) kommt gem. § 131 II S. 2 BGB noch in Betracht, dass eine Einwilligung des gesetzlichen Vertreters den Zugang bei ihm entbehrlich macht.
+
+TABTAB&	o Wirksamwerden beim gesetzlichen Vertreter
+TABTAB	Liegt auch eine Einwilligung nicht vor, so wird die Willenserklärung tatsächlich erst mit Zugang bei dem gesetzlichen Vertreter wirksam.
+
+%	2. Schwebende Unwirksamkeit gem. § 108 I BGB
+	Gem. § 108 I BGB hängt die Wirksamkeit des Vertrages von der Genehmigung der gesetzlichen Vertreter des beschränkt Geschäftsfähigen ab, wenn der Vertrag ohne die erforderliche Einwilligung geschlossen wurde. 
+
+%	a. Beschränkt Geschäftsfähiger, §§ 2, 106 BGB
+	&Beschränkt geschäftsfähig& sind Minderjährige, die das 7., aber noch nicht das 18. Lebensjahr vollendet haben, §§ 2, 106 BGB.
+
+%	b. Ohne die erforderliche Einwilligung, § 107 BGB
+	Voraussetzung für die schwebende Unwirksamkeit eines Vertrages gem. § 108 I BGB ist ein Vertragsschluss eines Minderjährigen ohne die erforderliche Einwilligung. 
+
+	Also wird zunächst geprüft, wann die Einwilligung erforderlich ist, was uns § 107 BGB sagt und dann, ob eine wirksame Einwilligung vorliegt. Schließlich wird noch auf den Sonderfall des §§ 110 BGB eingegangen
+
+&%	aa. Erforderlichkeit der Einwilligung: Bei nicht lediglich rechtlich vorteilhaftem Geschäft, § 107 BGB
+	Ein Geschäft ist &lediglich rechtlich vorteilhaft&, wenn es den Minderjährigen weder verpflichtet noch dessen bestehende Rechte aufhebt oder mindert. Dann bedarf es keiner Einwilligung. 
+
+TAB&	i. Verpflichtungsgeschäfte
+TAB&	Zweiseitig verpflichtende Geschäfte& sind immer (!) rechtlich nachteilhaft für den Minderjährigen, weil dieser in jedem Fall zur Erbringung einer Leistung verpflichtet wird. In diesem Zusammenhang ist eine wirtschaftliche Betrachtung nicht entscheidend, sondern allein, ob der Minderjährigen rechtlich verpflichtet wird.
+
+TAB&	Beispiele:& Kaufvertrag, Werkvertrag, Dienstleistungsvertrag
+
+TAB&	Beispiel:& Selbst, wenn ein Kaufvertrag eines 16-Jährigen über ein Auto zu 1-€ abgeschlossen wird, wird der Minderjährige zur Zahlung des einen Euros verpflichtet und ein solches rechtlich nachteiliges Geschäft bedarf der Einwilligung.
+
+TAB&	Einseitig verpflichtende Geschäfte& sind nur rechtlich vorteilhaft für den Minderjährigen, wenn dieser nicht verpflichtet wird.
+
+TAB&	Beispiel:& Schenkungsvertrag zugunsten dem Minderjährigen als Beschenkter, nicht jedoch, wenn der Minderjährige Schenker wäre.
+
+TAB&	Unvollkommen zweiseitig verpflichtende Geschäfte&, das heißt Verpflichtungsgeschäfte bei denen Leistung und Gegenleistung nicht im Synallagma stehen, sind wegen Nebenleistungspflichten für den Minderjährigen ebenfalls rechtlich nachteilhaft.
+
+TAB&	Beispiel 1&: Der Leihvertrag ist unentgeltlich, lediglich der Verleiher trägt die Hauptleistungspflicht zur Gestattung des Gebrauchs der Sache. Schließt ein Minderjähriger als Entleiher den Vertrag, wird er trotzdem als Nebenleistungspflicht zum vertragsgemäßen Verbrauch, zur Tragung etwaiger Erhaltungskosten und zur Rückgabe nach Zeitablauf verpflichtet, vgl. §§ 598 ff. BGB.
+
+TAB&	Beispiel 2&: Genau so ist dies beim Auftrag. Beauftragt der Minderjährige jemanden, ist nur der Beauftragte zur Erfüllung des Auftrags verpflichtet. Der Auftraggeber jedoch zum Aufwendungsersatz nach § 670 BGB.
+
+TAB&	ii. Verfügungsgeschäfte
+TAB	Bei Verfügungsgeschäften, namentlich am klausurrelevantesten bei der Übereignung gem. § 929 S. 1 BGB, ist zu unterschieden, ob dem Minderjährigen das Eigentum übertragen oder entzogen wird, das heißt seine Rechte erweitert oder gemindert bzw. aufgehoben werden. 
+
+TAB&	Beispiel:& Der E möchte dem 10-jährigen F Eigentum an seinem Fahrrad übertragen, woraufhin sie sich nach § 929 S. 1 BGB dinglich einigen (Trennungs- und Abstraktionsprinzip beachten).
+
+TAB&	iii. Neutrale Geschäfte
+TAB&	Neutrale Geschäfte&, das heißt Geschäfte, die dem Minderjährigen weder einen Vor- noch einen Nachteil bringen, sind wortlauttechnisch nicht von einem „lediglich rechtlichen Vorteil“ i.S.d. § 107 BGB umfasst. 
+
+TAB	Trotzdem sind sie nach herrschender Meinung nicht einwilligungsbedürftig. 
+
+TAB	Mittels einer teleologischen Reduktion wird vom Sinn und Zweck der Norm darauf geschlossen, dass nur bei einem Nachteil die Einwilligung notwendig für die Erreichung des Minderjährigenschutzes ist (MüKoBGB/Spickhoff BGB § 107 Rn. 54).
+
+TAB&	Beispiel 1:& Wenn ein Minderjähriger als Stellvertreter für eine andere Person agiert, vgl. § 165 BGB, widerfahren ihm weder rechtliche Nachteile noch Vorteile, da die Willenserklärung des Stellvertreters nur für und gegen den Vertretenen wirkt, § 164 BGB. Zu den Folgen bei fehlender Vollmacht siehe hierzu das Schema zum falsus procurator.
+
+TAB&	Beispiel 2:& Die Eigentumsverfügung über Eigentum, das nicht dem Minderjährigen gehört: Der 10-jährige M verschenkt das Handy seiner Mutter, vgl. § 185 BGB.
+
+&%	bb. Keine Erteilung der Einwilligung, §§ 182, 183 S. 1 BGB
+	Ist das Geschäft nicht lediglich rechtlich nachteilhaft so bedarf es nun der Einwilligung. Diese dürfte auch nicht von den gesetzlichen Vertretern erteilt worden sein.
+
+TAB&	Hinweis:& An dieser Stelle prüft man gegen die Intuition. Erinnern wir uns, dass die Rechtsfolge, die gem. § 108 I BGB geprüft wird, die schwebende Unwirksamkeit ist. Dafür darf eben keine Einwilligung vorliegen.
+
+	Eine &Einwilligung& ist die vorherige Zustimmung zum Vertrag (Legaldefinition in § 183 S. 1 BGB). Die Voraussetzungen der Zustimmung nennt uns § 182 BGB. Die Einwilligung kann gegenüber dem einen oder dem anderen Teil erteilt werden, das heißt gegenüber dem Minderjährigen oder gegenüber dem Vertragspartner.
+
+&%	cc. Oder Widerruf der Einwilligung gem. § 183 BGB
+	§ 183 BGB nennt uns nicht nur die Legaldefinition der Einwilligung, sondern regelt auch dessen Widerruflichkeit bis zur Vornahme des Rechtsgeschäfts.
+
+TAB&	Beispiel:& Die Eltern der 13-jährigen M erteilen ihr am Montag die Einwilligung zum Kauf eines Computers. Am Dienstag widerrufen sie diese, weil die M beim Rauchen erwischt wurde. Somit liegt keine wirksame Einwilligung mehr vor. Anders läge der Fall nach Abschluss des Kaufvertrages, der qua Einwilligung schon wirksam geworden wäre. Hätte M am Dienstagmorgen den Computer gekauft, wäre kein Widerruf gem. § 183 S. 1 BGB mehr möglich!
+
+%	c. Einwilligung durch Überlassen von Mitteln, Taschengeldparagraph § 110 BGB
+	Die Norm sagt folgendes: „Ein von dem Minderjährigen ohne Zustimmung des gesetzlichen Vertreters geschlossener Vertrag gilt als von Anfang an wirksam, wenn der Minderjährige die vertragsmäßige Leistung mit Mitteln bewirkt, die ihm zu diesem Zweck oder zu freier Verfügung von dem Vertreter oder mit dessen Zustimmung von einem Dritten überlassen worden sind.“
+
+	Der Hintergrund des § 110 BGB besteht in der Erziehungsfunktion, Minderjährige im Rahmen der Erlaubnis der Eltern an die vollständige Geschäftsfähigkeit heranzuführen (MüKoBGB/Spickhoff BGB § 110 Rn. 1).
+
+	Das Überlassen von Mitteln ist als besondere Form der Einwilligung verstehen; § 110 BGB dient als Auslegungsregel zu § 107 BGB. 
+
+	Bezüglich der Einwilligung kommt es auf § 107 BGB an, in dessen Prüfung der § 110 BGB auch folgend eingebettet ist. 
+
+	Nochmals zum systematischen Verständnis: § 110 BGB ist unanwendbar, wenn in den Vertrag entweder bereits eingewilligt oder dieser vor Leistungsbewirkung genehmigt wurde (Jauernig/Mansel BGB § 110 Rn. 1).
+
+TAB&	Hinweis:& Die Einordnung des § 110 BGB ist umstritten. Einer Ansicht zufolge ist § 110 BGB ein Wirksamkeitsgrund, der noch nach der Genehmigung zu prüfen ist. Nach der herrschenden Meinung, der hier gefolgt wird, stellt das Überlassen von Mittel eine Einwilligung dar (Grüneberg/Ellenberger § 110 Rn. 1). Dieser Streit ist nie (!) auszuführen, sondern sich für eine Prüfungsreihenfolge zu entschieden. Mithin kommen beide Ansichten zum selben Ergebnis in der Prüfung.
+
+TAB&	i. Vertrag eines Minderjährigen ohne die erforderliche Einwilligung
+TAB	Zunächst muss ein Vertrag eines Minderjährigen ohne die erforderliche Einwilligung vorliegen. Dies kann regelmäßig mit einem Verweis auf oben bejaht werden.
+
+TAB&	ii. Überlassen von Mitteln
+TAB	Mittel, im Regelfall Geld, können durch die gesetzlichen Vertreter oder durch Dritte überlassen werden. In letzterem Fall ist zusätzlich die Einwilligung der gesetzlichen Vertreter notwendig. § 110 BGB unterschiedet zwischen der Überlassung zu einem bestimmten Zweck und zur freien Verfügung.
+
+TABTAB	• Überlassung zu einem bestimmten Zweck
+TABTAB	Wird den Mitteln gegenüber dem Minderjährigen ein bestimmter Zweck auferlegt bzw. ein solcher ausgeschlossen, so erstreckt sich die Einwilligung nur auf diejenigen Rechtsgeschäfte, die nach der Auslegung durch die gesetzlichen Vertreter nach ihrer Widmung umfasst sein sollen.
+
+TABTAB&	Beispiel:& Die Eltern der14-jährigen M geben ihr 50 EUR zum Geburtstag, mit dem sie sich „was Anständiges für die Schule“ kaufen soll. Nach der Auslegung der Widmung der E ist davon auszugehen, dass Süßigkeiten, Schminke oder Schmuck nicht von der Einwilligung nach § 107 BGB gedeckt wären.
+
+TABTAB	• Überlassung zur freien Verfügung
+TABTAB	Die Überlassung ohne Widmung bzw. zur unbeschränkten Verfügung ist kein Freifahrtschein für den wirksamen Abschluss jedes erdenklichen Rechtsgeschäfts durch den Minderjährigen. Dabei ist auf den mutmaßlichen Willen der gesetzlichen Vertreter abzustellen (MüKoBGB/Spickhoff BGB § 110 Rn. 29).
+
+TABTAB&	Beispiel:& Wird einem Minderjährigen Taschengeld ohne eine Einschränkung überlassen, ist nach der Erziehungsfunktion und dem mutmaßlichen Willen seiner Eltern auszulegen, dass dadurch keine Einwilligung in den Kauf von Zigaretten erteilt wird.
+
+TABTAB%	P:% Arbeitskraft des Minderjährigen (MüKo, Rn. 22, 23)
+
+TAB&	iii. Bewirken der vertragsmäßigen Leistung
+TAB	Schließlich muss die Primärleistungspflicht des Minderjährigen bestimmt werden und geprüft werden, ob diese vollständig bewirkt wurde.
+
+TAB&	Bsp.:& Übergabe und Übereignung der Kaufsache als Verkäufer, Vollständige Kaufpreiszahlung als Käufer
+
+	Hier ist Vorsicht geboten bei Ratenzahlungen, bei denen als beliebtes Sachverhaltsdetail bei nicht vollständiger Abzahlung kein „Bewirken“ vorliegt.
+
+%	3. Rechtsfolge: Schwebende Unwirksamkeit bis zur Genehmigung 
+	Schließt der Minderjährige einen Vertrag,
+
+TAB	- ohne dadurch einen lediglich rechtlichen Vorteil zu erlangen und 
+
+TAB	- ohne die vertragsgemäße Leistung mit Mitteln bewirkt zu haben, die ihm zur Verfügung gestellt wurden 
+
+TAB	- sowie ohne vorherige Zustimmung, 
+
+	so hängt die Wirksamkeit des Vertrages von der Genehmigung (nachträglichen Zustimmung) des Vertreters ab. Das Rechtsgeschäft ist mithin schwebend unwirksam (Ellenberger, § 108 Rn. 1 ff.).
+
+%	a. Erteilung der Genehmigung, §§ 182, 184 BGB
+	Durch Genehmigung gegenüber dem Minderjährigen oder dem anderen Teil (vgl. § 182 I BGB) im Sinne des § 184 BGB, wird dieser Schwebezustand aufgehoben und der Vertrag von Anfang (ex tunc) an wirksam.
+
+%	b. Keine Unwirksamkeit der Aufforderung gem. § 108 II BGB
+	Der Sonderfall der Aufforderung des Vertragspartners, ist bei der Genehmigung zu prüfen, da die Rechtsfolge die Unwirksamkeit einer dem Minderjährigen gegenüber abgegebenen Genehmigung ist. Nach der Aufforderung des Vertragspartners ist weiterhin eine Besonderheit, dass nicht mehr gegenüber dem Minderjährigen erneut genehmigt werden kann, sondern nur noch gegenüber dem Vertragspartner innerhalb von zwei Wochen. Sonst ist der Vertrag endgültig unwirksam.
+
+TAB&	Beispiel:& V und die 17-jährige M schließen einen Vertrag zum Kauf eines Autos. Der V hat keine Kenntnis von ihrer Minderjährigkeit. Am Abend des Vertrages erzählt die M ihren Eltern von dem Schnäppchen, woraufhin diese ihr den Vertrag gegenüber genehmigen, vgl. § 182 BGB. Am nächsten Tag erfährt der V, dass die M noch in der Schule ist, geht davon aus, dass sie nicht volljährig ist und ruft bei ihren Eltern an, um sich der Wirksamkeit des Vertrages zu vergewissern. Durch diese Aufforderung wird die frühere Genehmigung gegenüber M unwirksam und der Vertrag kann nur noch von den Eltern gegenüber V innerhalb von zwei Wochen genehmigt werden.
+
+	Zusammenfassend setzt § 108 II BGB drei Rechtsfolgen in Gang:
+TAB	- Eine dem Minderjährigen gegenüber erklärte Genehmigung wird unwirksam,
+
+TAB	- Die Genehmigung kann abweichend von § 182 BGB nur noch gegenüber dem Vertragspartner erklärt werden,
+
+TAB	- Es gilt eine zweiwöchige Frist ab Aufforderung.
+
+%	c. Sonderfall des § 108 III BGB 
+	Wird der Minderjährige volljährig, obwohl der Vertrag noch schwebend unwirksam ist, bedarf es keiner Genehmigung der Eltern mehr, vielmehr kann er selbst genehmigen oder verweigern. Auf die Genehmigung der Vertreter kommt es selbst dann nicht an, wenn gegenüber ihm die Aufforderung zur Genehmigung nach § 108 II BGB erfolgte. Wichtig ist, dass der Vertrag nicht schon mit Eintritt der Volljährigkeit wirksam wird, es muss eine Genehmigung des Minderjährigen geprüft werden (Ellenberger, § 108 Rn. 4).
+
+%	d. Kein Widerruf gem. § 109 BGB
+	Ist der Vertrag mangels Einwilligung schwebend unwirksam, steht dem Vertragspartner bis zur Genehmigung durch die gesetzlichen Vertreter gegebenenfalls ein Widerrufsrecht gem. § 109 BGB zu. 
+
+	Dies ist unter der Voraussetzung möglich, dass der Vertragspartner keine Kenntnis von der Minderjährigkeit hatte. Erforderlich ist positive Kenntnis, fahrlässige Unkenntnis genügt nach dem Wortlaut nicht (Vgl. § 109 II, sonst hieße es „oder kennen müssen“).
+
+	Erfasst ist neben der Kenntnis der Minderjährigkeit darüber hinaus gem. § 109 II BGB der Fall, dass der Minderjährige das Vorliegen der Einwilligung behauptet hat, wenn der Vertragspartner dessen Unwahrheit nicht kannte.
+
+	Der Widerruf ist als empfangsbedürftige Willenserklärung den gesetzlichen Vertretern oder dem Minderjährigen gegenüber zu erklären, § 109 I S. 2 BGB. Abweichend von § 131 II BGB wird dieser gegenüber dem Minderjährigen wirksam (MüKoBGB/Spickhoff BGB § 109 Rn. 9).
+
+%	II. Anspruch nicht erloschen
+%	III. Anspruch durchsetzbar
+
+
+%	Quellen:
+	Grüneberg, Bürgerliches Gesetzbuch, 81. Aufl. 2022.
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 131.
+	MüKoBGB/Einsele, 9. Aufl. 2021, BGB § 131.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 107.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 109.
+	MüKoBGB/Spickhoff, 9. Aufl. 2021, BGB § 110.
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 110.
+	Felsch, Claudio Johhannes; Jutrzenka, Niklas: Von Sinn und Unsinn einer Zugangsregelung, ZJS 6/2020, 544-546.
+	BGH NJW 1967, 1800. 
+	Staudinger, Kommentar zum Bürgerlichen Gesetzbuch mit Einführungsgesetz und Nebengesetzen, Buch 1, Allgemeiner Teil, §§ 90-124; 130-133, 90. Auflage, 2021.
+
+
+&	08.02.2023
+

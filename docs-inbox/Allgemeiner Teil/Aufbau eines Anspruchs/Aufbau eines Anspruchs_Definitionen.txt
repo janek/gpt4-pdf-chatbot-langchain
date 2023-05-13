@@ -1,0 +1,17 @@
+﻿Aufbau eines Anspruchs
+Definitionen
+
+Rechtshindernde Einwendungen
+Rechtshindernde Einwendungen verhindern die Entstehung eines Anspruchs und sind von Amts wegen zu berücksichtigen, die Partei muss sich also nicht darauf berufen. Sie sind oft erkennbar am Wortlaut „ist […] unwirksam“ oder „ist […] nichtig“ und sind im Rahmen des Prüfungspunktes „Anspruch entstanden“ zu prüfen. Hierunter zählen insbesondere: § 105 I; §§ 108 I, 111; § 125 S. 1; § 134; § 138 II; § 138 I BGB. 
+
+Rechtsvernichtende Einwendungen
+Rechtsvernichtende Einwendungen bringen einen bereits entstandenen Anspruch nachträglich zum Erlöschen, weshalb sie im Rahmen des Prüfungspunktes „Anspruch erloschen“ thematisiert werden. Sie sind oft am Wortlaut „ist […] ausgeschlossen“ erkennbar. Beachte, dass sie – wie rechtshindernde Einwendungen ebenfalls – von Amts wegen zu prüfen sind. Dennoch sind Gestaltungsrechte (z.B. Rücktritt, § 346 I BGB) dem anderen Teil gegenüber zu erklären. Klassische rechtsvernichtende Einwendungen sind: § 362 I; § 364, § 378; § 389; § 142; § 346 I; § 355 I 1; § 275 I, 326 I BGB.
+
+Rechtshemmende Einreden
+Rechtshemmende Einreden führen dazu, dass ein Anspruch zwar besteht, aber nicht durchsetzbar ist. Sie sind im Rahmen des Prüfungspunktes „Anspruch durchsetzbar“ zu thematisieren. Sie werden gerade nicht von Amts wegen geprüft, wie dies bei rechtshindernden bzw. rechtsvernichtenden Einwendungen der Fall ist, vielmehr muss die jeweilige Partei sich darauf berufen. Klassische rechtshemmende Einreden sind: § 214 I; § 275 II, III; § 438 IV BGB.
+
+Peremptorische Einreden
+Dauerhafte (peremptorische) Einreden schließen die Durchsetzbarkeit eines Anspruchs auf Dauer aus, bspw. § 214 I BGB (Verjährung).
+
+Dilatorische Einreden
+Aufschiebende (dilatorische) Einreden schieben die Durchsetzbarkeit eines Anspruchs lediglich auf, bspw. § 273 I BGB (Zurückbehaltungsrecht).

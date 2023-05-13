@@ -1,0 +1,71 @@
+﻿%	§ 15 StGB – Fahrlässiges Erfolgsdelikt
+	Schema
+
+%	Merke:% Fahrlässigkeitsstrafbarkeit kommt nur dann in Betracht, wenn diese im Gesetz ausdrücklich angeordnet ist, § 15 StGB. In der Klausur ist vorher, sofern dies nicht komplett abwegig ist, immer noch das Vorsatzdelikt zu prüfen und - falls erforderlich- sauber zwischen dolus eventualis und bewusster Fahrlässigkeit abzugrenzen. 
+
+	Bei Fahrlässigkeitsdelikten ist kein Versuch möglich, denn dieser knüpft gerade an den Vorsatz an. Aus dem gleichen Grund ist keine mittelbare Täterschaft und Teilnahme möglich, auch eine „fahrlässige Mittäterschaft“ wird von der herrschenden Meinung abgelehnt. Es gilt das Prinzip des Einzeltäters, sodass jeder, der eine Sorgfaltspflicht verletzt und dadurch kausal-zurechenbar den Erfolg herbeiführt, das Fahrlässigkeitsdelikt erfüllen kann. Die einzelnen Täter stehen dann als Nebentäter zueinander, sodass der Streit, ob eine fahrlässige Mittäterschaft existiert, sich zumeist erübrigt (BeckOKStGB/Kudlich, § 15 StGB Rn. 72 ff.)
+
+
+%	1. Tatbestand
+%	a. Erfolg
+%	b. Handlung oder Unterlassen
+&	Merke:& Sollte der Schwerpunkt im Unterlassen liegen, müssen im Tatbestand noch die zusätzlichen Voraussetzungen eines Unterlassungsdelikts geprüft werden: Das Unterlassen einer dem Täter möglichen Handlung, hypothetische Kausalität, Garantenstellung und Entsprechungsklausel. 
+
+%	c. Kausalität
+%	d. Objektive Sorgfaltspflichtverletzung
+	Der Maßstab an die objektive Sorgfaltspflichtverletzung ist rein objektiv anzusetzen: Geschriebenes Recht und subsidiär ungeschriebene Gebote, wie beispielsweise Standards und Gepflogenheiten bestimmter Kreise oder Durchschnittsbürger (BeckOKStGB/Kudlich, § 15 StGB, Rn. 38).
+
+%	e. Objektive Voraussehbarkeit
+	Die objektive Voraussehbarkeit ist dann zu bejahen, wenn der Erfolg nicht außerhalb der Lebenswahrscheinlichkeit liegt. Diese Fälle laufen gleich zum „atypischen Kausalverlauf“ im Rahmen der objektiven Zurechnung bei vorsätzlichen Erfolgsdelikten, vgl. dazu die Übersicht „Kausalität und objektive Zurechnung“.
+
+%	f. Objektive Zurechnung („Pflichtwidrigkeitszusammenhang“)
+	Hier können drei Prüfungspunkte relevant werden:
+
+TAB&	- Schutzzweck der Norm
+TAB	Zu fragen ist, ob die einschlägige Norm gerade davor schützen soll, dass ein rechtswidriges Verhalten kausal in dem eingetretenen Schaden mündet. Ist dem nicht so, dann muss die objektive Zurechnung entfallen.
+
+TABTAB&	Bsp:& Der B überfährt eine rote Ampel. Zwei Kreuzungen später fährt er den Fußgänger F trotz mittlerweile korrekter Fahrweise an. Zwar ist das Überfahren der roten Ampel eine Sorgfaltspflichtverletzung, die auch kausal für das Anfahren des F war, denn wäre er angehalten, wäre er später an der Kreuzung angekommen, sodass er den F nicht anfahren hätte können. Allerdings schützen die Ampelphasen nur die dortige Verkehrskreuzung und dienen nicht zur Abwendung einer späteren Verletzung. Somit fällt dieses Verhalten außerhalb des Schutzzwecks der verletzten Norm. 
+
+
+TAB&	- Rechtmäßiges Alternativverhalten
+TAB	Der Erfolg muss „durch die Fahrlässigkeit“ eingetreten sein, entfällt also, wenn trotz rechtmäßigen Alternativverhaltens des Täters die Verletzung eingetreten wäre. Es ist umstritten, welcher Maßstab hier angelegt wird. 
+
+TAB	Die &herrschende Meinung& bejaht den Zurechnungszusammenhang nur, wenn der Taterfolg mit an Sicherheit grenzender Wahrscheinlichkeit entfallen wäre, hätte der Täter sich sorgfaltsgemäß verhalten. Hierfür wird der in-dubio-pro-reo Grundsatz angeführt. (BGHSt 11, 1)
+
+TAB	Eine &Mindermeinung& bejaht den Zurechnungszusammenhang schon dann, wenn der Täter das Risiko für den Eintritt des Taterfolges erhöht hat. Anders formuliert bedeutet das, dass sie den Zusammenhang nur dann ablehnt, wenn es sicher ist, dass auch bei rechtmäßigen Alternativverhalten der Taterfolg entfallen wäre. (Roxin, ZStW 1962, 411 (430))
+
+TABTAB&	Bsp:& Ein Fahrradfahrer wird von einem LKW angefahren und tödlich verletzt.  Der LKW-Fahrer hat einen zu geringen Abstand zum Fahrradfahrer eingehalten, allerdings war der Fahrradfahrer betrunken und fuhr Schlangenlinien, sodass nicht auszuschließen ist, dass der Unfall auch bei ordnungsgemäßen Verhalten des LKW-Fahrers passiert wäre. 
+
+TAB	Nach der &herrschenden Meinung& muss für den LKW-Fahrer der in dubio pro reo Grundsatz gelten. Da nicht klar ist, ob er den Erfolg bei rechtmäßigen Alternativverhalten hätte vermeiden können, entfällt der Zurechnungszusammenhang (BGHSt 11, 1).
+
+TAB	Nach der &Mindermeinung& hat der LKW-Fahrer jedoch das Risiko für den Erfolgseintritt erhöht. Da nicht bewiesen ist, dass der Unfall bei rechtmäßigen Alternativverhalten nicht passiert wäre, entfällt der Zurechnungszusammenhang hier nicht.
+
+
+TAB&	- Dazwischentreten Dritter oder eigenverantwortliche Selbstgefährdung des Opfers
+
+TAB	Diese Fälle laufen parallel zur objektiven Zurechnung bei vorsätzlichen Erfolgsdelikten. 
+
+TAB&	Merke:& Grundsätzlich reicht einfache, also unbewusste Fahrlässigkeit aus. Eine Ausnahme besteht dann, wenn das Gesetz die „Leichtfertigkeit“ anordnet. Leichtfertig handelt, wer die im Verkehr gebotene Sorgfalt in ungewöhnlich hohem Maße verletzt (MüKoStGB/Duttge, § 15 StGB Rn. 191).
+
+%	2. Rechtswidrigkeit
+
+%	3. Schuld
+%	a. Übliche Schuldprüfung
+%	b. Subjektive Sorgfaltspflichtverletzung
+	Anzulegender Maßstab: Persönliche Fähigkeiten des Täters.
+
+%	c. Subjektive Voraussehbarkeit
+	Anzulegender Maßstab: Persönliche Fähigkeiten des Täters.
+
+
+%	Quellen:
+	BeckOKStGB/Kudlich, 55. Edition v. 01.11.2022, § 15 StGB, Rn. 38. 
+	BeckOKStGB/Kudlich, 55. Edition v. 01.11.2022, § 15 StGB Rn. 72 ff. 
+	BGHST 11, 1.
+	MüKoStGB/Duttge, 4. Auflage 2020, § 15 StGB Rn. 191. 
+
+
+&	21.01.2023
+
+
+

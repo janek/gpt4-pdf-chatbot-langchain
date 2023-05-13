@@ -1,0 +1,83 @@
+﻿%	§ 33 StGB – Überschreitung der Notwehr
+	Schema
+
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	2. Subjektiver Tatbestand
+
+%	II. Rechtswidrigkeit
+	An dieser Stelle sind zunächst einschlägige Rechtfertigungsgründe zu prüfen, aber abzulehnen, da eine Rechtfertigungshandlung nicht erforderlich oder geboten ist.
+
+%	III. Schuld
+%	1. Objektive Voraussetzungen
+%	a. Notwehrlage
+	Gefordert ist ein gegenwärtiger rechtswidriger Angriff.
+
+&%	aa. Angriff
+	Ein Angriff ist jede durch menschliches (!) Verhalten drohende Verletzung rechtlich geschützter Interessen.
+
+&%	bb. Gegenwärtigkeit
+	Ein Angriff ist gegenwärtig, wenn die Verletzung unmittelbar bevorsteht, begonnen hat oder noch nicht abgeschlossen ist.
+	Dauergefahren sind ausgeschlossen.
+
+&%	cc. Rechtswidrigkeit
+	Ein Angriff ist rechtswidrig, wenn er nicht durch Rechtfertigungsgründe gedeckt ist.
+
+	Entsprechend wird geprüft, ob der Angreifende seinerseits womöglich gerechtfertigt ist.
+
+	P: Putativnotwehrexzess
+	Der Täter überschreitet die Grenzen der Notwehr bei nur lediglich angenommener Notwehrlage.
+
+	Es liegt also bereits keine Notwehrlage vor (Putativnotwehr), welche der Verteidigende jedoch irrig annimmt. Entsprechend scheidet ein Erlaubnistatbestandsirrtum aus, da dieser voraussetzt, dass der Täter gerechtfertigt gewesen wäre, wenn das, was er sich irrig vorstellte, zutreffend gewesen wäre. 
+
+	Wenn nun der Handelnde zusätzlich die Grenzen der Verteidigung aufgrund eines asthenischen Affektes überschreitet, liegt ein Fall des Putativnotwehrexzesses vor.
+
+	Der Putativnotwehrexzess ist von § 33 StGB nicht gedeckt (Fischer, § 33 Rn. 5).
+
+%	b. Überschreitung der Grenzen der Notwehr
+	Die Notwehrhandlung müsste erforderlich und geboten sein. Überschreitet der Verteidigende mit seiner Notwehrhandlung die Grenzen der Notwehr, dann ist seine Notwehrhandlung nicht erforderlich oder geboten. In diesen Fällen unterscheidet man zwischen intensiven und extensiven Notwehrexzess.
+
+&%	aa. Intensiver Notwehrexzess
+	Der intensive Notwehrexzess ist dadurch gekennzeichnet, dass der Rahmen der Erforderlichkeit oder Gebotenheit überschritten wurde (Fischer, § 33 Rn. 2).
+
+	Dabei verkennt der Täter die Grenzen der Notwehrhandlung.
+
+&%	bb. Extensiver Notwehrexzess
+	Der &extensive Notwehrexzess& ist dadurch gekennzeichnet, dass keine Notwehrlage (mehr) gegeben ist, der Verteidigende also die zeitlichen Grenzen der Notwehrlage verkennt. 
+
+	Der Angriff des Täters ist nicht mehr gegenwärtig (nachzeitiger Notwehrexzess) oder noch nicht gegenwärtig (vorzeitiger Notwehrexzess).
+
+TAB&	Beispiel:
+TAB	Der impulsive A geht auf B los, um diesen zu ohrfeigen.
+
+TAB	B weicht der Ohrfeige gekonnt aus und wartet, bis sich A wieder beruhigt hat. Erst dann schlägt er dem B ins Gesicht.
+
+TAB%	P:% Ist § 33 StGB in solchen Fällen überhaupt einschlägig? (vgl. JuS 2012, 408)
+TAB	Geprüft wird iRd Schuld, nachdem § 32 StGB aufgrund der fehlenden Notwehlage abgelehnt wurde.
+
+TAB&	h.M.:& Nein, da bereits keine Notwehrlage vorliegt. Somit kann deren Grenze nicht überschritten werden.
+
+TAB&	M.M.:& Ja, da "Grenzen der Notwehr" auch die zeitlichen Grenzen meint (Wortlaut).
+
+TAB&	Vermittelnde Meinung& Nur der nachzeitige ist Notwehrexzess umfasst, da es in einem solchen Fall sehr wohl zu einer Notwehrlage gekommen ist.
+
+%	2. Subjektive Voraussetzungen
+%	a. Asthenische Affekte
+	Der Verteidigende handelt aus Verwirrung, Furcht oder Schrecken (sog. &asthenische Affekte&) (Fischer, § 33 Rn. 3).
+	Nicht erfasst sind z.B. Zorn, Verwirrung, Furcht (&sthenische Affekte&).
+   
+%	b. Verteidigungswille
+	Der Verteidiger muss in Kenntnis und aufgrund der Notwehrlage handeln.
+	Ein bewusster Exzess führt zu einer Strafbarkeit wegen vorsätzlicher Tat.
+
+%	3. Rechtsfolge
+	Eine Bejahung des § 33 StGB führt zum Ausschluss der Schuld.
+
+
+%	Quellen:
+	Fischer, 67. Aufl. 2020, § 33 Rn. 2 ff.
+	JuS 2012, 408. – Entschuldigung nach §§ 33 StGB bei Putativnotwehr und Putativnotwehrexzess.
+
+
+&	15.11.2022
+

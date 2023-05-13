@@ -1,0 +1,118 @@
+﻿%	§ 25 II StGB – Mittäterschaft (getrennte Prüfung)
+	Schema
+
+%	Beachte:% Wenn die Mittäter laut Sachverhalt unterschiedliche Tatbeiträge leisten, werden die Beteiligten getrennt geprüft, wobei mit der Strafbarkeit des Tatnächsten zu beginnen ist. Der oder die weiteren Beteiligten sind im Anschluss daran zu prüfen. Dabei stellt sich unter dem Prüfungspunkt des objektiven Tatbestandes, konkreter unter dem Punkt der gemeinsamen (arbeitsteiligen) Tatbegehung die klassische Frage nach der Abgrenzung von Täterschaft und Teilnahme. Beachte, dass eine Zurechnung nach § 25 II StGB dort nicht zu thematisieren ist, wo der Tatbeteiligte selbst alle Tatbestandsmerkmale in eigener Person verwirklicht.
+
+
+%	A. Strafbarkeit des Tatnächsten
+%	B. Strafbarkeit eines weiteren Beteiligten als Mittäter gem. § 25 II StGB
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	a. Verwirklichung der objektiven Tatbestandsmerkmale des konkreten Delikts
+%	b. Tathandlung, die der Beteiligte nicht selbst verwirklicht hat, welche aber über § 25 II StGB zugerechnet werden muss
+	Im Gutachten würde man dann in etwa schreiben: „A hat C allerdings nicht selbst getreten. Fraglich ist, ob dem A der Tritt des B im Wege der wechselseitigen Zurechnung gem. § 25 II StGB zugerechnet wird. Um Mittäter zu sein, müssen A und B einen gemeinsamen Tatplan gehabt und die Tat gemeinsam ausgeführt haben.“ (JuS 2020, 731)
+
+&%	aa. Gemeinsamer Tatplan
+	Zwei oder mehrere Personen verabreden sich ernsthaft, eine bestimmte Tat gemeinsam zu begehen. Dies kann ausdrücklich oder konkludent erklärt werden. Die Zustimmung kann auch noch im Moment der Tatbestandsverwirklichung erfolgen (JuS 2020, 731).
+
+&%	bb. Gemeinsame (arbeitsteilige) Tatbegehung
+	Nach § 25 II StGB wird dann „jeder als Täter bestraft, wenn mehrere die Straftat gemeinschaftlich begehen“. Eine gemeinsame (arbeitsteilige) Tatbegehung setzt einen eigenen Tatbeitrag des Beteiligten voraus und eine Einstufung des Beteiligten als Mittäter.
+
+TAB&	(1)  Eigener Verursachungsbeitrag des Beteiligten
+TAB%	P:% Sukzessive Mittäterschaft
+TAB%	P:% Vorbereitungs- und/oder Unterstützungshandlung anstatt Mitwirkung am Kerngeschehen
+
+TAB	Zu %P:% Sukzessive Mittäterschaft
+TAB	Bei dem Problem der sukzessiven Mittäterschaft stellt sich die Frage, ob jemand Mittäter im Sinne von § 25 II StGB sein kann, wenn er seinen Tatbeitrag erst zwischen Vollendung und Beendigung des Delikts leistet. Sprich der vermeintliche Mittäter stößt erst im laufenden Geschehen dazu und ist an der Tat nicht von Beginn an beteiligt (MüKoStGB/Joecks/Scheinfeld, § 25 Rn. 208 ff.).
+
+TAB&	Beispiel: 
+TAB	A ist in ein Haus eingebrochen und hat dort mehrere Wertgegenstände gestohlen. Als er aus dem Haus herausklettert, ist die Polizei schon fast vor Ort. B, der das Geschehen aus seinem Wagen beobachtet hat, bietet dem A gegen einen Teil der Beute an, ihn vom Tatort wegzufahren und das Diebesgut zu verstauen. Kann B hier Mittäter gem. §§ 242, 244, 25 II StGB sein?
+
+TAB&	Meinung 1:
+TAB	Teilweise wird vertreten, es gebe keine sukzessive Mittäterschaft. 
+
+TAB&	Argumente:
+TAB	Durch eine sukzessive Mittäterschaft würde man einen rückwirkenden Vorsatz kreieren. Jemand könne aber keinen Vorsatz auf eine Tat haben, von der er zu ihrem Tatbeginn noch gar keine Kenntnis hatte. Weiterhin habe in den Fällen der sukzessiven Mittäterschaft in der Regel der andere die alleinige Tatherrschaft, da der vermeintliche Mittäter erst später im Geschehen dazustößt. Dann leiste dieser aber keinen täterschaftlichen Beitrag, sondern höchstens eine Beihilfe im Sinne von § 27 StGB.
+
+
+TAB&	Meinung 2:
+TAB	Die Rechtsprechung und größere Teile der Lehre haben die sukzessive Mittäterschaft anerkannt, wenn der Mittäter Kenntnis von der Tat hat, diese billigt und einen eigenen Tatbeitrag leistet. 
+
+TAB&	Argumente:
+TAB	Zum Zeitpunkt des Dazustoßens sei das Delikt eben „nur“ vollendet aber eben noch nicht beendet. Also ist auch zu einem späteren Zeitpunkt (sukzessiv) eine Mittäterschaft gemäß § 25 II StGB möglich.
+
+TAB	Zu %P:% Vorbereitungs- und/oder Unterstützungshandlung anstatt Mitwirkung am Kerngeschehen
+TAB	Für einen geeigneten Tatbeitrag gemäß § 25 II StGB reicht es aus, wenn der Mittäter einen wesentlichen Beitrag im Vorbereitungsstadium der Tat beiträgt. Ein Mittäter im Sinne von § 25 II StGB muss nicht unbedingt an der konkreten Tatausführung mitwirken (MüKoStGB/Joecks/Scheinfeld, § 25 Rn. 214 ff.).
+
+TAB&	(2) Täterschaft oder Teilnahme	
+TAB%	P:% Abgrenzung Täterschaft und Teilnahme
+TAB	Streitig ist, unter welchen Voraussetzungen eine gegenseitige Zurechnung in Frage kommt.
+
+TAB&	Meinung 1: Tatherrschaftslehre (herrschende Literaturansicht)
+TAB	Nach der Tatherrschaftslehre ist &Täter& derjenige, der die Tat beherrscht, das Tatgeschehen „in Händen hält“, über „Ob“ und „Wie“ der Tat maßgeblich entscheidet und somit „Zentralgestalt des Geschehens“ der Tatbestandsverwirklichung ist. Dabei kann der Tatbeitrag im Stadium der Planung und/oder im Rahmen der Ausführung stattfinden. 
+
+TAB	&Teilnehmer& ist entsprechend derjenige, der lediglich Randfigur des Geschehens ist und dessen Mitwirkung sich in dem Hervorrufen des Tatentschlusses (Anstifter) oder dem Hilfeleisten (Beihilfe) erschöpft.
+	
+						
+TAB&	Meinung 2: Normative Kombinationslehre (BGH)
+TAB	Der BGH rückte nach und nach von der früher vertretenen subjektiven Theorie ab, wonach Täter derjenige ist, der mit Täterwillen handelt und die Tat als eigene will (animus auctoris) und Teilnehmer derjenige, der mit Teilnehmerwillen (animus socii) tätig wird und die Tat als fremde Tat veranlassen oder fördern möchte. (NStZ 1995, 285)
+
+TAB	Der heutige Ansatz des BGH‘s ist eine Mischung aus objektiven Kriterien der Tatherrschaftslehre und der subjektiven Theorie, wobei eine wertende Betrachtung anzustrengen ist. Kriterien, um die Mittäterschaft von sonstiger Beteiligung abgrenzen zu können, sind demnach: Der Grad des eigenen Interesses am Erfolg der Tat, der Umfang der Tatbeteiligung, die objektive Tatherrschaft und der subjektive Wille zur Tatherrschaft. (Fischer, 67. Aufl. 2020, StGB § 25 Rn. 26 f.)
+
+
+%	2. Subjektiver Tatbestand
+%	a. Vorsatz bezogen auf die Verwirklichung der objektiven Tatbestandsmerkmale des konkreten Delikts
+%	b. Vorsatz bezogen auf den gemeinsamen Tatplan und die gemeinschaftliche Tatbegehung
+%	P:% Mittäterexzess
+%	P:% Zurechnung eines error in persona durch den Mittäter?
+
+	Zu %P:% Mittäterexzess
+	Ein Mittäter muss geäß § 25 II StGB nur verantworten, worauf er sich im gemeinsamen Tatplan mit dem anderen Mittäter geeinigt hat. Alles, was darüber hinausgeht, hat der andere Mittäter nicht zu verantworten (MüKoStGB/Joecks/Scheinfeld, 4. Aufl. 2020, § 25 Rn. 239).
+
+TAB&	Beispiel:
+TAB	Wenn A und B den X bestehlen wollen, dies auch so absprechen, und B dann bei der Tat plötzlich ein Messer zieht und den X niedersticht, ist A dafür mangels Vorsatzes nicht gem. §§ 212, 25 II StGB strafbar. 
+
+TAB	Beachte, dass es höchst unwahrscheinlich ist, dass die Tatbegehung bis ins kleinste Detail abgesprochen wird. Auch ist es höchst unwahrscheinlich, dass der konkrete Plan eins zu eins so umgesetzt wird, da immer Abweichungen möglich sind. Daher sind lediglich wesentliche Abweichungen vom gemeinsamen Tatplan geeignet, eine Zurechnung über § 25 II StGB entfallen zu lassen.
+
+TAB	Wesentlich ist eine Abweichung beispielsweise, wenn ein Mittäter während eines geplanten Diebstahls ohne das Wissen der anderen plötzlich ein Messer zückt und den bellenden Hund tötet(JuS 2020, 733).
+
+
+	Zu %P:% Zurechnung eines error in persona durch den Mittäter?
+	Problematisch ist, ob ein Mittäter Vorsatz auf die Haupttat hat, wenn der andere Mittäter einem unbeachtlichen error in objecto / error in persona unterliegt (MüKoStGB/Joecks/Kulhanek, § 16 Rn. 99).
+
+	Dieses Problem setzt voraus, dass man die Irrtumslehre verstanden hat. 
+
+TAB&	Beispiel: 
+TAB	A und B wollen den C in Mittäterschaft töten. Stattdessen tötet B bei der Ausführung den D, welchen er für C hält.
+
+TAB&	Meinung 1:
+TAB	Teilweise wird vertreten, dass in solchen Fällen der Vorsatz des Mittäters gem. § 16 I StGB entfällt, weil für ihn ein aberratio ictus vorliegt. 
+
+TAB&	Argumente:
+TAB	Der vorgestellte Kausalverlauf verfehle hier das Ziel. Da der Tatplan auf ein anderes Objekt konkretisiert war, liege eine wesentliche Abweichung im Sinne von § 16 I StGB vor. Nach dieser Lösung bestünden auch keine Strafbarkeitslücken, da weiterhin eine Fahrlässigkeitsstrafbarkeit und § 30 II StGB einschlägig sein können.
+
+
+TAB&	Meinung 2:
+TAB	Nach einer anderen Ansicht entfällt der Vorsatz des Mittäters hier nicht gem. § 16 I StGB. Er ist also dennoch wegen einem vorsätzlichen Begehungsdelikt strafbar. 
+
+TAB&	Argumente:
+TAB	Es bestehe keine wesentliche Abweichung vom vorgestellten Kausalverlauf im Sinne von § 16 I StGB. Also könne auch keine aberratio ictus für den Mittäter vorliegen. Die Verwechslung des anderen Mittäters liegt nicht außerhalb jeglicher Lebenserfahrung und ist daher nicht wesentlich. Weiterhin solle der Mittäter im Prozess nicht einwenden können, dass er die Tat so nicht gewollt habe, da dies jeder behaupten könne.
+
+%	c. Bewusstsein der Tatherrschaft; Täterwillen
+%	d. Besondere Absichten (z.B. Zueignungsabsicht)
+%	e. Sonstige besondere subjektiven Merkmale
+
+%	II. Unter Umständen Tatbestandsverschiebung nach § 28 II StGB
+%	III. Rechtswidrigkeit (für jeden Mittäter einzeln zu prüfen)
+%	IV. Schuld (für jeden Mittäter einzeln zu prüfen)
+
+
+%	Quellen:
+	Fischer, 67. Aufl. 2020, StGB § 25 Rn. 26 f.
+	Roxin, Täterschaft und Teilnahme, 10. Auflage 2019, II, 25/27.
+	Münchener Kommentar zum StGB / Joecks/Scheinfeld, 4. Aufl. 2020, § 16 Rn. 99; § 25 Rn. 208 ff.; 214 ff.; 239.
+	JuS 2020, 731, 733.
+	NStZ 1995, 285.
+
+
+&	22.11.2022

@@ -1,0 +1,19 @@
+﻿§ 15 StGB – Vorsätzliches und fahrlässiges Handeln
+Definitionen
+
+Vorsatz
+Unter Vorsatz versteht man das Wissen und Wollen hinsichtlich der Tatbestandsverwirklichung.
+Merke: Vorsatz besteht, wie aus seiner Definition ersichtlich, aus einem kognitiven und einem voluntativen Element. Ausreichend für die kognitive Komponente ist ein sog. „sachgedankliches Mitbewusstsein“, somit eine „Kenntnis unterhalb der aktuellen Bewusstseinsschwelle“. Für die voluntative Komponente reicht ein bloßes Wünschen nicht aus. Vorsatz muss zum Zeitpunkt der Tathandlung vorliegen und sich auf alle objektiven Tatbestandsmerkmale beziehen.
+
+Dolus directus 1. Grades / Absicht
+Der Täter strebt die Tatbestandsverwirklichung an. Es kommt dem Täter auf den Erfolg an, sein Wille ist mithin auf den Erfolg gerichtet. Es ist gleichgültig, ob der Täter die Tatbestandsverwirklichung nur für möglich hält. 
+
+Dolus directus 2. Grades / Wissen
+Der Täter weiß, dass er den Tatbestand verwirklicht oder sieht als sicher voraus, dass er den Tatbestand verwirklichen wird. Es ist gleichgültig, ob der Täter die Verwirklichung anstrebt oder, dass er die als sicher vorausgesehene Folge lieber vermieden hätte.
+
+Dolus eventualis
+Der Täter strebt die Tatbestandsverwirklichung nicht an, noch hält er sie für sicher, aber für möglich. Der Täter ist mit dem Eintritt des Erfolges einverstanden und nimmt ihn entsprechend billigend in Kauf, findet sich mit der Tatbestandsverwirklichung also ab. Voraussetzend ist, dass der Täter den (womöglich auch unerwünschten) Erfolg zumindest als möglich und nicht ganz fernliegend erkennt. Der Täter ist einverstanden mit dem Erfolg.
+
+Fahrlässigkeit
+Fahrlässig handelt, wer einen Tatbestand rechtswidrig verwirklicht, indem er objektiv gegen eine Sorgfaltspflicht verstößt, die gerade dem Schutz des beeinträchtigten Rechtsguts dient, und wenn dieser Pflichtverstoß unmittelbar oder mittelbar eine Rechtsgutsverletzung oder Gefährdung zur Folge hat, die der Täter nach seinen subjektiven Kenntnissen und Fähigkeiten vorhersehen und vermeiden konnte.
+

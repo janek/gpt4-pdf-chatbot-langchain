@@ -1,0 +1,58 @@
+﻿%	Aufbau eines Anspruchs
+	Schema
+
+%	Merke:% Eine Person steht dann ein Anspruch zu, wenn dieser entstanden, nicht erloschen und durchsetzbar ist.
+
+%	I. Anspruch entstanden
+%	1. Vorliegen der anspruchsspezifischen Tatbestandsmerkmale
+%	2. Keine rechtshindernden Einwendungen
+	Hier sind &rechtshindernde Einwendungen& zu prüfen. Diese sind oft am Wortlaut „ist […] unwirksam“ oder „ist […] nichtig“ erkennbar.
+
+	Rechtshindernde Einwendungen &verhindern die Entstehung eines Anspruchs& und sind von Amts wegen zu berücksichtigen, die Partei muss sich also nicht darauf berufen.
+
+	Insbesondere wichtig sind:
+TAB	- Geschäftsunfähigkeit, § 105 I BGB,
+TAB	- Beschränkte Geschäftsunfähigkeit, §§ 108 I, 111 BGB,
+TAB	- Formunwirksamkeit, § 125 S. 1 BGB,
+TAB	- Verstoß gegen ein Verbotsgesetz, § 134 BGB,
+TAB	- Wucher, § 138 II BGB,
+TAB	- Sittenwidrigkeit, § 138 I BGB.
+
+%	II. Anspruch untergegangen
+	Hier sind &rechtsvernichtende Einwendungen& zu prüfen. Diese sind oft am Wortlaut „ist […] ausgeschlossen“ erkennbar.
+
+	Rechtsvernichtende Einwendungen bringen einen bereits entstandenen Anspruch &nachträglich zum Erlöschen&. Beachte, dass rechtsvernichtende Einwendungen ebenfalls von Amts wegen zu prüfen sind. Dennoch sind Gestaltungsrechte (s.u.) dem anderen Teil gegenüber zu erklären.
+
+	Insbesondere wichtig sind:
+TAB&	- Erfüllung, § 362 I BGB
+TAB&	- Erfüllungssurrogate
+TABTAB	o Leistung erfüllungshalber/an Erfüllungs statt, § 364 BGB
+TABTAB	o Hinterlegung, § 378 BGB
+TABTAB	o Aufrechnung, § 389 BGB (führt meist nur zum teilweisen Erlöschen)
+
+TAB&	- Gestaltungsrechte
+TABTAB	o Anfechtung, § 142 BGB (str.)
+TABTAB	o Rücktritt, § 346 I BGB
+TABTAB	o Widerruf, § 355 I 1 BGB
+
+TAB	- Leistungsstörungen
+TABTAB	o Unmöglichkeit, § 275 I, 326 I BGB
+
+%	III. Anspruch durchsetzbar
+	Hier sind &rechtshemmende Einreden& zu prüfen. Diese erkennt man oft am Wortlaut „kann […] verhindern“. Sie sind bereits rein denklogisch, erst nach den rechtsvernichtenden Einwendungen zu prüfen. Ist nämlich ein Anspruch erloschen, stellt sich die Frage nach der Durchsetzbarkeit überhaupt nicht mehr.
+
+	Rechtshemmende Einreden führen dazu, dass ein Anspruch zwar besteht, aber &nicht durchsetzbar& ist. Die jeweilige Partei muss sich darauf berufen, sie werden gerade nicht von Amts wegen geprüft, wie dies bei rechtshindernden bzw. rechtsvernichtenden Einwendungen der Fall ist.
+
+	Insbesondere wichtig sind:
+TAB	- &Dauerhafte (peremptorische) Einreden& schließen die Durchsetzbarkeit eines Anspruchs auf Dauer aus.
+TABTAB	o Verjährung, § 214 I BGB
+TABTAB	o Berechtigte Leistungsverweigerung, § 275 II, III BGB
+TABTAB	o Leistungsverweigerungsrecht, § 438 IV BGB
+
+TAB	- &Aufschiebende (dilatorische) Einreden& schieben die Durchsetzbarkeit eines Anspruchs lediglich auf.
+TABTAB	o Zurückbehaltungsrecht, § 273 I BGB
+TABTAB	o Einrede des nichterfüllten Vertrages, § 320 BGB
+TABTAB	o Stundung
+
+
+&	11.08.2022

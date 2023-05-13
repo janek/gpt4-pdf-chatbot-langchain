@@ -1,0 +1,110 @@
+﻿%	§ 25 I Alt. 2 StGB – Mittelbare Täterschaft
+	Schema
+
+%	Merke:% Der Tatnächste wird immer zuerst geprüft. Der mittelbare Täter ist ein Hintermann und somit folgt seine Strafbarkeitsprüfung erst im Anschluss an den/die Tatnächsten/Tatnäheren. 
+
+
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	a. Nicht alle Tatbestandsmerkmale in eigener Person gemäß § 25 I Alt. 1 StGB verwirklicht
+%	b. Mittelbare Täterschaft darf nicht ausgeschlossen sein (Täterqualität)
+	Ausgeschlossen ist die mittelbare Täterschaft bei sog. &Eigenhändigen Delikten& und &Sonderdelikten&:
+
+	- Eigenhändige Delikte setzen eine eigenhändige Vornahme der Tatbestandsverwirklichung voraus, so z.B. 315 c StGB oder 153 ff. StGB.
+
+	- Bestimmte Sonderdelikte knüpfen besondere Eigenschaften an den Täter an. Bspw. muss der Täter für eine Strafbarkeit nach § 348 StGB ein Amtsträger sein, der zur Aufnahme öffentlicher Urkunden befugt ist.
+
+%	c. Erfolgseintritt
+%	d. Einwirkungshandlung des Hintermanns (mittelbarer Täter) auf den Vordermann (Tatnächster / Tatnäherer)
+
+%	e. Strafbarkeitsbegründung der Einwirkungshandlung
+&%	aa. Strafbarkeitsmangel beim Vordermann
+	Die Strafbarkeit des Hintermanns wird dadurch begründet, dass dieser die Tat „durch“ einen anderen begeht. Er ruft einen Strafbarkeitsdefekt beim Vordermann (Tatnächster/ Tatnäherer) hervor, den er als Hintermann für seine eigenen Zwecke ausnutzt.
+
+	Dieser Defekt kann auf Ebene des objektiven Tatbestandes, des subjektiven Tatbestandes, auf Ebene der Rechtswidrigkeit oder auf Ebene der Schuld begründet werden.
+
+TAB&	(1) Tatbestandslos
+TAB&	Bsp.:& Der Vordermann richtet eine Tat gegen sich selbst. (vgl. Sirius-Fall BGHSt 32, 38)
+
+TAB&	(2) Vorsatzlos oder absichtslos
+TAB&	Bsp.:& Der mittelbare Täter T sagt dem Vordermann V wahrheitswidrig, dass der Mantel an der Eingangstür ihm gehöre und bittet V ihn beim Verlassen der Wohnung mitzunehmen. V erfüllt zwar den objektiven Tatbestand des § 242 StGB, allerdings fehlt es an einem entsprechenden Vorsatz. Immerhin wusste V nicht, dass er einen Gewahrsamsbruch und somit eine Wegnahmehandlung beging. Er unterliegt einem vorsatzausschließenden Tatbestandsirrtum nach § 16 StGB.
+
+TAB&	(3) Nicht rechtswidrig
+TAB&	Bsp.:& Der Hintermann provoziert den Hund des Nachbarn, der auf den Vordermann losgeht, dieser wehrt sich in Einklang mit § 34 StGB.
+
+TAB&	(4) Schuldlos bzw. vermindert schuldfähig handelt
+TAB&	Bsp.:& Der Vordermann ist nicht strafmündig, § 19 StGB.
+
+TAB&	Bsp.:& A, sieht den heraneilenden B, den er noch nie gut leiden konnte und sagt dem neben ihm stehenden C, dass B den C verprügeln möchte. C, der den B nicht gut erkennen kann, will sich verteidigen und schlägt zu (Hervorrufen eines ETBI).
+
+TAB&	Bsp.:& Der geschätzte Anwalt A sagt zu seinem Mandanten, dass er auch vor Gericht falsch aussagen kann, wenn er bereits bei der Polizei gelogen hat (unvermeidbarer Verbotsirrtum).
+
+TAB%	P:% Abgrenzung Mittelbare Täterschaft zu Anstiftung:
+TAB	In manchen Fällen ist es schwierig abzugrenzen, ob die zu prüfende Person Täter oder Teilnehmer ist. Insbesondere sind häufig Anstiftung und mittelbare Täterschaft sowie Beihilfe und Mittäterschaft schwierig voneinander abzugrenzen. In solchen Fällen gilt stets: Täterschaft vor Teilnahme. Zuerst prüft man eine Strafbarkeit wegen einer täterschaftlichen Beteiligung und nur dann, wenn keine Täterschaft vorliegt, geht man zur Prüfung der Teilnahme über. 
+
+TAB	Zur Abgrenzung von Täterschaft und Teilnahme gibt es zwei wesentliche Ansätze: Die &Tatherrschaftslehre (h.L.)& und die normative &Kombinationstheorie (BGH)&, die teilweise auch subjektive Theorie genannt wird. Jede dieser Theorien stellt unterschiedliche Anforderungen daran, unter welchen Voraussetzungen jemand Täter oder Teilnehmer ist. 
+
+TABTAB&	Meinung 1 / Tatherrschaftslehre:
+TABTAB	Nach der Tatherrschaftslehre ist Täter, wer allein oder mit anderen zusammen die Tatbestandsverwirklichung beherrscht. Der Täter muss den tatbestandlichen Geschehensablauf "in den Händen halten" und dementsprechend Einfluss auf den Geschehensablauf haben. Hat er dies nicht, ist er lediglich Teilnehmer (Anstifter oder Gehilfe) (Roxin, Täterschaft und Teilnahme, 10. Auflage 2019, II, 25/27).
+
+TABTAB&	Argumente:
+TABTAB	Für die Tatherrschaftslehre spricht, dass sie durch klare, äußerlich erkennbare Kriterien ein hohes Maß an Rechtssicherheit gewährleistet.
+
+TABTAB&	Meinung 2 / Normative Kombinationstheorie:
+TABTAB	Nach der normativen Kombinationstheorie des BGH ist Täter, wer die Tat als eigene will (sog. animus auctoris). Indizien hierfür sind der Wille des Täters zur Tatherrschaft (subjektiv), das Gefühl der Mitverantwortlichkeit für das Gelingen der Tat (subjektiv), der Umfang der Tatbeteiligung (objektiv) und die Tatherrschaft (objektiv). Diese Theorie zieht bei der Frage nach der Täterqualität also subjektive und objektive Kriterien heran (Fischer, 67. Aufl. 2020, StGB § 25 Rn. 26 f.). 
+
+TABTAB	Teilnehmer nach der normativen Kombinationstheorie ist, wer die Tat als fremde Tat will (animus socii), indem er seinen Beitrag dem Willen eines anderen unterordnen will (NStZ 1995, 285).
+
+TABTAB&	Argumente:
+TABTAB	Für die normative Kombinationstheorie spricht, dass sie eine hohe Einzelfallgerechtigkeit gewährleistet, da alle vorliegenden Umstände mit einbezogen werden (subjektiv wie objektiv). Anhänger dieser Theorie argumentieren außerdem, dass die Tatherrschaftslehre im Widerspruch zur conditio-sine-qua-non-Regel steht, wonach alle Kriterien, subjektiv wie objektiv, für die Strafbarkeit gleichwertig relevant sind.
+
+TABTAB	Natürlich kann man beiden Theorien im Gutachten folgen. Wichtig ist – wie immer – die Argumentation, weshalb man eine Theorie überzeugender findet als die andere.
+
+TABTAB	Ein weiteres Problem in diesem Zusammenhang ist der sog. „Täter hinter dem Täter“.
+
+TABTAB%	P:% Täter hinter dem Täter
+TABTAB	Mit „Täter hinter dem Täter“ werden Fallgruppen beschrieben, in denen sich der Hintermann als mittelbarer Täter voll strafbar macht, obwohl beim Vordermann überhaupt kein Strafbarkeitsdefizit besteht. Bei dieser Konstellation hat man also zwei Täter, einen unmittelbaren (Vordermann) und einen mittelbaren (Hintermann). 
+
+TABTAB	Ob es einen solchen „Täter hinter dem Täter“ überhaupt geben kann, ist umstritten (MüKoStGB/Joecks/Scheinfeld, 4. Aufl. 2020, § 25 Rn. 111 ff.). Im Gutachten empfiehlt es sich, zunächst diesen Streit zu bringen und erst im Anschluss die Fallgruppen des „Täters hinter dem Täter“ zu bringen. 
+
+TABTAB&	Meinung 1:
+TABTAB	Teilweise wird vertreten, dass die Konstellation des „Täters hinter dem Täter“ abzulehnen ist. 
+
+TABTAB&	Argumente: 
+TABTAB	Hat der Vordermann als unmittelbar Agierender die Tatverantwortung, kann nicht auch ein anderer als Hintermann diese Tatverantwortung haben (Verantwortungsprinzip). Weiterhin sei der Hintermann auch ohne die Konstellation des „Täters hinter dem Täter“ nicht straflos, da er trotzdem wegen Anstiftung gem. § 26 StGB strafbar sein kann.
+
+TABTAB&	Meinung 2: 
+TABTAB	Die Rechtsprechung und Teile der Lehre akzeptieren den „Täter hinter dem Täter“. 
+
+TABTAB&	Argumente:
+TABTAB	Sie argumentieren, dass es in bestimmten Einzelfällen einen „Täter hinter dem Täter“ geben muss. Das Verantwortungsprinzip sei zu starr, da es den Täterwillen des Hintermannes verkennt. Weiterhin zeige auch § 25 II StGB, dass es mehrere Täter gleichzeitig geben kann.
+TABTAB	In folgenden Einzelfällen wird ein „Täter hinter dem Täter akzeptiert“:
+
+TABTAB	(1) Hervorrufen eines error in persona beim Vordermann
+TABTAB	(2) Hervorrufen eines vermeidbaren Verbotsirrtums beim Vordermann
+TABTAB	(3) Im Rahmen organisatorischer Machtapparate 
+TABTAB	(4) Irrtum des Vordermanns über gesetzliche Qualifikationsmerkmale
+
+&%	bb. Organisationsherrschaft
+	Darüber hinaus muss der Hintermann als mittelbarer Täter das Geschehen kraft überlegenen Wissens oder Wollens steuern, sodass er eine die Tatherrschaft begründende Stellung erlangt.
+
+%	2. Subjektiver Tatbestand
+%	a. Vorsatz bezogen auf die objektive Tatbestandsverwirklichung des Vordermanns sowie Bewusstsein der eigenen Tatherrschaft bzw. Täterwille
+%	b. Spezielle Absichten, z.B. Zueignungsabsicht
+%	c. Besondere subjektive Merkmale
+
+%	II. Unter Umständen Tatbestandsverschiebung nach § 28 II StGB
+%	III. Rechtswidrigkeit
+%	IV. Schuld
+
+
+%	Quellen: 
+	Roxin, Täterschaft und Teilnahme, 10. Auflage 2019, II, 25/27
+	NStZ 1995, 285
+	Fischer, 67. Aufl. 2020, StGB § 25 Rn. 26 f.
+	Münchener Kommentar zum StGB / Joecks/Scheinfeld, 4. Aufl. 2020, § 25 Rn. 111 ff.
+
+
+&	22.11.2022
+
+

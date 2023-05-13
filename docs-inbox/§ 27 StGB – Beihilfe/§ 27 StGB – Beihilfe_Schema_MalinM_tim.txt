@@ -1,0 +1,42 @@
+﻿%	§ 27 StGB – Beihilfe
+	Schema
+
+%	A. Strafbarkeit des Haupttäters
+%	B. Strafbarkeit des weiteren Beteiligten als Gehilfe
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	a. Taugliche Vortat
+	Es muss eine (zumindest versuchte) vorsätzliche und rechtswidrige Haupttat vorliegen.
+	Die Haupttat muss nicht schuldhaft begangen worden sein. Ein Rücktritt des Vordermannes ändert nichts an dem Vorsatz und der Rechtswidrigkeit der Haupttat.
+
+%	b. Hilfe leisten
+&	Hilfeleisten ist jedes Ermöglichen oder Erleichtern der Tat.
+	Sie umfasst jedes aktive Tun oder pflichtwidriges Unterlassen in Garantenstellung und kann physischer oder psychischer Natur sein.
+
+TAB%	P:% Sukzessive Beihilfe
+TAB	Ein Fall der sukzessiven Beihilfe liegt dann vor, wenn der Gehilfe erst nach Vollendung, aber noch vor Beendigung der Haupttat tätig wird. 
+
+TAB	In solchen Fallkonstellationen wird es häufig zu Überschneidungen mit § 257 StGB (Begünstigung) kommen. Fest steht, dass für Fälle vor der Vollendung allein Beihilfe in Betracht kommt und nach der Beendigung nur § 257 StGB. Der Zeitraum zwischen Vollendung und Beendigung ist dabei strittig. 
+
+TAB	Dabei gilt: Unterstützungshandlungen, welche die Vortat erfolgreich beenden oder die Beendigung zumindest fördern sollen und somit der Vortat zugutekommen, sind unter Beachtung des § 257 III StGB als Beihilfe zur Haupttat zu sehen. Nach § 257 III StGB wird wegen Begünstigung nämlich nicht bestraft, wer wegen Beteiligung an der Haupttat bestraft wird.
+
+%	2. Subjektiver Tatbestand
+%	a. Vorsatz bezogen auf die (Vollendung) der Haupttat
+	Der Gehilfe muss Vorsatz zumindest bezogen auf die Grundzüge der Tat, die wesentlichen Merkmale der Tat und auf mögliche Täter haben. Den Kausalverlauf muss er in seinen wesentlichen Zügen erfassen.
+
+%	b. Vorsatz bezogen auf das Hilfeleisten
+
+%	3. Unter Umständen Tatbestandsverschiebung nach § 28 II StGB
+
+%	II. Rechtswidrigkeit
+%	III. Schuld
+%	IV. Strafzumessungsregeln
+	Laut Gesetz richtet sich die Strafandrohung des Gehilfen nach derjenigen des Täters.
+	Es besteht die Möglichkeit einer Strafmilderung nach § 28 I StGB, sollten strafbegründende, besondere persönliche Merkmale fehlen.
+
+
+%	Quellen: 
+	Heine und Weißer in: Schönke/Schröder, 30. Aufl. 2019, StGB § 27 Rn. 14 f., 20 ff.
+
+
+&	22.11.2022

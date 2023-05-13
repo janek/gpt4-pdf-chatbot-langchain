@@ -1,0 +1,31 @@
+﻿Vertretenmüssen und Verschulden
+Definitionen
+
+Vertretenmüssen
+Nach § 276 I BGB hat der Schuldner (1) Vorsatz und (2) Fahrlässigkeit zu vertreten, wenn eine (3) strengere oder (4) mildere Haftung weder bestimmt noch aus dem sonstigen Inhalt zu entnehmen ist. § 276 BGB ist keine (!) Anspruchsgrundlage, sondern eine Zurechnungsnorm. Ein Vertretenmüssen wird in bestimmten Normen konkretisiert, sodass der Rechtsanwender weiß, ob er Vorsatz und/oder Fahrlässigkeit zu vertreten hat (z.B. § 280 I S. 2 BGB), oder ob ein Fall der milderen (z.B. § 599 oder § 300 BGB) oder strengeren Haftung (z.B. § 287 BGB oder die Übernahme einer Garantie oder eines Beschaffungsrisikos, vgl. § 276 I S. 1 BGB) vorliegt.
+
+Verschulden
+Das Verschulden ist der Oberbegriff für Vorsatz und Fahrlässigkeit, jedoch nicht für eine mildere oder strengere Haftung. Ein Vertretenmüssen setzt im Grundsatz ein Verschulden voraus. 
+Bsp.: Beschädigt ein Vertragspartner fahrlässig den Vertragsgegenstand, so wird nach § 280 I S. 2 BGB ein Vertretenmüssen (Fahrlässigkeit bzw. Vorsatz) vermutet, weshalb er die Beschädigung auch zu verschulden hat.
+
+Vertretenmüssen ohne Verschulden
+Es gibt Fallkonstellationen, in denen der Schuldner eine Pflichtverletzung nicht zu verschulden hat (er die Pflichtverletzung weder fahrlässig noch vorsätzlich begangen hat), ein Vertretenmüssen aber dennoch bejaht wird. Dies ist insbesondere der Fall, wenn eine – auch konkludent geschlossene – Parteivereinbarung eine verschuldensunabhängige Haftung vorsieht oder aber im Fall der Übernahme einer Garantie oder eines Beschaffungsrisikos, vgl. § 276 I S. 1 BGB. Dies sind nämlich strengere Haftungsmaßstäbe iSd § 276 I S. 1 BGB. 
+Bsp.: W überlässt dem B leihweise seine Gitarre für einen Live-Auftritt. Sie vereinbaren eine verschuldensunabhängige Haftung. Nach dem erfolgreichen Gig wird die Gitarre ohne einen Fremdeingriff ganz leicht beschädigt, da ein Mikrofon auf sie fällt. Trotz mangelnden Verschuldens hat B die Pflichtverletzung zu vertreten.
+
+Kein Vertretenmüssen trotz Verschulden
+Es gibt Fälle, in denen ein milderer Haftungsmaßstab anzulegen ist, wie bspw. in § 300 BGB. Danach hat der Schuldner während des Verzugs des Gläubigers nur Vorsatz und grobe Fahrlässigkeit zu vertreten, aber eben keine einfache Fahrlässigkeit. Grundsätzlich ist Vorsatz und (grobe) Fahrlässigkeit also vom Verschulden umfasst, aber eben nicht vom Vertretenmüssen, da die einfache Fahrlässigkeit nicht darunterfällt.
+
+Fahrlässigkeit, § 276 II BGB
+Fahrlässig handelt, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.
+
+Verantwortlichkeit des Schuldners für Dritte, § 278 BGB
+§ 278 BGB ist eine Zurechnungsnorm im Rahmen von bestehenden vertraglichen oder gesetzlichen Schuldverhältnissen, hingegen keine Anspruchsgrundlage. Das Verschulden von Erfüllungsgehilfen und gesetzlichen Vertretern wird dem Schuldner zugerechnet und wie sein eigenes Verschulden behandelt. D.h. bei § 278 BGB haftet der Geschäftsherr für fremdes Verschulden ohne Rücksicht auf sein eigenes Verhalten.
+
+Erfüllungsgehilfe
+Erfüllungsgehilfe ist, wer nach den tatsächlichen Gegebenheiten des Falles mit dem Willen des Schuldners bei der Erfüllung einer diesem obliegenden Verbindlichkeit als seine Hilfsperson tätig wird und dabei nicht zwingend weisungsgebunden ist, es aber sein kann.
+
+Haftung für Verrichtungsgehilfen, § 831 BGB
+§ 831 BGB ist keine Zurechnungsnorm, sondern eine Anspruchsgrundlage. Nach § 831 BGB haftet der Geschäftsherr aus eigenem Fehlverhalten heraus, nämlich weil er selbst beim Einsatz von Hilfspersonen Verkehrssicherungspflichten verletzt.  Er haftet für eigenes vermutetes Verschulden ohne Rücksicht auf das Verschulden der Hilfsperson.
+
+Verrichtungsgehilfe
+Zu einer Verrichtung bestellt ist, wem eine Tätigkeit wissen- und willentlich von einem anderen übertragen worden ist, unter dessen Einfluss er allgemein oder im konkreten Fall handelt und zu dem er in einer gewissen Abhängigkeit steht und deshalb weisungsabhängig ist.

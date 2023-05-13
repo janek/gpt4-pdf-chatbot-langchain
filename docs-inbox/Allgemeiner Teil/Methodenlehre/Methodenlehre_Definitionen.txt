@@ -1,0 +1,34 @@
+﻿Methodenlehre
+Definitionen
+
+Wortlautauslegung (grammatische Auslegung)
+Die Wortlautauslegung orientiert sich streng am Gesetzeswortlaut und ist die vorrangige Auslegungsmethode. 
+Bsp.: § 306 StGB befindet sich zwar in einem anderen Abschnitt als § 303 StGB, setzt aber dem Wortlaut nach – wie § 303 StGB auch – „Fremdheit“ voraus.
+
+Systematische Auslegung
+Es findet eine Gesamtbetrachtung der Vorschriften statt, die sich in dem jeweiligen Abschnitt oder Kapitel befinden, um dadurch eine Aussage über die Intention des Gesetzgebers bzw. die Interpretation der infragestehenden Regelung treffen zu können.
+
+Analogie
+Unter Analogie versteht man die Anwendung einer Rechtsnorm auf einen Sachverhalt, der so in vorliegender Form von der konkreten Rechtsnorm nicht gedeckt ist, aber einen ähnlichen ungeregelten Fall darstellt. Sie ist eine Form der Rechtsfortbildung. Eine analoge Anwendung setzt „eine vergleichbare Interessenlage“ und eine „planwidrige Regelungslücke“ voraus. Darüber hinaus darf kein Analogieverbot bestehen. 
+Bsp.: Die Anwendung von § 1004 BGB analog iVm § 823 I BGB erweitert den Unterlassungs- bzw. Beseitigungsanspruch des § 1004 BGB auf die in § 823 I BGB genannten absolut geschützten Rechtsgüter.
+
+Vergleichbare Interessenlage
+Die Interessenlage ist vergleichbar, wenn sich beide Sachverhalte in allen wesentlichen Merkmalen gleichen.
+
+Planwidrige Regelungslücke
+Eine Regelungslücke liegt vor, wenn der konkrete Sachverhalt nicht geregelt ist, sich also nicht unter den Gesetzeswortlaut subsumieren lässt. Planwidrig ist dies dann, wenn davon auszugehen ist, dass der Gesetzgeber diesen konkreten Sachverhalt geregelt hätte, wenn er ihn bedacht hätte.
+
+Analogieverbot
+Im Strafrecht gilt ein Analogieverbot zu Lasten des Täters, was sich aus dem Grundsatz „keine Strafe ohne Gesetz“ (nulla poena sine lege) ableitet und in § 1 StGB sowie in Art. 103 II GG normiert ist.
+	
+Erst-Recht-Schluss („argumentum a fortiori“)
+Es handelt sich bei dem Erst-Recht-Schluss um eine Sonderform der Analogie. Der ungeregelte Fall wird versucht wie folgt zu lösen: Wenn „abc“ bereits geregelt ist, dann muss dies doch erst recht für „cde“ gelten.
+Bsp.: Wenn § 244 I Nr. 1 b StGB bereits die Absicht der Verwendung eines Werkzeuges unter Strafe stellt, welches der Täter bei sich führt, dann erst recht auch die tatsächliche Verwendung.
+
+Umkehrschluss („argumentum e contrario“)
+Eine Schlussfolgerung wird aus dem logischen Umkehrschluss einer gesetzlichen Regelung getroffen.
+Bsp.: Aus dem Umkehrschluss des § 687 I, II BGB lässt sich das Erfordernis eines voluntativen und eines kognitiven Elements des Fremdgeschäftsführungswillens für die berechtigte GoA ableiten.
+
+Teleologische Reduktion
+Die teleologische Reduktion dient der „Verengung“ des Gesetzeswortlautes und stellt somit das Gegenteil einer Analogie dar. 
+Bsp.: § 181 BGB normiert das Verbot eines Insichgeschäfts. Eine teleologische Reduktion dieser Norm führt dazu, dass Eltern sehr wohl ihrem geschäftsunfähigen Kind ein Geschenk machen können, da sowohl das Verpflichtungsgeschäft (Schenkungsvertrag) als auch die Einigung des Verfügungsgeschäfts nun nicht mehr zu von § 181 BGB vorgegebenen Beschränkungen führt.

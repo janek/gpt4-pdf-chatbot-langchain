@@ -1,0 +1,125 @@
+﻿%	§ 13 I StGB – Begehen durch Unterlassen
+	Schema
+
+%	Merke:% Man unterscheidet zwischen unechten und echten Unterlassungsdelikten. 
+
+&	Echte Unterlassungsdelikte& sind dadurch charakterisiert, dass bereits der Wortlaut des Tatbestandes hergibt, dass ein konkretes Nichthandeln oder ein Unterlassen unter Strafe steht, vgl. Wortlaut § 323c StGB oder § 123 I Var. 2 StGB. Diese Delikte kann man also „nur“ durch Unterlassen begehen.
+
+&	Unechte Unterlassungsdelikte& zeichnen sich dadurch aus, dass Tatbestände, deren Tatbestandsverwirklichung dem Wortlaut nach ein aktives Tun voraussetzen, durch Unterlassen einer Verhinderungshandlung verwirklicht werden. Dabei muss der Täter zur Erfolgsabwehr verpflichtet, mithin ein Garant sein. Denkbar ist beispielsweise die Tötung durch Unterlassung nach §§ 212, 13 StGB, wenn eine Mutter ihr Baby nicht mehr füttert (JuS 2010, 490). Unechte Unterlassungsdelikte sind daher eigentlich aktive Begehungsdelikte, die aber gem. § 13 StGB unter dessen speziellen Voraussetzungen auch durch Unterlassen begangen werden können. 
+
+
+%	1. Tatbestand
+%	a. Erfolgseintritt
+%	b. Unterlassen einer geeigneten und erforderlichen Verhinderungshandlung trotz physisch-realer und individueller Handlungsmöglichkeit
+	Der Täter muss eine geeignete und erforderliche Verhinderungshandlung unterlassen haben, trotz physisch-realer und individueller Handlungsmöglichkeit. Der Unterlassende muss entsprechend die Möglichkeit zur Verhinderung des Erfolgs haben, da Unmögliches nicht verlangt werden kann.
+
+	Die Erfolgsabwendung muss dem Täter auch zumutbar sein. Für die Beurteilung der Zumutbarkeit kommt es auf Lage und Fähigkeit des Garanten, auf Nähe und Schwere der Gefahr und die Bedeutung des Rechtsgutes an.
+
+TAB%	P:% Unterscheidung zwischen Tun und Unterlassen
+TAB%	P:% Unterlassen beim Abbruch von Rettungshandlungen 
+TAB%	P:% omissio libera in causa (entsprechen den Problemen der actio libera in causa)
+
+
+TAB	Zu %P:% Unterscheidung zwischen Tun und Unterlassen
+TAB	Manchmal ist es nicht ganz einfach zu bestimmen, ob ein Täter durch aktives Tun oder eben doch durch Unterlassen gehandelt hat. Liegt nämlich eine Tat durch Unterlassen vor, müssen im Tatbestand zusätzlich die Voraussetzungen von § 13 StGB geprüft werden. In diesen Fällen muss man sich fragen, ob der Schwerpunkt der Vorwerfbarkeit auf dem Tun oder dem Unterlassen liegt (Schönke/Schröder/Bosch, 30. Aufl. 2019, Vor §§ 13 ff. Rn. 158a). Dies ist zweifelsfrei eine Wertungsfrage. 
+
+TAB	Zu %P:% Unterlassen beim Abbruch von Rettungshandlungen: 
+TAB	In Fällen, in denen der Täter eine bereits gestartete Rettungsaktion abbricht, kann es schwierig sein zu bestimmen, ob nun eine Tat durch aktives Tun oder durch Unterlassen vorliegt (dann müssten die zusätzlichen Voraussetzungen von § 13 StGB auch vorliegen). Nach der allgemeinen Regel, dass auf den Schwerpunkt der Vorwerfbarkeit abzustellen ist, ergibt sich daraus folgende Faustregel:
+
+
+%	1. Der Täter hat eigene Rettungsbemühungen vorgenommen:
+	Entscheidend ist, ob das Opfer schon eine gesicherte Position innehatte, die im Nachhinein wieder aktiv zerstört wurde (dann Handlung) oder gerade noch nicht (dann Unterlassen).
+
+TAB&	Beispiel: 
+TAB	Der A wirft seinem ertrinkenden Sohn S einen Rettungsreifen zu. Bevor der S den Reifen ergreifen kann, zieht A den Rettungsreifen wieder zu sich. Hier lag noch keine gesicherte Position des S vor, daher liegt hier eine Täterschaft durch Unterlassen vor.
+
+
+%	2. Täter hat aktiv durch Täuschung oder Zwang andere Rettungswillige am Helfen gehindert:
+	In solchen Fällen ist der Täter Begehungstäter und kein Unterlassungstäter. Die zusätzlichen Voraussetzungen von § 13 StGB müssen also nicht vorliegen.
+
+TAB&	Beispiel: 
+TAB	S, der Sohn des A, liegt auf dem Boden und verblutet. Als C ihm zur Hilfe kommen will, reißt der A den C nieder und hält ihn fest. Hier begeht A die Tat durch ein aktives Tun und nicht durch Unterlassen.
+
+
+TAB	Zu %P:% omissio libera in causa (entsprechen den Problemen der actio libera in causa)
+TAB	Omissio libera in causa beschreibt den Fall, wenn sich ein Garant absichtlich in einen Zustand versetzt, in dem er seiner Garantenpflicht nicht mehr nachkommen kann. 
+
+TAB&	Beispiel:
+TAB	Ein Bademeister, der sich absichtlich so stark betrinkt, dass er im Falle des Ertrinkens einer der Badegäste, diesen nicht mehr retten könnte. 
+
+TAB	Parallel zur actio libera in causa bei aktiven Begehungsdelikten nimmt die h.M. in solchen Fällen eine Täterschaft durch Unterlassen an (Schönke/Schröder/Bosch, 30. Aufl. 2019, Vor §§ 13 ff. Rn. 144). Es müssen also die zusätzlichen Voraussetzungen von § 13 StGB vorliegen.
+
+
+%	c. Quasi-Kausalität / umgedrehte conditio-sine-qua-non-Formel
+	Nach der klassischen – hier nicht anzuwendenden – &Äquivalenztheorie& ist eine Handlung dann kausal für den eingetretenen Erfolg, wenn sie nicht hinweggedacht werden kann, ohne dass der Erfolg in seiner konkreten Art und Weise entfiele (conditio-sine-qua-non-Formel). Gegenfrage: Wenn Handlung XY weggedacht wird, entfällt dann gleichzeitig auch der Erfolg in seiner konkreten Gestalt? Wenn dem so ist, dann ist die Handlung XY dem Täter objektiv zurechenbar, sein Handeln ist kausal für den eingetretenen Erfolg.
+
+	Diese Formel passt im Rahmen eines unechten Unterlassungsdelikts aber nicht so recht. Sie kann nicht eins zu eins kopiert werden. Vielmehr ist ein Unterlassen dann kausal für den Erfolg, wenn die rechtlich gebotene Handlung nicht hinzugedacht werden kann, ohne, dass der tatbestandsmäßige (konkrete) Erfolg entfiele (&hypothetische Kausalität/Quasikausalität&). Die sine-qua-non-Formel wird also umgedreht.
+
+	Die &Gegenfrage& lautet daher hier: Wäre der Erfolg auch eingetreten, wenn die gebotene Handlung vorgenommen worden wäre? (Schönke/Schröder/Bosch, 30. Aufl. 2019, StGB § 13 Rn. 61)
+
+%	d. Garantenstellung
+	Ein Garant hat rechtlich dafür einzustehen, dass ein Erfolg nicht eintritt. Die Erforderlichkeit der Garantenstellung bei unechten Unterlassungsdelikten ergibt sich aus dem Wortlaut von § 13 StGB („rechtlich dafür einzustehen hat, dass der Erfolg nicht eintritt“). Garantenstellungen ergeben sich u.a. in folgenden Fällen.
+
+	Beschützergarant:
+	- Gesetz,
+	- enger persönlicher Verbundenheit (z.B. Familienangehörige, Ehegatten),
+	- Pflicht kraft tatsächlicher Übernahme,
+	- Pflicht kraft vertraglicher Übernahme (z.B. Babysitter, Leibwächter).
+
+	Überwachungsgarant:
+	- Gesetz,
+	- Gefahrengemeinschaften, die ihrem Wesen nach auf gegenseitige Hilfe angelegt ist (z.B. Bergbesteigung, Wildwasserfahrten), 
+	- Ingerenz (d.h. derjenige, der durch sein Handeln oder garantenpflichtiges Unterlassen eine Gefahr für den Eintritt schädlicher Erfolge geschaffen hat, ist verpflichtet, drohende Schäden zu verhindern).
+
+
+TAB%	P:% Möglichkeit der Garantenstellung aus Ingerenz bei gerechtfertigtem Vorverhalten
+TAB	Ein Standardproblem innerhalb der Garantenstellung ist, ob sich eine Garantenstellung aus Ingerenz ergeben kann, wenn ein gerechtfertigtes Vorverhalten vorliegt (Schönke/Schröder/Bosch, 30. Aufl. 2019, § 13 Rn. 37).
+
+TAB&	Beispiel: 
+TAB	A greift B körperlich an. B schlägt dem A daraufhin in Notwehr auf die Nase, woraufhin A bewusstlos liegen bleibt. B erkennt, dass A in der Nacht erfrieren könnte und lässt ihn trotzdem liegen. Kann B ein Garant für A sein, obwohl sein Schlag in A‘s Gesicht gerechtfertigt war?
+      
+TAB&	Meinung 1:
+TAB	Eine Garantenstellung liegt vor.
+
+TAB&	Argumente:
+TAB	Die Rechtfertigungssituation ist beendet und kann späteres Verhalten nicht mehr rechtfertigen. Sonst besteht eine erhöhte Gefahr der Selbstjustiz.
+
+
+TAB&	Meinung 2:
+TAB	Eine Garantenstellung liegt nicht vor.
+
+TAB&	Argumente:
+TAB	Rechtmäßiges Vorverhalten darf nicht im Nachhinein in ein rechtswidriges Verhalten umgedeutet werden. Wer sich mit einem Angriff außerhalb der Rechtsordnung positioniert, darf nicht auf eine Sonderpflicht seines „Opfers“ hoffen. Es bestehen auch keine Strafbarkeitslücken, da es § 323c StGB (Unterlassene Hilfeleistung) gibt.
+
+
+%	e. Objektive Zurechnung
+	Ein Erfolg wird dem Täter dann objektiv zugerechnet, wenn der Täter eine rechtlich relevante Gefahr geschaffen hat, die sich im konkreten tatbestandsmäßigen Erfolg realisiert. (Schönke/Schröder, StGB § 15 Rn. 156)
+
+%	f. Entsprechungsklausel
+	Das Unterlassen muss der Verwirklichung des Tatbestands durch ein Tun entsprechen. Das Unterlassen muss im konkreten Fall dem Unrechtsgehalt einer aktiven Tatbestandsverwirklichung so nahekommen, dass das Unterlassen sich dem „Unrechtstypus des Tatbestandes“ einfügt: Ein Verwirklichen des Tatbestandes durch Unterlassen muss somit der Intensität nach gleichzusetzen sein, mit einer Verwirklichung des Tatbestandes durch ein Tun.
+
+%	g. Vorsatz
+	Der Vorsatz muss sich zum einen auf die tatsächlichen Umstände, welche die Handlungspflicht begründen, beziehen. Zum anderen müssen daneben von dem Vorsatz auch solche Umstände umfasst sein, aus denen sich die Zumutbarkeit und die Möglichkeit der Erfolgsverhinderung ergibt.
+
+%	h. Sonstige spezifische subjektiven Tatbestandsmerkmale (z.B. Absichten)
+
+%	2. Rechtswidrigkeit
+%	P:% Rechtfertigende Pflichtenkollision
+
+	Die rechtfertigende Pflichtenkollision ist ein ungeschriebener Rechtfertigungsgrund, der speziell für Unterlassungsdelikte gilt. Sie beschreibt den Fall, wenn Jemand mehrere Handlungspflichten hat, nur eine seiner Pflichten bedienen kann und dadurch aber einen Straftatbestand verwirklicht. Die Voraussetzungen einer solchen Rechtfertigung durch Pflichtenkollision sind, dass mindestens zwei Handlungspflichten vorliegen und beide Pflichten nicht gleichzeitig erfüllt werden können (MüKoStGB/Erb, 4. Aufl. 2020, § 34 Rn. 47).
+
+TAB&	Beispiel: 
+TAB	Vater V kann nur einen seiner zwei ertrinkenden Söhne retten. Der andere Sohn stirbt. Tatbestandlich stellt dies einen Totschlag durch Unterlassen gem. §§ 212, 13 StGB dar. V ist aber wegen einer rechtfertigenden Pflichtenkollision gerechtfertigt.
+
+%	3. Schuld
+
+
+%	Quellen: 
+	JuS 2010, 490.
+	Schönke/Schröder/Bosch, 30. Aufl. 2019, StGB, Vorbemerkungen zu den §§ 13 ff. Rn. 61, 93, 144; 158a; § 13 Rn. 37.; § 15 Rn. 156.
+	BGHSt 6, 1(2).
+	Fischer, 67. Aufl. 2020, StGB § 13 Rn. 4 ff.
+	Münchener Kommentar zum StGB / Erb, 4. Aufl. 2020, § 34 Rn. 47.
+
+
+&	22.11.2022

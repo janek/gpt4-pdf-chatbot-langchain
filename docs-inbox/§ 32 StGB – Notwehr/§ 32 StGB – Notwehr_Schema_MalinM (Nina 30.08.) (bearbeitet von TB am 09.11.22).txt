@@ -1,0 +1,150 @@
+﻿%	§ 32 StGB – Notwehr
+	Schema
+
+%	I. Tatbestand
+%	1. Objektiver Tatbestand
+%	2. Subjektiver Tatbestand
+
+%	II. Rechtswidrigkeit
+%	Merke:% Vor der Prüfung des § 32 StGB ist zumindest kurz (chronologisch) die rechtfertigende Einwilligung, die mutmaßliche Einwilligung und dann das Festnahmerecht nach § 127 StPO anzudenken. 
+
+%	1. Objektiver Rechtfertigungstatbestand
+%	a. Notwehrlage
+	Gefordert ist ein gegenwärtiger rechtswidriger Angriff auf ein Individualrechtsgut.
+
+&%	aa. Angriff
+	Ein &Angriff& ist jede durch menschliches (!) Verhalten drohende Verletzung rechtlich geschützter Interessen (Schönke/Schröder/Perron/Eisele, Rn. 3, StGB § 32 Rn. 3).
+
+TAB%	P:% Scheinangriff 
+TAB	Der Begriff „Scheinangriff“ beschreibt den Fall, in dem das Opfer denkt, dass ein Angriff auf seine Rechtsgüter stattfindet und daher Notwehr leistet. Tatsächlich besteht ein solcher Angriff aber gar nicht. Da es sich hierbei um einen sog. Erlaubnistatbestandsirrtum handelt, wird dieses Problem im Skript zur Irrtumslehre behandelt. Siehe zur Vertiefung auch: Hoffmann-Holland, S. 80 f.	
+
+&%	bb. Gegenwärtigkeit
+	Ein Angriff ist &gegenwärtig&, wenn die Verletzung unmittelbar bevorsteht, begonnen hat oder noch nicht abgeschlossen ist.
+
+TAB%	P:%  Gegenwärtige Notwehrlage bei Dauergefahren
+TAB	Ein Standardproblem bei der Notwehr ist, ob Dauergefahren oder sog. Präventivnotwehrsituationen vom Gegenwärtigkeitsbegriff des § 32 StGB miterfasst sind (MüKoStGB/Erb, § 32 Rn. 106 ff.).
+
+TAB&	Beispiel: 
+TAB	Ein Mann übt jahrelang Gewalt gegenüber seiner Ehefrau aus. Nach Jahren des Terrors weiß sich die Ehefrau nicht anders zu helfen und erschießt ihren Ehemann, als dieser gerade schläft (sog. Haustyrannenfall).
+
+TAB&	Meinung 1: 
+TAB	In solchen Fällen liegt ein gegenwärtiger Angriff im Sinne von § 32 StGB vor.
+
+TAB&	Argumente:
+TAB	Ein umfassender Rechtsgüterschutz des Verteidigenden erfordert eine weite Auslegung des Begriffs "Gegenwärtigkeit" bei § 32 StGB. Außerdem braucht das Recht dem Unrecht nicht zu weichen (Prinzip der Rechtsgüterbewahrung). Außerdem wäre in solchen Fällen ein Abwarten auf einen neuen akuten Angriff für das Opfer unzumutbar, da es körperlich unterlegen ist. 
+
+TAB&	Meinung 2: 
+TAB	In solchen Fällen liegt kein gegenwärtiger Angriff im Sinne von § 32 StGB vor (Schönke/Schröder/Perron/Eisele, § 32 Rn. 13). 
+
+TAB&	Argumente: 
+TAB	Präventivmaßnahmen stehen allein dem Staat und nicht Privaten zu. § 32 StGB erfordert eine restriktive Auslegung der Notwehrlage, weil bei der Notwehrhandlung keine Verhältnismäßigkeitsprüfung erfolgt. § 34 StGB ist in solchen Fällen sachgerechter, da die gegenseitigen Interessen abgewogen werden können.
+
+&%	cc. Rechtswidrigkeit
+	Ein Angriff ist &rechtswidrig&, wenn er nicht durch Rechtfertigungsgründe gedeckt ist.
+
+	Entsprechend wird geprüft, ob der Angreifende seinerseits womöglich gerechtfertigt ist.
+	
+%	b. Notwehrhandlung
+	Die Notwehrhandlung muss geeignet, erforderlich und geboten sein.
+
+&%	aa. Geeignetheit
+	Jedes zur Abwehr des Angriffs taugliche Mittel ist &geeignet&. Nur völlig ungeeignete Mittel sind problematisch.
+
+&%	bb. Erforderlichkeit
+	Eine Handlung ist dann &erforderlich&, wenn sie das mildeste gleich geeignete Mittel darstellt.
+
+	Das ist aus einer ex-ante Sicht, das heißt aus der Sicht des Notwehrtäters zu dem Zeitpunkt der Notwehrlage zu bestimmen. Demnach ist heranzuziehen, wie schnell ein Täter reagieren musste. Auf einen Kampf mit ungewissen Mitteln muss sich der Täter nicht einlassen, vielmehr darf es das sicherste Mittel wählen. 
+
+	Eine Abwägung der betroffenen Rechtsgüter (z.B. Leben gegen Leben oder Leben gegen Eigentum) findet nicht statt. 
+
+TAB%	P:% Nutzung einer lebensbedrohlichen Waffe 
+TAB	Das Notwehrrecht umfasst auch die Möglichkeit, eine lebensgefährliche Waffe, wie z.B. eine Schusswaffe oder ein Messer mit einer langen Klinge, einzusetzen. Hat der Täter in der konkreten Situation allerdings noch genug Zeit abzuwägen, ob der die lebensbedrohliche Waffe einsetzt, so sind an die Erforderlichkeit einschränkend folgende drei Voraussetzungen zu stellen (MüKoStGB/Erb, 4. Aufl. 2020, § 32 Rn. 165 ff.):
+	
+TAB	(1) Soweit möglich, Waffengebrauch ankündigen (Warnschuss).
+
+TAB	(2) Danach erst versuchen, den Angreifer kampfunfähig zu machen (Schuss in Arm oder Bein).
+
+TAB	(3) Letztes Mittel: Die Tötung des Angreifers ist erlaubt.
+
+&%	cc. Gebotenheit
+	Eine Verteidigungshandlung ist dann nicht &geboten&, wenn sie aus sozial-ethischen Gründen eingeschränkt werden muss (Fischer, § 32, Rn. 36).
+
+TAB	(1) Einschränkung des Notwehrrechts
+TAB	Das Notwehrrecht ist einzuschränken bei:
+
+TAB	- Angriffen von offensichtlich Schuldlosen
+TAB	- Fahrlässige Provokation des Angriffs 
+TAB	- Enge persönliche Beziehung des Verteidigers zum Angreifer
+
+TAB	Dann kommt folgendes sog. „Drei-Stufen-Modell“ zum Tragen. 
+
+TAB&	Stufe 1: Ausweichen
+TAB	Ist dies nicht möglich, dann Stufe 2.
+
+TAB&	Stufe 2: Verhältnismäßige Schutzwehr
+TAB	Ist dies nicht möglich oder unwirksam, dann Stufe 3.
+
+TAB&	Stufe 3: Verhältnismäßige Trutzwehr
+
+TAB%	P:% Einschränkung des Notwehrrechts bei „Aufrüstung“:
+TAB	Umstritten ist eine Einschränkung des Notwehrrechts in den Fällen, in denen sich der Notwehrleistende kurz vor der Notwehrhandlung noch schnell „aufrüstet“.
+
+TAB&	Beispiel: 
+TAB	A kommt auf B zugestürmt. B lässt sich von C noch schnell ein Messer zuwerfen, mit dem er den Angriff durch einen Stich in den Arm des A abwehrt. 
+
+TAB&	Meinung 1:
+TAB	In solchen Fällen besteht nur ein eingeschränktes Notwehrrecht des Notwehrleistenden. 
+
+TAB&	Argumente: 
+TAB	Man muss sich nicht unbedingt für eine Notwehrhandlung "aufrüsten". Tut man dies trotzdem, so muss man erst ausweichen und Schutzwehr leisten, bevor man Trutzwehr leisten darf (Anwendung des 3-Stufen-Modells).
+
+TAB&	Meinung 2:
+TAB	Es besteht ein vollständiges Notwehrrecht, auch bei "Aufrüstungen".
+
+TAB&	Argumente:
+TAB	Die erste Ansicht verkennt, dass der Angreifer das Folgenrisiko einer erforderlichen Verteidigung trägt. Mithin kann eine "Aufrüstung" das Notwehrrecht nicht einschränken.
+
+TAB	(2) Ausschluss des Notwehrrechts
+TAB	Das Notwehrrecht ist ausgeschlossen bei:
+
+TAB	- Absichtsprovokation
+TAB	- Bagatellangriffen
+TAB	- Krasses Missverhältnis zwischen absehbaren Folgen der Verteidigung und drohenden Verletzungen des Angriffs
+
+%	2. Subjektiver Rechtfertigungstatbestand
+	Es wird ein Verteidigungswille gefordert. Das heißt, der Verteidiger muss in Kenntnis und aufgrund der Notwehrlage handeln (Fischer, § 32, Rn. 25). 
+
+TAB%	P:% Ist ein Notwehrwille überhaupt erforderlich?
+TAB	Das Erfordernis des Notwehrwillen ist grundsätzlich anzunehmen und nicht extra herzuleiten. Handelt ein Täter jedoch objektiv gerechtfertigt und denkt dabei subjektiv, dass gar keine Notwehrsituation vorliegt, bietet es sich an das Erfordernis des Notwehrwillens extra herzuleiten (MüKoStGB/Erb, 4. Aufl. 2020, § 32 Rn. 239 ff.).
+
+TAB&	Beispiel: 
+TAB	A erschießt seinen Todfeind T aus Rache, ohne zu wissen, dass T seinerseits bereits sein Gewehr auf ihn, A, angelegt hatte: Ist die Tötung durch Notwehr gem. § 32 StGB gerechtfertigt?
+
+TAB&	Meinung 1: 
+TAB	Ein Notwehrwille ist für eine Rechtfertigung gem. § 32 StGB nicht erforderlich. Der Täter handelt auch ohne einen solchen gerechtfertigt. 
+
+TAB&	Argumente: 
+TAB	Das Täterverhalten ist objektiv im Einklang mit der Rechtsordnung.
+   
+TAB&	Meinung 2: 
+TAB	Ein Notwehrwille ist für eine Rechtfertigung gem. § 32 StGB erforderlich. Der Täter handelt ohne einen solchen nicht gerechtfertigt. 
+
+TAB&	Argumente: 
+TAB	Der Wortlaut von § 32 StGB oder auch § 34 StGB besagt: „…um…“. Dies impliziert ein subjektives Element. Nur wer den Willen hat, als Bewahrer der Rechtsordnung aufzutreten, verdient auch deren Schutz.
+
+TAB&	Ergebnis:
+TAB	Ein subjektives Rechtfertigungselement muss vorliegen. Ein anderes Ergebnis ist hier wohl schwer vertretbar und daher nicht empfehlenswert. 
+
+
+%	III. Schuld
+
+
+%	Quellen:
+	Schönke/Schröder/Perron/Eisele, 30. Aufl. 2019 Rn. 3, StGB § 32 Rn. 3, 13 ff.
+	Fischer, 67. Auflage 2020, § 32, Rn. 36.
+	Fischer 69. Auflage 2022, § 32, Rn. 25.
+	Hoffmann-Holland, Claus: Strafrecht Allgemeiner Teil, 3. Auflage, S. 80.
+	Münchener Kommentar zum StGB / Erb, 4. Aufl. 2020, § 32 Rn. 106 ff.; 165 ff.; 239 ff.
+
+
+&	23.12.2022

@@ -1,0 +1,223 @@
+﻿%	§§ 164 ff. BGB – Stellvertretung
+	Schema
+
+%	Merke:% Der Prüfungsaufbau ist im Grunde einfach aus dem Gesetz zu entnehmen. Dort heißt es in § 164 I S. 1 BGB: „Eine Willenserklärung, die jemand innerhalb der ihm zustehenden Vertretungsmacht im Namen des Vertretenen abgibt, wirkt für und gegen den Vertretenen.“ Beachte auch, dass es eine aktive Stellvertretung, § 164 I BGB und eine passive Stellvertretung gibt, § 164 III BGB.
+
+
+%	I. Anspruch entstanden
+%	1. Vertragsschluss
+&	Formulierungsvorschlag:& Zwischen A (der möglicherweise Vertretenen) und B (dem Dritten) könnte ein wirksamer Vertrag zustande gekommen sein. Dafür bedarf es zwei korrespondierende Willenserklärungen, namentlich Antrag und Annahme, Vgl. §§ 145, 147 BGB. Die A hat sich hier nicht dahingehend gegenüber B geäußert. Allerdings könnte die Willenserklärung des C (Stellvertreter) gem. § 164 I BGB für und gegen A wirken.
+
+%	a. Willenserklärung des Stellvertreters
+	Relevant bei der Auslegung der Willenserklärung des Stellvertreters ist die Bestimmung des objektiven Erklärungsinhalts nach §§ 133, 157 BGB, d.h. der essentialia negtotii, von der die Vertragspartei umfasst ist. Dabei kann schon aufgezeigt werden, dass Vertragspartei der Geschäftsherr werden soll.
+
+%	b. Wirkung für und gegen den Vertretenen
+	Im Rahmen der Entstehung eines Schuldverhältnisses ist die Rechtsfolge des § 164 I BGB bei der Willenserklärung des Stellvertreters zu prüfen: Diese wirkt bei Vorliegen der Voraussetzungen für und gegen den Vertretenen. Dafür muss der Stellvertreter eine eigene Willenserklärung in fremdem Namen im Rahmen seiner Vertretungsmacht abgegeben haben.
+
+&%	aa. Anwendbarkeit der Regeln zur Stellvertretung
+	Die Regeln der Stellvertretung sind analog anwendbar auf rechtsgeschäftsähnliche Handlungen (z.B. Mahnungen).
+
+&%	bb. Zulässigkeit der Stellvertretung
+	Die Stellvertretung ist nicht zulässig bei:      
+
+TAB	- Realakten (zB die Übergabe im Zuge der Übereignung) und
+
+TAB	- Höchstpersönlichen Geschäften (z.B. Eheschließung nach § 1311 BGB).
+
+&	Hinweis:& Dieser Prüfungspunkt ist in unproblematischen Fällen regelmäßig nicht zwingend anzusprechen.
+
+&%	cc. Eigene Willenserklärung des Vertreters
+	Der Vertreter muss eine eigene Willenserklärung abgeben haben.      
+
+	Ein &Stellvertreter& fasst einen eigenen Willen und gibt entsprechend auch eine eigene Willenserklärung ab. 
+
+	Der &Bote& hingegen ist lediglich Übermittler einer von einem anderen gefassten Willenserklärung, weshalb die §§ 164 ff. BGB auf den Boten keine Anwendung finden. 
+
+	Die Abgrenzung ist eine Einzelfallentscheidung. Zu fragen ist, wie der vermeintliche Stellvertreter aus Sicht eines verständigen objektiven Empfängers auftritt und ob ihm ein gewisses Maß an Entscheidungsspielraum bezogen auf die Abgabe und den Inhalt der Willenserklärung bleibt (MüKoBGB/Schubert BGB § 164 Rn. 80, 81).
+
+TAB&	Beispiele: 
+TAB	A wird aufgetragen, eine Packung Haribo Gummibärchen im Supermarkt zu kaufen (Bote).
+
+TAB	A wird aufgetragen „etwas Süßes“ im Supermarkt zu kaufen (Stellvertreter).
+
+	Dabei ist das Maß an Entscheidungsspielraum nicht zwingend. Auch ein Stellvertreter kann sehr engen Vorgaben unterliegen (MüKoBGB/Schubert BGB § 164 Rn. 81). Dies verdeutlicht der Umstand, dass auch Kassierer trotz ihres eingeschränkten Handlungsspielraumes als Stellvertreter anzusehen sind.
+
+	Darüber hinaus kann das Alter des Handelnden Anhaltspunkte geben. Geschäftsunfähige (= unter 7 Jahre) können nämlich lediglich Boten sein, da ihnen die Geschäftsfähigkeit zur Abgabe einer eigenen wirksamen Willenserklärungen fehlt, §§ 104, 105 BGB. (MüKoBGB/Schubert BGB § 164 Rn. 81). 
+
+TAB&	Merksatz:& „Ist das Kindlein noch so klein, kann es auch schon Bote sein“.
+
+	Ein beschränkt Geschäftsfähiger kann gem. § 165 BGB Stellvertreter sein. Das Geschäft wirkt nämlich &für und gegen den Vertretenen&, weshalb es für den Vertreter neutral ist und er gerade keinen rechtlichen Nachteil erleidet.
+
+&%	dd. Im fremden Namen (Offenkundigkeitsprinzip)
+	Das Gesetz ist an dieser Stelle sehr deutlich. Der Vertreter muss offenkundig im Namen des Vertretenen handeln, damit der Vertragspartner weiß, mit wem er schlussendlich kontrahiert (Offenkundigkeitsprinzip) (Jauernig/Mansel BGB § 164 Rn. 3). Dies kann aus den Umständen ersichtlich sein oder ausdrücklich erfolgen, vgl. § 164 I S. 2 BGB. Ist diese Voraussetzung nicht erfüllt, so liegt ein sogenanntes Eigengeschäft vor, d.h. der Stellvertreter bindet sich im Zweifel selbst.
+
+TAB&	Merke:& Dies müsste dann aber schon bei der Bestimmung der Vertragsparteien ausgelegt worden sein, wenn man es ganz genau und kohärent darstellen will (s.o. unter I.1.a.)
+
+	Eine Auslegungsregel gibt § 164 I S. 2 BGB vor: 
+
+	Insbesondere die Umstände können ergeben, dass die Willenserklärung in fremdem Namen abgegeben wird. Eine relevante Fallgruppe sind die &unternehmensbezogenen Geschäfte&. Sie zeichnen sich dadurch aus, dass der Vertreter eben nicht ausdrücklich im Namen des Vertretenen handelt, es aber aus dem Sachzusammenhang für den Vertragspartner klar ist, dass sich lediglich der Vertretene rechtlich binden möchte (MüKoBGB/Schubert BGB § 164 Rn. 130 ff.).
+
+TAB&	Beispiel: 
+TAB	Der O möchte über die Hotline eines Vergleichsportals einen Strom- und Gasvertrag abschließen. Ihm ist klar, dass nicht die Person am anderen Ende des Hörers, sondern der Inhaber des Geschäftes berechtigt und verpflichtet werden soll.
+
+%	P:% Ausnahmen vom Offenkundigkeitsprinzip      
+	Das Offenkundigkeitsprinzip ist zum Schutz des Vertragspartners zu wahren. 
+
+	Selbst, wenn eine Willenserklärung nicht in fremdem Namen abgegeben wird, wirkt diese für und gegen den Vertretenen, wenn der Vertragspartner ausnahmsweise kein Interesse an der Identität des Vertragspartners hat. 
+
+	Diese Ausnahme ist in zwei Fallgruppen zu unterteilen: Das Geschäft für den, den es angeht und das Handeln &unter& fremdem Namen.
+
+&	- Geschäft für den, den es angeht
+	Bei einem &Geschäft für den, den es angeht&, erkennt der Vertragspartner nicht, dass ihm gegenüber ein Vertreter auftritt, er hat allerdings auch keinerlei Interesse an der Identität seines Gegenübers. Verpflichtet wird trotzdem der Vertretene. Die ist insbesondere im Rahmen von Bargeschäften des täglichen Lebens relevant (Jauernig/Mansel BGB § 164 Rn. 4 f.). 
+
+TAB	In diesen Fällen ist lediglich zu prüfen, ob
+
+TAB	o dem Dritten die Kenntnis des Vertragspartners gleichgültig ist und
+
+TAB	o ob Vertreterwille seitens des Stellvertreters vorliegt
+
+TAB&	Beispiel: 
+TAB	V, der Vertreter des C, kauft für diesen im Supermarkt Nudeln, Parmesan, Basilikum und Pinienkerne.
+
+&	- Handeln unter falschem oder fremdem Namen (Namenstäuschung oder Identitätstäuschung)
+
+TAB&	o Namenstäuschung: Handeln unter falschem Namen
+TAB	In Fällen, in denen bewusst unter falschem Namen aufgetreten wird, die Benutzung des fremden Namens beim Gegenüber aber keinerlei Fehlvorstellungen über die Identität des Handelnden hervorruft, da sie ihm gleichgültig ist und so oder so der Vertrag nur mit dem Handelnden abgeschlossen werden soll, wird auch nur dieser berechtigt und verpflichtet (MüKoBGB/Schubert BGB § 164 Rn. 151). Es liegt kein Fall des § 164 I BGB, sondern ein Eigengeschäft vor.
+
+TAB&	Beispiel: 
+TAB	Der W möchte mal wieder mit seiner Geliebten im Hotel einchecken und gibt absichtlich den Namen des nicht existenten Marno Weber an, um seinen Hotelbesuch zu verschleiern. Ist es dem Hotelinhaber egal, ob mit W oder Marno Weber das Geschäft abgeschlossen wird, so wird ein Vertrag mit W geschlossen.
+
+TAB&	o Identitätstäuschung: Handeln unter fremdem Namen
+TAB	In Fällen, in denen ein Handelnder unter fremdem Namen handelt, also einen anderen Namen deshalb benutzt, um den Anschein zu erwecken eben diese Person zu sein, so finden die Regelungen der Stellvertretung analog (!) Anwendung, da es dem Gegenüber darauf ankam, mit der genannten Person den Vertrag einzugehen (MüKoBGB/Schubert BGB § 164 Rn. 155 f.). Es handelt sich um einen Fall der Vertretung ohne Vertretungsmacht (Siehe dazu das Schema zum falsus procurator).
+
+TAB&	Beispiel: 
+TAB	Der R, welcher dem Fußballspieler Christiano Ronaldo zum Verwechseln ähnlichsieht, gibt an, eben dieser zu sein, um einen der letzten begehrten Sitzplätze in der Staatsoper zu ergattern. Der Theaterverkäufer hat wohl ein Interesse an der Identität des Vertragspartners, namentlich Ronaldo. An einem Vertragsschluss mit R hatte er nie ein Interesse. Somit scheidet ein Eigengeschäft aus. Unter Ausnahme vom Offenkundigkeitsprinzip entsteht somit die absurde Situation, dass theoretisch ein schwebend unwirksamer Vertrag, vgl. § 177 I BGB, mit Christiano Ronaldo zustande kommt. Der R haftet gegebenenfalls aus § 179 I BGB analog (MüKoBGB/Schubert BGB § 179 Rn. 18), kann aber keine Ansprüche aus diesem Vertrag geltend machen.
+
+&%	ee. Im Rahmen der Vertretungsmacht
+&	Vertretungsmacht& ist die Rechtsmacht, für einen anderen verbindlich Willenserklärungen abzugeben bzw. entgegenzunehmen, den anderen also rechtsgeschäftlich zu binden (MüKoBGB/Schubert BGB § 164 Rn. 193).
+
+	Eine solche Rechtsmacht kann entstehen 
+&	(1) Kraft Gesetz,
+&	(2) Kraft Rechtsgeschäft (Vollmacht),
+&	(3) Kraft Rechtsschein.
+
+	Im Folgenden nun detaillierter:
+
+&	(1) Kraft Gesetz      
+	Eltern vertreten ihre Kinder gem. §§ 1626, 1629 BGB. Ebenso Vormunde, Betreuer und Pfleger ihre Mündel. Dies stellt eine Gesamtvertretung dar (MüKoBGB/Schubert BGB § 164 Rn. 208).
+
+&	(2) Kraft Rechtsgeschäft: Die Vollmacht
+	Der wichtigste Klausuranwendungsfall der Vertretungsmacht ist die kraft Rechtsschein Verliehene: Die Vollmacht (Legaldefinition in § 166 II BGB). Gem. § 167 I BGB kann sie gegenüber dem Vertreter (Innenvollmacht) oder gegenüber dem Vertragspartner (Außenvollmacht) erklärt werden und bedarf keiner besonderen Form, § 167 II BGB.
+
+	Sie legt das rechtliche Können des Vertreters im Außenverhältnis fest. Von ihr ist strikt das Innenverhältnis zwischen Stellvertreter und Vertretenem zu unterscheiden (z.B. Auftrag oder Arbeitsvertrag) – insbesondere ihre Wirksamkeit muss abstrahiert voneinander betrachtet werden (MüKoBGB/Schubert BGB § 167 Rn. 2).
+
+TAB&	Beispiel: 
+TAB	A beauftragt seinen 15-jährigen Bruder, ihm eine Zeitung zu kaufen. Das Auftragsverhältnis (Innenverhältnis) ist gem. § 108 I BGB schwebend unwirksam, da es den Minderjährigen zu der Erfüllung des Auftrags verpflichtet und keine Einwilligung ersichtlich ist. Davon ist die konkludent erteilte Vollmacht zu unterscheiden: Ihre Wirksamkeit hängt nicht von der Einwilligung oder vom Zugang bei seinen gesetzlichen Vertretern ab, vgl. § 131 II BGB, da sie dem Minderjährigen lediglich den Vorteil erbringt, für und gegen die A ein Rechtsgeschäft abschließen zu können. Das rechtliche Können des Minderjährigen im Außenverhältnis, beispielsweise gegenüber einem Zeitungsverkäufer ist damit durch die wirksame Vollmacht festgelegt.
+
+	Das Erlöschen der Vollmacht richtet sich nach § 168 I BGB.
+
+TAB&	o Bei Erlöschen des zugrundeliegenden Grundverhältnisses
+TAB	Erlischt das Innenverhältnis, z.B. der Arbeitsvertrag durch Kündigung, so erlischt auch die damit einhergehende Vollmacht. Dies durchbricht gewissermaßen den Grundsatz von der Abstraktion, der eben dargestellt wurde.
+
+TAB&	o Durch Widerruf
+TAB	Die Vollmacht ist frei widerruflich. Der Widerruf kann, so zeigt der Verweis von § 168 S. 2 BGB aus § 167 I BGB gegenüber dem Stellvertreter (Innenwiderruf) und gegenüber dem Vertragspartner (Außenwiderruf) ergehen.
+
+TAB%	Sonderproblem:% Anfechtung der ausgeübten Innenvollmacht
+TAB	Die Vollmacht kann grundsätzlich wie jede andere Willenserklärung auch gem. §§ 142 I, 119, 123 BGB angefochten werden.
+
+TAB	Problematisch liegt der Fall, wenn die Innenvollmacht bereits durch den Stellvertreter bei Abschluss eines Vertrages genutzt wurde. Denn die Wirkung der Anfechtung (Nichtigkeit von Anfang an) führt dann dazu, dass der Vertrag ohne Vertretungsmacht abgeschlossen wurde und mithin schwebend unwirksam gem. § 177 I BGB wird.
+
+TABTAB%	Problem 1:% Zulässigkeit der Anfechtung der ausgeübten Innenvollmacht
+TABTAB&	eA: Grundsätzliche Unzulässigkeit, Zulässigkeit nur bei Fehleridentität
+TABTAB&	Einer Ansicht& nach ist die Anfechtung der ausgeübten Innenvollmacht grundsätzlich ausgeschlossen, außer der anfechtbare Fehler bei der Vollmachtserteilung schlägt sich auf das Geschäft durch. Man fragt sich: Könnte der Vertretene seine Willenserklärung, wenn er sie selbst abgegeben hätte, ebenfalls anfechten?
+
+TABTAB&	Beispiel:
+TABTAB	V verspricht sich bei der Vollmachtserteilung und sagt dem S, er kann bis zu 25 Dutzend Exemplare bestellen, er wollte eigentlich 15 Dutzend formulieren. Sodann bestellt S 23 Dutzend. Nicht dahingegen, wenn sich V bei der Erteilung der Vollmacht lediglich über eine verkehrswesentliche Eigenschaft des S irrte.
+
+TABTAB&	Argumente dafür sind im Wesentlichen:
+TABTAB	o Rechtsgedanke des § 166 BGB: Der Vertretene soll nicht bessergestellt werden, als würde er selbst das Geschäft abschließen, so bekomme er jedoch eine zusätzliche Anfechtungsmöglichkeit.
+
+TABTAB	o Vergleich mit der Anscheinsvollmacht: Selbst bei der Anscheinsvollmacht (siehe unten) kann der Vertretene nicht anfechten, obwohl er keinerlei Kenntnis von dem Verhalten des Stellvertreters hat. Er soll erst recht nicht anfechten können, wenn er die Vollmacht tatsächlich erteilt hat (Brox/Walker BGB AT § 25 Rn. 40).
+
+TABTAB&	aA: Grundsätzliche Zulässigkeit 
+TABTAB	Nach der &herrschenden Meinung& ist die Anfechtbarkeit der ausgeübten Innenvollmacht nach der Gesetzeskonzeption und dem Wortlaut nach zulässig. Die Schutzwürdigkeitserwägungen der Minderansicht finden keine Stütze im Gesetz (Palandt/Ellenberger Rn. 3, MüKoBGB/Schubert BGB § 167 Rn. 49).
+
+TABTAB%	Problem 2: Wer ist Anfechtungsgegner?
+TABTAB	Erachtet man die Anfechtung der ausgeübten Innenvollmacht als zulässig, stellt sich im folgenden Prüfungsaufbau das Problem, wer Anfechtungsgegner gem. § 143 BGB ist. Davon hängt vor allem ab, wer Schadensersatz gem. § 122 I BGB (derjenige, dem die Anfechtungserklärung gegenüber abzugeben war) verlangen kann.
+
+TABTAB	eA: Der Stellvertreter
+TABTAB	Einer Ansicht nach ist Anfechtungsgegner gem. § 143 III 1 BGB der Stellvertreter. Zwar verlagert sich das Insolvenzrisiko auf den Stellvertreter, der bei Insolvenz des Vertretenen nicht Regress gem. § 122 I BGB nehmen kann. Darauf haben sich aber alle Beteiligten bei der Wahl dieser Handlungsform eingelassen (Medicus/Petersen, Rn. 945).
+
+TABTAB&	aA: Der Stellvertreter und der Vertragspartner
+TABTAB	Einer anderen Ansicht nach ist auch dem Dritten, dh dem Vertragspartner gegenüber, anzufechten, da durch die Anfechtung der Vollmacht mittelbar auch das Vertretergeschäft beseitigt wird. Hauptargument dieser Ansicht ist, dass das Insolvenzrisiko auf den Stellvertreter verlagert wird, obwohl der Vertretene anficht. Der Vertragspartner erhält dadurch einen Direktanspruch gegen den Vertretenen aus § 122 I. Der Stellvertretene muss ihm nicht mehr gem. § 179  II BGB seinen Schaden ersetzen.
+
+TABTAB&	hM: Der Stellvertrete, Aber: Anspruch des Vertragspartners aus § 122 I GBGB analog
+TABTAB	Die &herrschende Meinung& folgt bezüglich der Frage, wer Anfechtungsgegner ist, zunächst einfach dem Wortlaut. Dies ist, wie auch die erste Ansicht zutreffend meint, gem. § 143 III 1 BGB der Stellvertreter. Um den Erwägungen bezüglich des Insolvenzrisikos der vorangehenden Herrschenden Literatur Rechnung zu tragen, gewährt sie dem Vertragspartner aber einen Anspruch aus § 122 I BGB analog (MüKoBGB/Schubert BGB § 167 Rn. 55).
+
+	Mit dem Anspruch des Vertragspartner gegenüber dem Stellvertreter aus § 179 I BGB hat er jedoch dann einen Überschuss: Teilweise wird dies als Wahlrecht des Vertragspartners zwischen Haftung des Vertretenen und des Stellvertreters gefordert, was nach der herrschenden Meinung jedoch eine ungerechtfertigte Privilegierung des Vertragspartners zur Folge hat. Daher haften Stellvertreter und Vertreter als Gesamtschuldner gem. § 426 BGB (MüKoBGB/Schubert BGB § 167 Rn. 55). Der Stellvertreter hat wiederum seinen Anspruch aus § 122 I BGB gegen den Vertretenen.
+
+&	(3) Kraft Rechtsschein
+&	(a) Geschriebene Rechtsscheintatbestände, §§ 170-173 BGB
+	Das Gesetz sieht drei Fälle von Vertretungsmacht kraft Rechtsschein vor.
+
+&	o Die erloschene Außenvollmacht, § 170 BGB
+&	o Die kundgegebene Innenvollmacht, § 171 BGB
+&	o Die Vollmachtsurkunde, § 172 BGB
+
+&	(b) Ungeschriebene Rechtsscheintatbestände: Duldungs- und Anscheinsvollmacht 
+
+	Die &Duldungsvollmacht& zeichnet sich dadurch aus, dass der Vertretene um den Umstand tatsächlich weiß, dass ein Vertreter in seinem Namen handelt, dies aber nicht unterbindet, obwohl er dies hätte tun können.
+
+	Die &Anscheinsvollmacht& zeichnet sich dadurch aus, dass der Vertretene von einer Vertretung wissen müsste, es aber nicht verhindert. Es fehlt ihm die tatsächliche Kenntnis, dass er vertreten wird, der Dritte rechnet aber mit seinem Einverständnis (MüKoBGB/Spellenberg, EGBGB Art. 8 Rn. 149).
+
+&%	ff. Probleme der Vertretungsmacht
+	Im Rahmen der Stellvertretung gibt es ein &Innenverhältnis& (Verhältnis zwischen Vertretenem und Vertreter) und ein &Außenverhältnis& (z.B. Vollmacht, welche den Vertreter zum Handeln ermächtigt).
+
+	Das Innenverhältnis regelt das rechtliche Dürfen, das Außenverhältnis das rechtliche Können des Vertreters. Überschreitet der Vertreter die Grenzen, welche ihm durch den Vertretenen gesetzt wurden, so überschreitet er sein rechtliches Dürfen. Da Innen- und Außenverhältnis aber abstrakt voneinander zu bewerten sind, geht eine solche Überschreitung grundsätzlich zu Lasten des Vertretenen, da die Vertretung im Außenverhältnis wirksam ist. Das Vertretungsgeschäft ist wirksam. Im Innenverhältnis sind Regressansprüche zu thematisieren.
+
+%	P:% Evidenter Missbrauch der Vertretungsmacht
+%	P:% Kollusion
+%	P:% Insichgeschäft, § 181 BGB
+
+TAB	Zu %P:% Evidenter Missbrauch der Vertretungsmacht
+TAB	Ein &evidenter Missbrauch der Vertretungsmacht& liegt vor, wenn der Vertreter sein im Innenverhältnis bestehendes rechtliches Dürfen (aus dem Grundgeschäft, z.B. Auftrag iSv § 662 BGB) im Außenverhältnis vorsätzlich überschritten oder bei Ausübung seiner rechtsgeschäftlichen Vollmacht sogar rechtswidrig gehandelt hat und dabei entgegen den Interessen des Vertretenen handelt (MüKoBGB/Schubert, § 164, Rn. 230).
+
+TAB	Zusätzlich muss der Vertragspartner entweder Kenntnis von dem Missbrauch der Vertretungsmacht durch den Vertreter haben oder es müssen solche objektiv erkennbaren Umstände vorliegen, die beim Vertragspartner zwingend Zweifel am Umfang der Vertretungsmacht begründen müssen (MüKoBGB/Schubert, § 164, Rn. 232). 
+
+TAB	Welche Rechtsfolge bei einem evidenten Missbrauch der Vertretungsmacht für das konkrete Rechtsgeschäft entsteht, ist umstritten (MüKoBGB/Schubert, § 164, Rn. 239 ff.). 
+
+TABTAB&	e.A.: Anwendung der Regeln der §§ 177 ff. BGB analog
+TABTAB&	Arg.:& Wegen der evidenten Überschreitung des im Innenverhältnis geregelten rechtlichen Dürfens des Stellvertreters, liegt eine vergleichbare Interessenlage zur Situation des Vertreters ohne Vertretungsmacht vor. 
+
+TABTAB&	a.A.:& Das Rechtsgeschäft bleibt wirksam aber der Vertretene enthält gem. § 242 BGB eine Einrede wegen unzulässiger Rechtsausübung durch den Stellvertreter 
+TABTAB&	Arg.:& Der Vertreter hat im Außenverhältnis im Gegensatz zum falsus procurator Vertretungsmacht, daher können die §§ 177 ff. BGB nicht analog angewandt werden. Eine Korrektur ist nur über § 242 BGB zu erreichen. 
+
+TAB	Zu %P:% Kollusion
+TAB&	Kollusion& erfasst den Fall, in dem der Vertreter und der Vertragspartner bewusst zur Schädigung des Vertretenen zusammenwirken. Das Rechtsgeschäft, welches in diesem Fall durch den Vertreter abgeschlossen wird, ist gem. § 138 I BGB sittenwidrig und mithin nichtig, bindet den Vertretenen also nicht (MüKoBGB/Schubert, § 164, Rn. 227).
+
+TAB	Zu %P:% Insichgeschäft, § 181 BGB
+TAB	Nutzt der Vertreter seine Vertretungsmacht, um im Namen des Vertretenen mit sich selbst ein Rechtsgeschäft abzuschließen, liegt ein Verstoß gegen § 181 BGB vor, der solche Rechtsgeschäfte grundsätzlich für schwebende unwirksam erklärt. Eine nachträgliche Genehmigung im Sinne von § 177 BGB durch den Vertretenen ist jedoch möglich.
+
+	Wichtig ist hierbei, dass § 181 BGB nach ghM teleologisch zu reduzieren ist, wenn das Rechtsgeschäft für den Vertretenen lediglich rechtlich vorteilhaft ist (MüKoBGB/Schubert, § 181, Rn. 34). Mithin ist das Rechtsgeschäft in solchen Fällen trotz eines Insichgeschäfts wirksam.
+
+&%	gg. Rechtsfolgen
+	Die Vertretung mit Vertretungsmacht wirkt für und gegen den Vertretenen, vgl. § 164 I BGB.
+
+	Schließt jemand ohne Vertretungsmacht im Namen eines anderen einen Vertrag, so hängt die Wirksamkeit des Vertrages für und gegen den Vertretenen von dessen Genehmigung ab, §§ 177 I ff. BGB, siehe dazu das Schema zum Vertreter ohne Vertretungsmacht.
+
+%	II. Anspruch nicht erloschen
+%	III. Anspruch durchsetzbar
+
+
+%	Quellen:
+	Jauernig/Mansel, 18. Aufl. 2021, BGB § 164.
+	MüKoBGB/Spellenberg, 8. Aufl. 2020, EGBGB Art. 8.
+	MüKoBGB/Schubert, 9. Aufl. 2021, BGB § 164.
+	MüKoBGB/Schubert, 9. Aufl. 2021, BGB § 181.
+	MüKoBGB/Schubert, 9. Aufl. 2021, BGB § 179.
+	MüKoBGB/Schubert, 9. Aufl. 2021, BGB § 167.
+	Brox, Hans; Walker, Hans-Dietrich: Allgemeiner Teil des BGB, 44. Auflage 2020.
+	Medicus, Dieter; Petersen, Jens: Allgemeiner Teil des BGB, 11. Auflage, 2016.
+
+
+&	11.02.2023

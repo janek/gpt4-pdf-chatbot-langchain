@@ -1,0 +1,116 @@
+﻿Grundbegriffe BGB
+Definitionen
+
+Privatautonomie
+Unter Privatautonomie versteht man das Recht, seine privaten Rechtsverhältnisse im Rahmen der Rechtsordnung frei zu gestalten. Der Einzelne wird berechtigt Rechte und Pflichten zu begründen, zu ändern oder aufzuheben.
+Die Privatautonomie wurzelt auf der Allgemeinen Handlungsfreiheit nach Art. 2 I GG und der Selbstbestimmung des Menschen nach Art. 1 GG. Im Zivilrecht kommt sie durch die Vertragsfreiheit, die Eigentumsfreiheit, Eheschließungsfreiheit, Testierfreiheit, Vereinigungsfreiheit zum Tragen.
+
+Willenserklärung
+Eine Willenserklärung ist eine Erklärung (!) des Willens (!), welche auf die Herbeiführung einer gewollten Rechtsfolge gerichtet ist. Sie besteht aus objektivem und subjektivem Tatbestand.		
+
+Objektiver (äußerer) Tatbestand einer Willenserklärung
+Der objektive Tatbestand einer Willenserklärung (Erklärungstatbestand) setzt ein äußerlich erkennbares Verhalten voraus, das ausdrücklich oder konkludent auf einen dahinterstehenden konkreten Geschäftswillen (Rechtsbindungswillen) schließen lässt. In Ausnahmefällen erfüllt selbst ein Schweigen den objektiven Tatbestand einer Willenserklärung (z.B. Schweigen auf ein kaufmännisches Bestätigungsschreiben).
+
+Subjektiver (innerer) Tatbestand einer Willenserklärung
+Der subjektive Tatbestand einer Willenserklärung besteht aus drei Elementen, nämlich dem Handlungswillen, dem Erklärungsbewusstsein und dem Geschäftswillen.
+
+Konkludente Willenserklärung
+Bei der konkludenten Willenserklärung handelt es sich gerade nicht um eine ausdrückliche Erklärung, sondern um eine „Erklärung durch schlüssiges Verhalten“. 
+Bsp.: Kopfnicken beim Kauf von Brötchen oder Einsteigen in einen Bus.
+
+Handlungswillen
+Der Handlungswille als Teil des subjektiven Tatbestandes einer Willenserklärung, ist der Wille eine Handlung auch tatsächlich vornehmen zu wollen. 
+Dies scheidet bei Reflexen oder Drohungen (nicht willensgesteuertes Verhalten) aus. Fehlt der Handlungswille, so muss das Vorliegen einer Willenserklärung abgelehnt werden.
+
+Erklärungsbewusstsein
+Das Erklärungsbewusstsein als Teil des subjektiven Tatbestandes einer Willenserklärung, ist der Wille eine rechtsverbindliche (!) Handlung vorzunehmen. 
+Dieses scheidet bspw. aus, wenn eine Person auf einer Auktion seine Hand lediglich zur Begrüßung eines Freundes hebt. Eine Willenserklärung liegt vor, ist aber nach § 119 I BGB analog anfechtbar.
+
+Geschäftswille
+Der Geschäftswille als Teil des subjektiven Tatbestandes einer Willenserklärung, ist der Wille mit der konkreten rechtsverbindlichen Handlung eine konkrete rechtsverbindliche Rechtsfolge herbeizuführen. Fehlt der Geschäftswille, so liegt eine Willenserklärung dennoch vor, welche aber zur Anfechtung nach§§ 119 ff. BGB berechtigt.
+
+Auslegung von Willenserklärungen
+Empfangsbedürftige Willenserklärungen sind aus der Sicht eines objektiv vernünftigen Dritten in der Position des Erklärungsempfängers auszulegen. Es ist zu fragen, wie diese Person die Erklärung verstehen würde (objektiver Empfängerhorizont, §§ 133, 157 BGB).
+
+Essentialia negotii
+Jeder Vertrag muss die für ihn spezifischen wesentlichen Vertragsbestandteile (essentialia negotii)  enthalten. Beim Kaufvertrag sind dies Preis, Kaufgegenstand und die Vertragsparteien.
+
+Falsa demonstratio non nocet
+Meinen die Vertragsparteien das gleiche, benennen es aber gleichermaßen falsch, so findet eine Auslegung der Willenserklärungen ausnahmsweise nicht nach dem objektiven Empfängerhorizont statt, vielmehr ist das tatsächlich gewollte Erklärungsinhalt. Falsa demonstratio non nocet lässt sich übersetzen als „Falschbezeichnung schadet nicht“.
+
+Rechtsgeschäft
+Ein Rechtsgeschäft ist ein Tatbestand bestehend aus einer oder mehreren Willenserklärungen, die allein oder in Verbindung mit anderen Tatbestandsmerkmalen eine gewollte Rechtsfolge herbeiführen.
+
+Einseitiges Rechtsgeschäft
+Einseitige Rechtsgeschäfte führen beim Vorliegen von nur einer Willenserklärung bereits zu einem Rechtserfolg. Unterteilen lässt sich wie folgt: 
+- Einseitige Rechtsgeschäfte bestehend aus einer empfangsbedürftigen Willenserklärung (z.B. Kündigung, Anfechtung, Rücktritt) 
+- Einseitige Rechtsgeschäfte bestehend aus einer nichtempfangsbedürftigen Willenserklärung (z.B. Auslobung, § 657 BGB)
+
+Mehrseitiges Rechtsgeschäft
+Mehrseitige Rechtsgeschäfte lassen sich unterteilen in:
+- Einseitig verpflichtende Verträge (z.B. Schenkung nach § 516 BGB oder Leihe nach § 598 BGB)
+- Mehrseitig verpflichtende Verträge (z.B. Mietvertrag nach § 535 BGB oder Kaufvertrag nach § 433 BGB)
+
+Vertrag
+Ein Vertrag ist ein Rechtsgeschäft, in dem mindestens zwei Vertragspartner übereinstimmende (= konkludente) Willenserklärungen abgeben und hierdurch eine bestimmte Rechtsfolge erzielen wollen. Ein Vertrag ist vom Realakt und der geschäftsähnlichen Handlung zu unterscheiden.
+
+Angebot
+Ein Angebot ist eine einseitig empfangsbedürftige Willenserklärung, die einer anderen Person den Abschluss eines Vertrages in der Weise anträgt, dass sie den Vertrag mit einem bloßen „Ja“ zustande bringen kann. Ein Angebot setzt Abgabe und Zugang voraus. Es ist von einer invitatio ad offerendum zu unterscheiden.
+
+Konsens
+Ein Konsens (lat. consensus = „Übereinstimmung“) ist gegeben, wenn zwei übereinstimmende Willenserklärungen (Angebot und Annahme) vorliegen, die auf einen Vertragsschluss und somit auf das Herbeiführen einer bestimmten Rechtsfolge abzielen. Die Fallgruppe falsa demonstratio non nocet (Falschbezeichnung schadet nicht) stellt ebenfalls einen Konsens dar, obwohl die Willenserklärungen objektiv nicht übereinstimmen.
+
+Dissens
+Ein Dissens (lat. dissensus = „Uneinigkeit“) ist gegeben, wenn Angebot und Annahme nicht übereinstimmen. Entsprechend lässt diese mangelnde Einigung gerade keinen Vertrag entstehen. Unterschieden werden muss zwischen offenen und versteckten Dissens (§§ 154, 155 BGB).
+
+Offener Dissens, § 154 BGB
+Ein offener Dissens (offener Einigungsmangel) liegt vor, wenn sich die Parteien noch nicht vollständig über den Inhalt des Vertrages geeinigt haben, aber zumindest eine Partei über einen noch ausstehenden Punkt (Nebenregelung) eine Einigung erzielen möchte und somit beide Parteien wissen, dass eine vollständige Einigung noch aussteht. Beachte, dass bei Nichteinigung über die essentialia negotii (wesentliche Vertragsbestandteile) der § 154 BGB bereits nicht anwendbar ist, da er sich lediglich auf Nebenregelungen bezieht. 
+
+Geschlossener Dissens, § 155 BGB
+Ein geschlossener Dissens (versteckter Einigungsmangel) liegt vor, wenn sich die Parteien noch nicht vollständig über den Inhalt des Vertrages geeinigt haben, sich allerdings über einen noch ausstehenden Punkt (Nebenregelung) noch einigen wollten und beide Parteien sich dieser fehlenden Einigung nicht bewusst sind, weshalb sie den Vertrag als geschlossen ansehen. Kommt dennoch ein Vertrag zustande, so gilt diese Vereinbarung, wenn sich aus ergänzender Vertragsauslegung (§§ 133, 157 BGB) nichts Gegenteiliges ergibt. Beachte, dass bei Nichteinigung über die essentialia negotii (wesentliche Vertragsbestandteile) der § 155 BGB bereits nicht anwendbar ist, da er sich lediglich auf Nebenregelungen bezieht. 
+
+Invitatio ad offerendum
+Unter invitatio ad offerendum versteht man die Einladung ein Angebot abzugeben. Es handelt sich mithin nicht um ein Angebot, da der Rechtsbindungswillen fehlt.
+Bsp.: Prospekte, Schaufensterauslagen …
+
+Abgabe von Willenserklärungen
+Eine empfangsbedürftige Willenserklärung ist abgegeben, wenn sie willentlich in Richtung des Empfängers auf den Weg gebracht wird, so dass bei einem ungestörten Ablauf der Dinge mit dem Zugang gerechnet werden kann.
+
+Zugang von Willenserklärungen
+Eine empfangsbedürftige Willenserklärung ist zugegangen, wenn sie so in die Sphäre des Empfängers gelangt ist, dass unter normalen Umständen mit der Möglichkeit der Kenntnisnahme durch den Empfänger gerechnet werden kann.
+
+Nichtempfangsbedürftige Willenserklärungen
+Nichtempfangsbedürftige Willenserklärungen werden mit der Abgabe wirksam (z.B. Auslobung nach § 657 BGB oder Aufsetzen eines Testaments nach §§ 1937, 2247 BGB). 
+
+Empfangsbedürftige Willenserklärungen
+Empfangsbedürftige Willenserklärungen sind einer anderen Person gegenüber abzugeben, müssen dieser zugehen und diese Person muss die Erklärung wahrnehmen (z.B. Vertragsangebots- bzw. annahmeerklärung, Kündigungserklärung …).
+
+Realakt
+Ein Realakt ist eine Willensbetätigung rein tatsächlicher Art, welche kraft Gesetzes (!) und – anders als bei der Willenserklärung – gerade nicht kraft übereinstimmenden Willens eine Rechtsfolge auslöst. Es handelt sich dabei also um eine einfache Tathandlung und nicht um eine Erklärung, weshalb die Vorschriften über Rechtsgeschäfte (mithin auch die Regeln zur Geschäftsfähigkeit, Anfechtung etc.) keine Anwendung finden. 
+Bsp.: Übergabe der Sache im Rahmen der Eigentumsübertragung nach § 929 I BGB, Besitzerwerb nach § 854 BGB, Verbindung und Vermischung nach §§ 946 ff. BGB
+
+Geschäftsähnliche Handlung
+Eine geschäftsähnliche Handlung ist eine Erklärung, die auf einen tatsächlichen Erfolg gerichtet ist und eine Rechtsfolge kraft Gesetzes eintreten lässt, und zwar unabhängig davon, ob diese Rechtsfolge gewollt ist oder nicht. Die Vorschriften über Rechtsgeschäfte finden analog Anwendung.
+Bsp.: Fristsetzung nach § 281 I S. 1 BGB, Verlangen von Schadensersatz, Kaufmännisches Bestätigungsschreiben, Mahnung
+
+Trennungs- und Abstraktionsprinzip
+Das Trennungs- und Abstraktionsprinzip besagt, dass das Verpflichtungsgeschäft und Verfügungsgeschäft getrennte rechtliche Vorgänge (Trennungsprinzip) und in ihrer Wirksamkeit unabhängig sind, mithin eine Unwirksamkeit des Verpflichtungsgeschäfts die Wirksamkeit des Verfügungsgeschäfts nicht berührt und umgekehrt (Abstraktionsprinzip). 
+Bsp.: A und B einigen sich, dass A dem B sein neues IPhone verkauft (1 Verpflichtungsgeschäft). Danach übergibt und übereignet der A dem B das Handy und der B dem A das vereinbarte Geld (insg. 2 Verfügungsgeschäfte). Am nächsten Tag ficht der A den Kaufvertrag erfolgreich an, weshalb die Wirkung des § 142 BGB den Kaufvertrag, mithin das Verpflichtungsgeschäft erloschen lässt. Trotzdem bleibt A nun weiter Eigentümer des Geldes und B Eigentümer des Handys. In Folge ist § 812 BGB anzuwenden.
+
+Verpflichtungsgeschäft/Kausalgeschäft
+Das Verpflichtungsgeschäft als Kausalgeschäft bildet den Rechtsgrund (sog. causa) für das Verfügungsgeschäft und entsteht dadurch, dass sich eine Person gegenüber einer anderen Person zu der Übernahme einer Leistung verpflichtet.
+Bsp.: Kaufvertrag nach § 433 BGB, Mietvertrag nach § 535 BGB …
+
+Verfügungsgeschäft/Erfüllungsgeschäft
+Das Verfügungsgeschäft als Erfüllungsgeschäft stellt ein Rechtsgeschäft dar, durch das ein Recht unmittelbar übertragen, belastet, geändert oder aufgehoben wird.
+Bsp.: Übereignung des Eigentums an einer beweglichen Sache nach § 929 BGB, Abtretungsvertrag, Belastung eines Grundstücks mit einer Hypothek, Aufhebung eines Rechts durch den Erlassvertrag nach § 397 BGB …
+
+Anspruch
+Ein Anspruch ist nach § 194 BGB das Recht, von einem anderen ein Tun oder Unterlassen zu fordern.
+
+Anspruchsgrundlage	
+Eine Anspruchsgrundlage ist eine Norm, die an einen bestimmten Tatbestand bzw. an bestimmte Tatbestandsmerkmale eine konkrete Rechtsfolge knüpft und somit einen Anspruch entstehen lässt, aufgrund dessen von einem anderen ein Tun oder Unterlassen gefordert werden kann. 
+Bsp.: § 433 II BGB; § 280 I BGB; §§ 280 I, 311 II, 241 II BGB; 985 BGB; §§ 812 ff. BGB; §§ 823 ff. BGB
+
+Forderung
+Eine Forderung stellt einen Anspruch des Gläubigers gegenüber dem Schuldner dar, von diesem eine Leistung fordern zu können.			 

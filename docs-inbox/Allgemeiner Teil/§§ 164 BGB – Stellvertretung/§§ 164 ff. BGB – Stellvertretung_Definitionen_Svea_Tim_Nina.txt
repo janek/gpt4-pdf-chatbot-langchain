@@ -1,0 +1,48 @@
+﻿§§ 164 ff. BGB – Stellvertretung
+Definitionen
+
+Stellvertreter
+Ein Stellvertreter fasst einen eigenen Willen und gibt entsprechend auch eine eigene Willenserklärung ab.
+
+Bote
+Der Bote ist lediglich Übermittler einer von einem anderen gefassten Willenserklärung, weshalb die §§ 164 ff. BGB auf den Boten keine Anwendung finden.
+
+Offenkundigkeitsprinzip
+Der Vertreter muss offenkundig im Namen des Vertretenen handeln, damit der Vertragspartner weiß, mit wem er schlussendlich kontrahiert (Offenkundigkeitsprinzip).
+
+Unternehmensbezogene Geschäfte
+Unternehmensbezogene Geschäfte zeichnen sich dadurch aus, dass der Vertreter eben nicht ausdrücklich im Namen des Vertretenen handelt, es aber aus dem Sachzusammenhang für den Vertragspartner klar ist, dass sich lediglich der Vertretene rechtlich binden möchte. 
+
+Geschäft für den, den es angeht
+Bei einem Geschäft für den, den es angeht, erkennt der Vertragspartner nicht, dass ihm gegenüber ein Vertreter auftritt, er hat allerdings auch keinerlei Interesse an der Identität seines Gegenübers. Verpflichtet wird trotzdem der Vertretene. Insbesondere im Rahmen von Bargeschäften des täglichen Lebens relevant.
+
+Handeln unter falschem Namen
+In Fällen, in denen ein Handelnder bewusst unter falschem Namen auftritt, die Benutzung des fremden Namens beim Gegenüber aber keinerlei Fehlvorstellungen über die Identität des Handelnden hervorruft, da sie ihm gleichgültig ist und so oder so der Vertrag nur mit dem Handelnden abgeschlossen werden soll, wird auch nur dieser berechtigt und verpflichtet!
+
+Handeln unter fremdem Namen
+In Fällen, in denen ein Handelnder unter fremdem Namen handelt, also einen anderen Namen deshalb benutzt, um den Anschein zu erwecken eben diese Person zu sein, so finden die Regelungen der Stellvertretung analog (!) Anwendung, da es dem Gegenüber darauf ankam, mit der genannten Person den Vertrag einzugehen. Es handelt sich um einen Fall der Vertretung ohne Vertretungsmacht (falsus procurator).
+
+Vertretungsmacht
+Vertretungsmacht ist die Rechtsmacht, für einen anderen verbindlich Willenserklärungen abzugeben bzw. entgegenzunehmen, den anderen also rechtsgeschäftlich zu binden.
+
+Duldungsvollmacht
+Die Duldungsvollmacht zeichnet sich dadurch aus, dass der Vertretene um den Umstand tatsächlich weiß, dass ein Vertreter in seinem Namen handelt, dies aber nicht unterbindet, obwohl er dies hätte tun können.
+
+Anscheinsvollmacht
+Die Anscheinsvollmacht zeichnet sich dadurch aus, dass der Vertretene von einer Vertretung wissen müsste, es aber nicht verhindert. Es fehlt ihm die tatsächliche Kenntnis, dass er vertreten wird, der Dritte rechnet aber mit seinem Einverständnis.
+
+Innenverhältnis – Außenverhältnis
+Im Rahmen der Stellvertretung gibt es ein Innenverhältnis (Verhältnis zwischen Vertretenem und Vertreter) und ein Außenverhältnis (z.B. Vollmacht, welche den Vertreter zum Handeln ermächtigt). Das Innenverhältnis regelt das rechtliche Dürfen, das Außenverhältnis das rechtliche Können des Vertreters.
+
+Evidenter Missbrauch
+Ein evidenter Missbrauch der Vertretungsmacht liegt vor, wenn der Vertreter sein im Innenverhältnis bestehendes rechtliches Dürfen (aus dem Grundgeschäft, z.B. Auftrag im Sinne von § 662 BGB) im Außenverhältnis vorsätzlich überschritten oder bei Ausübung seiner rechtsgeschäftlichen Vollmacht sogar rechtswidrig gehandelt hat und dabei entgegen den Interessen des Vertretenen handelt.
+
+Kollusion
+Kollusion erfasst den Fall, in dem der Vertreter und der Vertragspartner bewusst zur Schädigung des Vertretenen zusammenwirken. Das Rechtsgeschäft, welches in diesem Fall durch den Vertreter abgeschlossen wird, ist gem. § 138 I BGB sittenwidrig und mithin nichtig, bindet den Vertretenen also nicht.
+
+Insichgeschäft, § 181 BGB
+Nutzt der Vertreter seine Vertretungsmacht, um im Namen des Vertretenen mit sich selbst ein Rechtsgeschäft abzuschließen, liegt ein Verstoß gegen § 181 BGB vor, der solche Rechtsgeschäfte grundsätzlich für schwebende unwirksam erklärt. Eine nachträgliche Genehmigung im Sinne von § 177 BGB durch den Vertretenen ist jedoch möglich.
+
+Falsus procurator
+Der falsus procurator ist der Vertreter ohne Vertretungsmacht, der eine Willenserklärung abgegeben hat, dazu aber nicht berechtigt war. Das Geschäft ist schwebend unwirksam, bis zur Genehmigung des Geschäftsherrn, § 177 I BGB.
+
