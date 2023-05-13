@@ -13,7 +13,11 @@ async function copyPDFs(
 
       if (item.isDirectory()) {
         await copyPDFs(itemPath, destinationDirectory);
-      } else if (item.isFile() && path.extname(item.name) === '.pdf') {
+      } else if (
+        item.isFile() &&
+        path.extname(item.name) === '.pdf' &&
+        item.name.includes('Schema')
+      ) {
         const destinationPath = path.join(destinationDirectory, item.name);
         await fs.copyFile(itemPath, destinationPath);
       }
