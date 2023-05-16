@@ -1,13 +1,15 @@
 import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter';
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
-import { PineconeStore } from 'langchain/vectorstores/pinecone';
-import { pinecone } from '@/utils/pinecone-client';
 import { CustomPDFLoader } from '@/utils/customPDFLoader';
-import { PINECONE_INDEX_NAME, PINECONE_NAME_SPACE } from '@/config/pinecone';
 import { DirectoryLoader } from 'langchain/document_loaders/fs/directory';
+import { SupabaseVectorStore } from 'langchain/vectorstores/supabase';
+import { createClient } from '@supabase/supabase-js';
 
 /* Name of directory to retrieve your files from */
 const filePath = 'docs';
+const url = '';
+const privateKey =
+  '';
 
 export const run = async () => {
   try {
@@ -31,14 +33,16 @@ export const run = async () => {
     console.log('creating vector store...');
     /*create and store the embeddings in the vectorStore*/
     const embeddings = new OpenAIEmbeddings();
-    const index = pinecone.Index(PINECONE_INDEX_NAME); //change to your own index name
+
+    const client = createClient(url, privateKey);
 
     //embed the PDF documents
-    await PineconeStore.fromDocuments(docs, embeddings, {
-      pineconeIndex: index,
-      namespace: PINECONE_NAME_SPACE,
-      textKey: 'text',
+    await SupabaseVectorStore.fromDocuments(docs, embeddings, {
+      client,
+      tableName: 'documents',
+      queryName: 'match_documents',
     });
+    
   } catch (error) {
     console.log('error', error);
     throw new Error('Failed to ingest your data');
